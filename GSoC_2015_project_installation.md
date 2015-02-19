@@ -40,6 +40,9 @@ In addition, we want the Python bindings to be installable as:
 ### Waypoints and initial work
 See above. Initial work would be to start prototyping a solution for one of the above systems. Pick any.
 
+#### Related entrance issues:
+ * [#2720](https://github.com/shogun-toolbox/shogun/issues/2720).
+
 ### Optional
 The possible optional part of the project is to provide a series of videos or blog posts that show how easy one can install Shogun with all the work carried out during the project.
 
