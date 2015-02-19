@@ -1,4 +1,4 @@
-# Project title
+# Debiasing as a fast alternative to batch computations in Gaussian process Regression
 
 ### Mentors
  * [Dino Sejdinovic](http://www.csml.ucl.ac.uk/people/sejdinovic)ub: [sejdino] (gith(https://github.com/sejdino))
