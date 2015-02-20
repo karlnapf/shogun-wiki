@@ -6,7 +6,7 @@
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
 
 ### Description
-Last year as a part of one GSoC project this venture was started. This year we aim at finalizing and polishing Shogun's [internal library for linear algebra](README_linalg). The goal is explore modern C++ linear algebra libraries to exploit their CPU/GPU powered linear algebra operations for Shogun and in turn offer Shogun algorithm coders a simple, uniform *backend independent* interface that they can use for their linear algebra calls using those libraries. Rather than writing implementation against a particular backend (that we currently do using Eigen3, Lapack, ViennaCL and Shogun's native implementation), algorithms should be written against `linalg`. This allows to
+This venture was started as a part of one GSoC project last year. This year we aim at finalizing and polishing Shogun's [internal library for linear algebra](README_linalg). The goal is explore modern C++ linear algebra libraries to exploit their CPU/GPU powered linear algebra operations for Shogun and in turn offer Shogun algorithm coders a simple, uniform *backend independent* interface that they can use for their linear algebra calls using those libraries. Rather than writing implementation against a particular backend (that we currently do using Eigen3, Lapack, ViennaCL and Shogun's native implementation), algorithms should be written against `linalg`. This allows to
 - change backends at compile time, and 
 - in particular makes our algorithms independent of the current trend in linear algebra software. 
 - It also will allow to put many operations on GPUs *without* having to change the implementation (to an extend).
