@@ -1,7 +1,9 @@
 # Fundamental Machine Learning Algorithms, Part 2
 **Linear Latent Gaussian Models: Linear and non-linear output**
 
-Continuing where we stopped [last year](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/mazumdarparijat/5738600293466112). Project proposed by [Alessandro](https://github.com/ialong)
+Fundamental ML, continuing where we stopped [last year](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/mazumdarparijat/5738600293466112).
+
+Project proposed by [Alessandro](https://github.com/ialong)
 
 
 ### Mentors
