@@ -52,6 +52,9 @@ Presently, a handful of operations are there in `linalg`, spread over two differ
  * OpenMP [Optional]
 
 ### Waypoints and initial work
+ * First of all, make sure you can compile and install Shogun on your machine.
+ * Eigen3, OpenCL/ViennaCL, Lapack/cblas has to be installed as well. They are available in most of the standard repos (use the `devel` pack)
+ * Make sure all the linalg unit-tests are running on your machine.
  * Keep an eye on the [Github issues page](https://github.com/shogun-toolbox/shogun/issues) for related issues.
 
 ### Useful resources
