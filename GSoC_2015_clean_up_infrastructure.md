@@ -61,7 +61,7 @@ Here are some sub-projects. We are open for more:
   it less code, make it less NIH.
 
 * Redesign data classes.
-  tl;dr: Being an software architect.
+  tl;dr: Being a software architect.
 
   The foundation of every learning problem is data structures to be
   used by all algorithms.  Dense/Sparse Features, for instance, or
