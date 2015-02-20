@@ -1,4 +1,4 @@
-# Hidden Markov Models for gene imputation
+# Hidden Markov Models for geneotype imputation
 Cleaning up Shogun's HMMS and implementing a gene imputation pipeline
 
 ### Mentors
