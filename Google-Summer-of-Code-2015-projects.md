@@ -35,6 +35,7 @@ The projects we would like to limit in numbers.
  * [Density Estimation in Infinite Dimensional Exponential Families](GSoC_2015_project_kernel_infinite_exponential)
  * [Hip Deep learning](GSoC_2015_project_deep_learning)
  * [Debiasing & Cluster computing](GSoC_2015_project_debiasing)
+ * [Large Scale Gaussian Processes](GSoC_2015_project_large_gps)
 
 ### Framework
  * [Independent jobs Framework](GSoC_2015_cluster_shogun)
