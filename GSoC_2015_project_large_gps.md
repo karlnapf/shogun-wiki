@@ -13,7 +13,7 @@ You need know
  * Linear Algebra in C++
 
 ### Description
-High level description/abstract
+Following last year's successful project on [variational learning for Big Data](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas#variational_learning), we attempt to bring Shogun's Gaussian Processes (GP) to Big Data land. From a high level perspective, this means that the goal is to implement established methodology on how to scale up GPs to be able to process hundreds of thousands of points. The focus is on regression and classification. As this year's GSoC focusses partly on applications, the project contains a second part where we apply those models to real-world datasets.
 
 ### Details
 Write about details of the project here.
