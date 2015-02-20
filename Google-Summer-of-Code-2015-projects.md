@@ -3,7 +3,6 @@ Please create a new wiki page for each project that you describe (to keep this p
 
 # Main focus
 This year's GSoC is about improving Shogun, rather than extending it. Exceptions allowed.
-**ALL** students will be required to document existing Shogun code on a weekly basis during GSoC.
 
  * *Fewer* new algorithms. Rather improve existing ones: Usability, efficiency, documentation, application
  * *Fewer* students. More intense mentoring, interaction between students, blogging, documenting
@@ -19,6 +18,8 @@ This year's GSoC is about improving Shogun, rather than extending it. Exceptions
 **[Mentors (and students) this year](GSoC_2015_mentors_students_)**
 
 # Projects
+**ALL** students will be required to document existing Shogun code on a weekly basis during GSoC. We need a list of all methods in Shogun, along with slim documentation on how to use them. Details to follow!
+
 ## Improving Shogun
 These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering.
 
