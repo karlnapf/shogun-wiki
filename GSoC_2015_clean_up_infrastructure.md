@@ -4,6 +4,7 @@
  * [Thoralf](Thoralf%20Klein) (github: [tklein](https://github.com/tklein23))
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
+ * [Soumyajit](Soumyajit%20De%20[Rahul]) (github: [lambday](https://github.com/lambday), IRC: lambday)
 
 ### Difficulty & Requirements
 Medium, but requires a lot of initiative and willingness to dive into existing code (that is not pretty)
