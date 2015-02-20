@@ -3,6 +3,7 @@ Please create a new wiki page for each project that you describe (to keep this p
 
 # Main focus
 This year's GSoC is about improving Shogun, rather than extending it. Exceptions allowed.
+**ALL** students will be required to document existing Shogun code on a weekly basis during GSoC.
 
  * *Fewer* new algorithms. Rather improve existing ones: Usability, efficiency, documentation, application
  * *Fewer* students. More intense mentoring, interaction between students, blogging, documenting
@@ -19,23 +20,28 @@ This year's GSoC is about improving Shogun, rather than extending it. Exceptions
 
 # Projects
 ## Improving Shogun
+These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering.
+
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
  * [Native MS Windows port](GSoC_2015_windows)
- * [HMMs for biological data](GSoC_2015_project_hmms)
+ * [Improve Shogun infrastructure](GSoC_2015_clean_up_infrastructure)
  * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
+ * [HMMs for biological data](GSoC_2015_project_hmms)
  * [Shogun cloud extensions](GSoC_2015_cloud_shogun)
+ * [Native MS Windows port](GSoC_2015_windows)
  
 ## Extending Shogun:
 The projects we would like to limit in numbers.
 
 ### Algorithms
  * [Fundamental ML 2: LGSSMs](GSoC_2015_project_fundamental)
+ * [Large Scale Gaussian Processes](GSoC_2015_project_large_gps)
+ * [Hip Deep learning](GSoC_2015_project_deep_learning)
  * [Solver for the KKT System](GSoC_2015_project_kkt)
  * [LP/QP Framework](GSoC_2015_project_lpqp)
  * [Density Estimation in Infinite Dimensional Exponential Families](GSoC_2015_project_kernel_infinite_exponential)
- * [Hip Deep learning](GSoC_2015_project_deep_learning)
  * [Debiasing & Cluster computing](GSoC_2015_project_debiasing)
- * [Large Scale Gaussian Processes](GSoC_2015_project_large_gps)
+
 
 ### Framework
  * [Independent jobs Framework](GSoC_2015_cluster_shogun)
