@@ -46,5 +46,5 @@ The automatic differentiation of Stan is something any ML toolbox should take ad
 ### Why this is cool
 Stan is an übercool project to learn about. MCMC is an amazing inference technique that will massively broaden Shogun's applicability. It is in particular cool to contemplate our growing set of fixed approximate inference algorithms with the full MCMC alternative. There does not exist a tool which contains *both* MCMC and fast approximate inference for a general set of Bayesian models. Automatic differentiation is a fascinating tool which should be used whenever gradients are needed -- no more manual derivations (with mistakes) and implementations (with more mistakes).
 
-### Useful ressources
+### Useful resources
  * [Stan website](http://mc-stan.org/)
