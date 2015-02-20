@@ -13,17 +13,20 @@ You need know
  * Linear Algebra in C++
 
 ### Description
-Following last year's successful project on [variational learning for Big Data](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas#variational_learning), we attempt to bring Shogun's Gaussian Processes (GP) to Big Data land. From a high level perspective, this means that the goal is to implement established methodology on how to scale up GPs to be able to process hundreds of thousands of points. The focus is on regression and classification. As this year's GSoC focusses partly on applications, the project contains a second part where we apply those models to real-world datasets.
+Following last year's successful project on [variational learning for Big Data](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas#variational_learning), we attempt to bring Shogun's Gaussian Processes (GP) to Big Data land. From a high level perspective, this means that the goal is to implement established methodology on how to scale up GPs to be able to process hundreds of thousands of points. The focus is on regression and classification. We also focuss on applications of GPs to big data where we will consider application to recommendation systems and to learning preferences of people in a social network.
 
 ### Details
+ * Sparse GP approximations.
  * Stochastic Variational inference (regression & classification)
  * Distributed GP (possibly touching the Shogun cluster project)
  * Applications
 
 ### Waypoints and initial work
- * Step 1
- * Step 2
- * ...
+ * Extend current GP implementation to sparse approximation.
+ * Implement variational inference for sparse approximation (Titsias' method).
+ * Implement Stochastic variational inference for GP latent variable model.
+ * Apply to large scale recommendation systems.
+ * Make beautiful demos.
 
 ### Optional
 
@@ -35,7 +38,7 @@ Other:
  * Deep GP
 
 ### Why this is cool
-Motivation to get involved here.
+Our primary goal is to scale up GPs to make it possible to apply GPs to many such applications useful for big data. GPs are becoming more and more popular for big data since not only they provide accurate predictions but they also tell us how confident we should be about our prediction (aka uncertainty quantification) and that whether we have selected the right model (aka model selection). These issues are even more relevant in the era of big data since the amount of noise also increases with the amount of data. Recent work extends the use of GPs beyond regression and classification, to a wide range of appliations from numerical optimization to recommendation system and even to deep networks, making GPs a popular choice. The main bottleneck in these applications is scalability and we want to make easy-to-use scalable code which will help the use of GPs for the machine learning community even more. 
 
 ### Useful ressources
  * [Gaussian Processes for Big data](http://auai.org/uai2013/prints/papers/244.pdf)
