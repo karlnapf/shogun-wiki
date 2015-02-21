@@ -17,7 +17,7 @@ The goal is not to write a complete linear algebra library on our own, but at le
  * eigen solvers
  * applying the same operation to every element of a large matrix
  * dot products
- * various utilities (get/set diagonal, fill, get/set columns, supporting block based operations etc)
+ * various utilities (get/set diagonal, fill, get/set columns, matrix-vector multiplication, supporting block based operations etc)
 
 ### Why this is cool
 This project will massively increase both performance and sustainability of Shogun. We will get parallelism of many algorithms for free and at the same time open up ways for using different, better, backends (such as GPUs) in the future. It will furthermore allow to write algorithms without knowledge of backend internals. Nobody wants to deal with Lapack API directly ;)
