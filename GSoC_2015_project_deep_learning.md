@@ -4,7 +4,6 @@ Taking [last year's project](https://www.google-melange.com/gsoc/project/details
 
 ### Mentors
  * [Theofanis Karaletsos](http://cbio.mskcc.org/directory/theofanis-karaletsos/index.html)
- * [Gunnar Rätsch](http://cbio.mskcc.org/research/ratsch-research-group/)
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
 
 ### Difficulty & Requirements
@@ -19,7 +18,12 @@ Pretty difficult. Requires:
 
 ### Description
 
-Last year we had an introductory project completed by Khaled Nasr on deep learning which introduced most essential components to use neural networks with Shogun. This project considers extending and improving things we already have with some cutting edge algorithms.
+Last year we had an introductory project completed by Khaled Nasr on deep learning which introduced most essential components to use neural networks with Shogun.
+The content of that project was to implement most common feedforward architectures, autoencoders and boltzmann machines. 
+This year we wish to devote more time to deep directed generative models with a Bayesian treatment of parameter learning. Generative models are immensely powerful for many tasks and using deep networks to parametrize exponential family distributions in the form of sigmoid belief networks is an old idea that recently has received a lot of attention with astounding results.
+We aim to include the newest results on that field in Shogun to facilitate many applied settings.
+The project will include implementation of variational inference machinery for graphical models with factors given by MLPs, optimization methods and applications.
+The first part is heavy on mathematics and will require good understanding of probability theory and graphical models. The second part consists of including various stochastic optimizers into shogun, as just stochastic gradient decent is not enough nowadays to train complex models well. The third part will consist of delivering convincing demonstrations of speed, performance and scalability of the implemented models in a series of applications. Given time, we will also offer the chance to explore novel developments in this field.
 
 ### Details
 
@@ -50,6 +54,7 @@ Most importantly, in recent attempts deep learning is getting the benefit of a b
 
 ### Entrance level tasks
 
+-[Implement stochastic optimizer ADAM] (http://arxiv.org/abs/1412.6980)
 - [Implement new initializations for neural nets as per MSR paper](https://github.com/shogun-toolbox/shogun/issues/2700)
 - [~~Add leaky ReLU neural layer~~](https://github.com/shogun-toolbox/shogun/issues/2699)
 - [Reproduce "Text understanding from scratch" neural model with a notebook](https://github.com/shogun-toolbox/shogun/issues/2701)
