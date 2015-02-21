@@ -63,5 +63,6 @@ Presently, a handful of operations are there in `linalg`, spread over two differ
  * [`template` and `typename` in C++](http://eigen.tuxfamily.org/dox/TopicTemplateKeyword.html)
  * [Eigen3 doc](http://eigen.tuxfamily.org/dox/index.html)
  * [A Gentle Introduction to OpenCL](http://www.drdobbs.com/parallel/a-gentle-introduction-to-opencl/231002854)
+ * [A nice video tutorial on OpenCL](https://www.youtube.com/playlist?list=PLTfYiv7-a3l7mYEdjk35wfY-KQj5yVXO2)
  * [ViennaCL doc](http://viennacl.sourceforge.net/doc/)
  * [Numerical Linear Algebra by Trefethen and Bau](https://javierolivares.files.wordpress.com/2009/04/numerical-linear-algebra-trefethenbau.pdf)
