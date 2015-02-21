@@ -56,7 +56,7 @@ Most importantly, in recent attempts deep learning is getting the benefit of a b
 -[Implement a recurrent neural network](http://www.icml-2011.org/papers/532_icmlpaper.pdf)
 -[Implement LSTM (long short term memory)] (http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)
 -[Implement stochastic optimizer with Hessian Free Optimization] (http://www.icml-2011.org/papers/532_icmlpaper.pdf)
--[Implement stochastic optimizer ADAM] (http://arxiv.org/abs/1412.6980)
+-[Implement stochastic optimizer rmsProp] (find link in http://arxiv.org/abs/1412.6980)
 - [Implement new initializations for neural nets as per MSR paper](https://github.com/shogun-toolbox/shogun/issues/2700)
 - [~~Add leaky ReLU neural layer~~](https://github.com/shogun-toolbox/shogun/issues/2699)
 - [Reproduce "Text understanding from scratch" neural model with a notebook](https://github.com/shogun-toolbox/shogun/issues/2701)
