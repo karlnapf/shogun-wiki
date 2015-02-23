@@ -41,7 +41,7 @@ Here is a very basic list of things how to get started hacking Shogun. It requir
 
 1. Register on GitHub.
 2. Fork the shogun repository.
-3. Clone your fork locally, add the orignal (our) repository as upstream (in order to rebase your clone). Create a develop branch locally and rebase it against the upstream. For example using git pull --rebase upstream develop.
+3. Clone your fork locally, add the orignal (our) repository as upstream (in order to rebase your clone). If it does not exist yet, create locally a new branch called develop. Then, rebase it against the upstream. For example using git pull --rebase upstream develop. If you did your fork recently, your develop branch will probably be already up to date with upstream develop. In any case, it is a good practice to check and synchronise your develop branch with upstream develop from time to time to receive the latest changes made by other contributors.
 4. Create a new feature branch locally, work (and commit your work) in there. When done, merge this (possibly with the squash option) to your local develop branch. If you want, use [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/) (search in the [archives of our mailing list](http://blog.gmane.org/gmane.comp.ai.machine-learning.shogun) for more information about how we are using Git flow).
 5. Push the changes to your fork on github.
 6. Send a pull request against the development branch of the original Shogun repository.
