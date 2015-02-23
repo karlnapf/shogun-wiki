@@ -29,7 +29,6 @@ These are roughly ordered in our priority in them. Most of them *do not* focus o
  * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
  * [HMM cleanup and application](GSoC_2015_project_hmms)
  * [Shogun cloud extensions](GSoC_2015_cloud_shogun)
- * [Native MS Windows port](GSoC_2015_windows)
  
 ## Extending Shogun:
 The projects we would like to limit in numbers.
