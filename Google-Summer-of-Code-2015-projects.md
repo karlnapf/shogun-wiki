@@ -25,6 +25,7 @@ These are roughly ordered in our priority in them. Most of them *do not* focus o
 
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
  * [Native MS Windows port](GSoC_2015_windows)
+ * [Framework for plugin-based architecture](GSoC_2015_plugin)
  * [A Shogun Detox](GSoC_2015_clean_up_infrastructure)
  * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
  * [HMM cleanup and application](GSoC_2015_project_hmms)
