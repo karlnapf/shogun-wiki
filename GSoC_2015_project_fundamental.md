@@ -21,13 +21,14 @@ You need:
  * Variational & EP approximations
 
 ### Description
-A number of fundamental Machine Learning models and algorithms will be implemented as part of this project. The focus is on latent linear models, namely ones comprising a set of latent variables which have a linear relation among themselves and/or the observed variables. In their simplest form (PPCA and Factor Analysis) these models represent the observed variables as a noisy linear transformation of the marginally independent latents. If we apply this sort of structure to time-series analysis, the most essential model (the Linear Gaussian State Space Model) features a "chain" of latent variables encoding the linear-Gaussian evolution of the system. At each time-step, an observation is generated as a linear transformation of the latent variable plus Gaussian noise. 
+A number of fundamental Machine Learning models and algorithms will be implemented as part of this project. The focus is on latent linear models, namely ones comprising a set of latent variables which have a linear relation among themselves and/or the observed variables. In their simplest form (PPCA and Factor Analysis) these models represent the observed variables as a noisy linear transformation of the marginally independent latents. If we apply this sort of structure to time-series analysis, the most essential model (the Linear Gaussian State Space Model) features a "chain" of latent variables encoding the linear-Gaussian evolution of the system (a first order autoregressive process is the simplest example). At each time-step, an observation is generated as a linear transformation of the latent variable plus Gaussian noise. 
 In this setting, inference on the latent variables is exact and learning can be carried out effectively (through EM or spectral methods). However, if we relax the assumption of Gaussianity of the output noise and take the observed variables to be generated according to a Generalized Linear Model (GLM), parameterized by a linear transformation of the latents, inference becomes intractable. We gain greatly, though, in terms of the expressiveness of the model as we can now describe data-points following all sorts of distributions (especially exponential family ones, using canonical link functions). Hence, in this case, we would like to apply various approximation methods to exploit this powerful model.
  
 ### Details
 Overall, the following should be implemented.
 
 **Models:**
+ * Autoregressive Process (AR(p))
  * PPCA
  * Factor Analysis
  * Linear Gaussian State Space Model (LGSSM)
@@ -37,7 +38,7 @@ Overall, the following should be implemented.
  * Expectation Maximization (as a general framework, for both the exact and the approximate setting)
  * (Kalman) Filtering
  * (Kalman) Smoothing
- * Spectral/SSID Methods (Ho-Kalman and non-linear Ho-Kalman [6]) 
+ * Spectral/SSID Methods (e.g. Ho-Kalman and non-linear Ho-Kalman [6]) 
  * Approximate inference:
    * Variational Inference
    * Expectation Propagation
