@@ -45,4 +45,4 @@ This is a list of topics to address when all Shogun developers get together. We 
 * If you know examples that scale better in other frameworks, please document them here, so we can investigate:
  * ...
 * Better support of sparse-datastructures and online-algorithms.
-
+* Interface with [MOE](https://github.com/Yelp/MOE) for better model selection
