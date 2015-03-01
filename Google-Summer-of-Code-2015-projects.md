@@ -29,6 +29,7 @@ These are roughly ordered in our priority in them. Most of them *do not* focus o
  * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
  * [Flexible modelselection 2](GSoC_2015_project_modelselection)
  * [HMM cleanup and application](GSoC_2015_project_hmms)
+ * [SWIG, Matlab & modular interfaces](GSoC_2015_project_swig)
  * [Framework for plugin-based architecture](GSoC_2015_plugin)
  
 ## Extending Shogun:
