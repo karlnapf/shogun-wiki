@@ -51,7 +51,10 @@ The project consists of two major themes, which perfectly fit into our GSoC 2015
  * ...
 
 ***Provide new ML pipeline tools***
- * Integrate new algorithms for modelselection (CMA/MOE)
+ * Interface with MOE
+ * Interface with CMA-ES
+ * Write cool notebooks that illustrate the power of the new framework
+ * ***Document*** (current framework is poorly documented)
 
 ### Optional
 As modelselection often is expensive, an optional part of the project could investigate how to scale up the process using parallel computing, see the [independent jobs project](https://github.com/shogun-toolbox/shogun/wiki/GSoC_2015_cluster_shogun). This would involve extending Shogun's computing interface to make use of multi-core or multi-machine backends. Depending on how ambitious the student is.
