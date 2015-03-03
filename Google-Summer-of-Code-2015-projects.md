@@ -1,3 +1,8 @@
+# UPDATE:
+Unfortunately, we were not selected for GSoC this year. As a consequence, summer of 2015 will be more calm for us. This allows us to focus on internal clean-ups that were meant to be the main goal of this year's GSoC projects. Naturally, these tasks are easier for people who are experienced with Shogun. In this sense, it actually good for us to have the ressources that usually go into mentoring/admin available for other tasks. We will apply again next year for sure!
+
+If you are interested in particupating, feel free to get back to us. We have a couple of students/mentors who will do a project even without the Google funding. It's still open-source and everyone is welcome to join :)
+
 # A list of potential GSoC 2015 projects.
 To add, please create a new wiki page for each project that you describe. Name them as "GSoC_2015_project_MCMC" etc. Here is a [template](GSoC_2015_project_template).
 
