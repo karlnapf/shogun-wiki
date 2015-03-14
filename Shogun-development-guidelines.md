@@ -9,7 +9,7 @@
 
 
 ## Testing, examples, documentation
-* [Integration-testing (almost empty)](Integration-testing)
+* [Integration-testing](Integration-testing)
 * [API examples (empty)](API-examples)
 * [IPython notebooks (empty)](IPython-notebooks)
 
