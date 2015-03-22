@@ -1,4 +1,4 @@
-# Large-Scale Gaussian Processes
+# Large-scale statistical testing
 
 ### Mentors
  * [Marius](https://www2.informatik.hu-berlin.de/~kloftmar/)
