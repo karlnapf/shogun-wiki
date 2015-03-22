@@ -49,6 +49,7 @@ The projects we would like to limit in numbers.
  * [LP/QP Framework](GSoC_2015_project_lpqp)
  * [Density Estimation in Infinite Dimensional Exponential Families](GSoC_2015_project_kernel_infinite_exponential)
  * [Debiasing & Cluster computing](GSoC_2015_project_debiasing)
+ * [Large scale statistical testing](GSoC_2015_project_large_testing)
 
 
 ### Framework
