@@ -14,6 +14,7 @@ The Shogun Team  {#authors}
  * [Viktor Gal, irc: wiking](Viktor Gal)
  * [Björn Esser, irc: besser82](Bjoern Esser)
  * [Thoralf Klein, irc: thoralf](Thoralf Klein)
+ * [Wu Lin, irc: yorkerlin](Wu Lin)
 
 ## Inactive members:
  * Christian Widmer
