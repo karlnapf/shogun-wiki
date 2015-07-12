@@ -3,7 +3,7 @@
  * [Mentor summit discussions (Fernando, Thoralf, Heiko)](GSoC-2014-results)
 
 ## Stammtisch
- * [July 13, 2015](2015-07-15-Stammtisch)
+ * [July 13, 2015](Stammtisch 2015-07-15)
 
 ## Random discussions
  * [Building a proper manual (Feb. 18, 2015, ~1hr)](http://www.shogun-toolbox.org/irclogs/%23shogun.2015-02-18.log.html#t17:02)
