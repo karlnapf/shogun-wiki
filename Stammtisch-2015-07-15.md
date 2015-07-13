@@ -6,6 +6,7 @@ Some points to bring up (feel free to add)
  * Revive Shogun activity: Next projects, current projects
    * Website 2.0
    * Installation state?
+   * Linalg state
    * Shogun manual project
    * AER progress / hackathon
    * Welcome Alessandro and his [project](GSoC_2015_project_fundamental)
