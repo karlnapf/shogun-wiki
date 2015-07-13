@@ -3,6 +3,7 @@ Some points to bring up (feel free to add)
 
  * Meet for first time in a while
  * Thoralf: ```fork(void);```
+ * Say hello to [Wu](Wu Lin)
  * Revive Shogun activity: Next projects, current projects
    * Website 2.0
    * Installation state?
