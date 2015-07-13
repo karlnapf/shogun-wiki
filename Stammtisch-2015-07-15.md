@@ -11,4 +11,4 @@ Some points to bring up (feel free to add)
    * Welcome Alessandro and his [project](GSoC_2015_project_fundamental)
 
 ## IRC log
-To come
+http://www.shogun-toolbox.org/irclogs/%23shogun.2015-07-13.log.html#t19:58
