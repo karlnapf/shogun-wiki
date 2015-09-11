@@ -37,7 +37,7 @@ be found in the PATH. If it is not found shogun will resort to GLPK (if found)
 for 1-norm MKL, p-norm MKL with p>1 will work nonetheless.
 
 ##MINIMUM REQUIREMENTS TO BUILD SHOGUN FROM SOURCE CODES
-You need at least 1 Gigabyte free disk space and 4 Gigabyte RAM to build Shogun from source codes.
+You need at least 1 Gigabytes free disk space and 4 Gigabytes RAM to build Shogun from source codes.
 
 The compiler will use a lot of RAM and your computer will be slow if you do not have enough RAM for the compiler.
 
