@@ -1,3 +1,8 @@
+Tags
+====
+
+Tags are fast and type-safe way to set and get parameters
+
 Tag<int> intParameter;
 
 object.set(intParameter, 3)
