@@ -1,9 +1,19 @@
+Sergey and Heiko at NIPS 2015. We plan to re-work Shogun's parameter framework. The goal is to have
+
+ * an easier syntax
+ * Work towards allowing plugins for Shogun
+ * Clean up the CSGObject base class
+
+This is done via adding two approaches to change Shogun parameters.
+ * String based: for Shogun users, wrong usage produces run-time errors, easy syntax (also in SWIG), slow
+ * Tag (C++ struct) based: for Shogun devs, type-safe (in C++) at compile time, fast, for internal use (ugly interface via SWIG)
+
 Tags
 ====
 
-Tags are fast and type-safe way to set and get parameters
+Tags are fast and type-safe way to set and get parameters. Here is a snippet how this could work.
 
-Tag<int> intParameter;
+```Tag<int> intParameter;
 
 object.set(intParameter, 3)
 
@@ -14,6 +24,8 @@ template <typename T>
 void set(string name, T value)
 
 T = int/double/ CKernel/CClassifier/
+```
+
 
 CKernel* shogun.kernel("gaussian")
 
