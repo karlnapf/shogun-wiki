@@ -58,7 +58,12 @@ kernel.set("width", "твою мать");
 Plugins
 =======
 
-The parameters thing enables us to implement plugins seamlessly because we don't have to export all class interfaces explicitly.
+The parameters thing enables us to implement plugins seamlessly because we don't have to export all class interfaces explicitly. Advantages of plugins are:
+
+* No need to recompile whole Shogun when you develop some other implementation
+* Base shogun would have no dependencies on some crazy libraries so we can easily install it to any platform. Plugins would bother with concrete libraries and we get 
+* We can have 'frozen' implementation of base shogun that actually could be installed and never touched again. Plugins could change arbitrary
+* Scientists could use Shogun again as they don't have to bother with compiling base shogun
 
 In Python (and any other swig-supported language) it would look like (remember `CKernel` was chosen to be a *base class* of shogun, so we provide it in the interface):
 
@@ -77,3 +82,59 @@ Due to Python's flexibility we also have possibility to use prettier syntax:
 ```
 kernel = shogun.kernel.gaussian
 ```
+
+Basically, a plugin would be a set of classes orchestrated by one plugin class:
+
+```
+
+#include <myplugin/myclassifier.h>
+
+class MyPlugin : public shogun::Plugin
+{
+   void register()
+   {
+      provides<MyClassifier>();
+   }
+}
+```
+
+Some plugins would require other plugins, it would be handled via:
+
+```
+      requires<Distribution>("gaussian");
+```
+
+There is no constraint on possible dependency cycles, we can just load any required plugin. Plugins could be loaded automatically when you request it:
+
+```python
+import shogun
+print Hello world
+
+# actual loading of .so/.dylib/.dll happens there
+kernel = shogun.kernel("gaussian");
+```
+
+Every algorithm, every kernel, every whatever would have a separate plugin and they can be grouped together to provide some reproducible code for some NIPS paper.
+
+Next steps
+==========
+
+We would have to make the following steps (each include proper unit-testing, we should go for 100% test coverage) 
+
+To create a proof of concept we would have to do:
+* Implement a tag for some type
+* Add generic storage of parameters to SGObject (some map)
+* Make sure it works with swig in any target language 
+
+Next, we can start implementing actual parameter system (should be done pre-GSoC!):
+
+* Implement tags for generic types and get/set with tags
+* Add additional interface for string-based get/set
+* Make sure it works ;)
+
+Next step would be to implement plugins:
+* Implement base class for plugin
+* Make one of the classes of shogun both a plugin and regular class
+* If it works - document the migration process: remove the getters/setters of this class, drop avoidable dependencies, ...
+
+Finally, we can start migrating all the classes to plugins (could be done during pre-GSoC students).
