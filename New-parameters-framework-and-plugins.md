@@ -58,46 +58,22 @@ kernel.set("width", "твою мать");
 Plugins
 =======
 
-shogun.kernel.gaussian
+The parameters thing enables us to implement plugins seamlessly because we don't have to export all class interfaces explicitly.
 
+In Python (and any other swig-supported language) it would look like (remember `CKernel` was chosen to be a *base class* of shogun, so we provide it in the interface):
+
+```python
+X = ...
+features = shogun.features("real_dense");
+features.set("data", X);
 kernel = shogun.kernel("gaussian");
-#kernel.set("width", shogun.range.exponential(-5.0, 5.0));
-#kernel.set("width", shogun.prior.uniform(0, 1));
-#kernel.set("width", shogun.just(3));
-other_kernel = shogun.kernel("linear");
-
-kernel.parameter("width").is(shogun.range());
-
 svm = shogun.classifier("libsvm");
-svm.set("kernel", shogun.any_of(kernel, other_kernel));
+kernel.set("width", 5.0);
+svm.set("kernel", kernel);
 svm.train();
+``` 
 
+Due to Python's flexibility we also have possibility to use prettier syntax:
 ```
-
-
+kernel = shogun.kernel.gaussian
 ```
-class SGObject {
-    unordered_map<Tag, Parameter> parameters;
-
-    template <T>
-    void uses(string name) {
-        parameters[Tag<T>(name)] = new parameter
-    }
-
-}
-
-static Tag<CKernel> KERNEL("kernel");
-static Tag<float> KERNEL_WIDTH("width");
-
-class LibSVM {
-    LibSVM() : Object() {
-        uses<int>("max_iterations");
-    }
-
-    void train() {
-        get(KERNEL).get(KERNEL_WIDTH);
-    }
-}
-
-```
-
