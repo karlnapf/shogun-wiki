@@ -61,7 +61,7 @@ Plugins
 The parameters thing enables us to implement plugins seamlessly because we don't have to export all class interfaces explicitly. Advantages of plugins are:
 
 * No need to recompile whole Shogun when you develop some other implementation
-* Base shogun would have no dependencies on some crazy libraries so we can easily install it to any platform. Plugins would bother with concrete libraries and we get 
+* Base shogun would have no dependencies on some crazy libraries so we can easily install it to any platform. Plugins would bother with concrete libraries - if you need some *ultra-regularized gaussian variational pseudoneural marginal model from NIPS2020* that requires SPARSEGPCOLARLINPACK it's the plugin restriction, not shogun
 * We can have 'frozen' implementation of base shogun that actually could be installed and never touched again. Plugins could change arbitrary
 * Scientists could use Shogun again as they don't have to bother with compiling base shogun
 
