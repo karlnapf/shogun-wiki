@@ -3,6 +3,7 @@ Sergey and Heiko at NIPS 2015. We plan to re-work Shogun's parameter framework. 
  * an easier syntax
  * Work towards allowing plugins for Shogun
  * Clean up the CSGObject base class
+ * Faster SWIG compilation with less symbols being exported
 
 This is done via adding two approaches to change Shogun parameters.
  * String based: for Shogun users, wrong usage produces run-time errors, easy syntax (also in SWIG), slow
