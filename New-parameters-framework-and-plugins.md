@@ -137,4 +137,4 @@ Next step would be to implement plugins:
 * Make one of the classes of shogun both a plugin and regular class
 * If it works - document the migration process: remove the getters/setters of this class, drop avoidable dependencies, ...
 
-Finally, we can start migrating all the classes to plugins (could be done during pre-GSoC students).
+Finally, we can start migrating all the classes to plugins (could be done during pre-GSoC by students).
