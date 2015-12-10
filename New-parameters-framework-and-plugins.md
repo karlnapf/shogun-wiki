@@ -117,6 +117,16 @@ kernel = shogun.kernel("gaussian");
 
 Every algorithm, every kernel, every whatever would have a separate plugin and they can be grouped together to provide some reproducible code for some NIPS paper.
 
+What is not clear yet is how can we provide an usable way to call methods of plugin that are pretty specific, yet useful (some `create_custom_kernel_via_my_method`). Probably, it could look like in the following snippet:
+
+```python
+kernel = shogun.kernel("laplacian_gaussian")
+matrix = kernel.computeMatrix('lipschitz_covariance')
+wassermanian = kernel.computeNumber('wasserman_score')
+```
+
+Currently, there is no good way to support method parameters without exponential growth of exported symbols (which was the thing to avoid from the very beginning).  
+
 Next steps
 ==========
 
