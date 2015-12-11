@@ -15,7 +15,7 @@ Welcome to the Shogun wiki!
  * [2015 hack ideas](Roadmap-Shogun-2015-hack)
  * [Brain storm Future Shogun (2013)](Future-of-Shogun-Brainstorming)
  * [Dev meetings](Shogun-developer-meetings)
- * [Parameters and plugins](New-parameters-framework)
+ * [Parameters and plugins](New-parameters-framework-and-plugins)
  * [Roadmaps](Project roadmaps)
 
 * GSoC
