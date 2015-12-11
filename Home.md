@@ -16,6 +16,7 @@ Welcome to the Shogun wiki!
  * [Brain storm on future of Shogun (2013)](Future-of-Shogun-Brainstorming).
  * [Dev meetings (IRC and other)](Shogun-developer-meetings).
  * [Roadmaps](Project roadmaps).
+ * [Releases TODO](Releases_TODO)
 
 ### Google Summer of Code
  * [Getting involved](Getting-involved)
