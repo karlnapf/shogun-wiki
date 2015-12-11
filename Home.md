@@ -15,7 +15,6 @@ Welcome to the Shogun wiki!
  * [Ideas for the 2015 hack meeting](Roadmap-Shogun-2015-hack).
  * [Brain storm on future of Shogun (2013)](Future-of-Shogun-Brainstorming).
  * [Dev meetings (IRC and other)](Shogun-developer-meetings).
- * [New parameter framework and plugins](New-parameters-framework-and-plugins)
  * [Roadmaps](Project roadmaps).
 
 ### Google Summer of Code
