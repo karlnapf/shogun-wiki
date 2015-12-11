@@ -16,6 +16,7 @@ Welcome to the Shogun wiki!
  * [Brain storm Future Shogun (2013)](Future-of-Shogun-Brainstorming)
  * [Dev meetings](Shogun-developer-meetings)
  * [Roadmaps](Project roadmaps)
+ * [Releases](Releases_TODO)
 
 * GSoC
   * [Getting involved](Getting-involved)
