@@ -27,7 +27,7 @@ This document contains TODO lists for the next release.
 
 > The release also features an amazing feature by Esben Sörig, who designed a meta-language to write Shogun examples in, which are then automatically translated to all of Shogun's interface languages.
 
-We also worked towards a smoother build process and did a number of internal efficiency improvements and clean-ups.
+> We also worked towards a smoother build process and did a number of internal efficiency improvements and clean-ups.
 
 > A full list and the download can be found at
 > RELEASE TAG HERE, i.e. 
