@@ -25,7 +25,7 @@ This document contains TODO lists for the next release.
 
 > This release features the work of the new Shogun-team member Wu Lin, who put a lot of work into Shogun's framework for large-scale variational inference for Gaussian Processes. A (very large) notebook explaining a lot of the methods can be found at http://www.shogun-toolbox.org/static/notebook/current/variational_classifier.html
 
-> The release also features an amazing feature by Esben Sörig, who designed a meta-language to write Shogun examples in, which are then automatically translated to all of Shogun's interface languages.
+> The release also features a computer-science feature by Esben Sörig, who designed a meta-language to write Shogun examples in, which are then automatically translated to all of Shogun's interface languages. Documentation can be found at https://github.com/shogun-toolbox/shogun/wiki/Example_Generation
 
 > We also worked towards a smoother build process and did a number of internal efficiency improvements and clean-ups.
 
