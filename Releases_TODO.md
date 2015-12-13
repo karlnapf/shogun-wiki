@@ -12,3 +12,5 @@ TODO:
  * Tests green
  * Add new algorithms to NEWS (Wu)
  * Put new website online? (Kevin)
+ * Announce move to stack overflow for questions
+ * Write Release text
