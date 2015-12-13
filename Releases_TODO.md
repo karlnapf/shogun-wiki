@@ -13,7 +13,7 @@ This document contains TODO lists for the next release.
  * Make sure there are no fixable documentation warnings (Sergey)
  * ~~Integrate new cookbook into main branch (Sergey)~~
  * ~~Add new algorithms to NEWS (Heiko)~~
- * Add clean-up patches to NEWS (Heiko)
+ * ~~Add clean-up patches to NEWS (Heiko)~~
  * Put new website online? (Kevin)
  * ~~Announce move to stack overflow for questions (Heiko)~~
  * ~~Write Release text (Heiko)~~
