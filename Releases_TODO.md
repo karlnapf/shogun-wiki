@@ -11,7 +11,7 @@ This document contains TODO lists for the next release.
 ###TODO:
  * Make sure tests are green, currently we have a few serialization issues (http://buildbot.shogun-toolbox.org/builders/FC22%20-%20libshogun/builds/72/steps/test/logs/stdio) (Sergey)
  * Make sure there are no fixable documentation warnings (Sergey)
- * Integrate new cookbook into main branch (Sergey)
+ * ~~Integrate new cookbook into main branch (Sergey)~~
  * ~~Add new algorithms to NEWS (Heiko)~~
  * Add clean-up patches to NEWS (Heiko)
  * Put new website online? (Kevin)
