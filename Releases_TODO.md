@@ -2,13 +2,13 @@
 This document contains TODO lists for the next release.
 
 ## 4.1
-Purpose:
+###Purpose:
  * Mostly contains Wu's new inference algorithms
  * Otherwise clean-up
  * Get back to speed.
  * Needed for pre GSoC 2016
 
-TODO:
+###TODO:
  * Make sure tests are green, currently we have a few serialization issues (http://buildbot.shogun-toolbox.org/builders/FC22%20-%20libshogun/builds/72/steps/test/logs/stdio) (Sergey)
  * Make sure there are no fixable documentation warnings (Sergey)
  * Integrate new cookbook into main branch (Sergey)
@@ -16,3 +16,27 @@ TODO:
  * Put new website online? (Kevin)
  * Announce move to stack overflow for questions (Heiko)
  * Write Release text (Heiko)
+
+### Release text draft:
+> Dear all,
+
+> we are pleased to announce the 4.1 release of the Shogun Machine Learning Toolbox.
+
+> This release features the work of the new Shogun-team member Wu Lin, who put a lot of work into Shogun's framework for large-scale variational inference for Gaussian Processes. We also worked towards a smoother build process and did a number of internal efficiency improvements and clean-ups.
+
+> A full list and the download can be found at
+> RELEASE TAG HERE, i.e. 
+https://github.com/shogun-toolbox/shogun/releases/tag/shogun_4.0.0
+
+> On other news:
+>  * We plan to start using Stack Overflow to reply to Shogun questions, rather than the mailing list. This will create a more documented set of Q&A. Github issues are used as before to report/solve problems. See http://stackoverflow.com/questions/tagged/shogun
+
+>  * The Shogun foundation was recognised as a non-profit organisation by German tax law. This is an important step towards more sustainabl finances of the project.
+
+> Heiko Strathmann, on behalf of the Shogun team
+
+> About Shogun:
+> http://www.shogun-toolbox.org
+
+> Source code:
+> https://github.com/shogun-toolbox
