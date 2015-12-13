@@ -15,7 +15,7 @@ This document contains TODO lists for the next release.
  * Add new algorithms to NEWS (Heiko)
  * Put new website online? (Kevin)
  * Announce move to stack overflow for questions (Heiko)
- * Write Release text (Heiko)
+ * --Write Release text (Heiko)--
 
 ### Release text draft:
 > Dear all,
