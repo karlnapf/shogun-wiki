@@ -22,7 +22,9 @@ This document contains TODO lists for the next release.
 
 > we are pleased to announce the 4.1 release of the Shogun Machine Learning Toolbox.
 
-> This release features the work of the new Shogun-team member Wu Lin, who put a lot of work into Shogun's framework for large-scale variational inference for Gaussian Processes. We also worked towards a smoother build process and did a number of internal efficiency improvements and clean-ups.
+> This release features the work of the new Shogun-team member Wu Lin, who put a lot of work into Shogun's framework for large-scale variational inference for Gaussian Processes. A (very large) notebook explaining a lot of the methods can be found at http://www.shogun-toolbox.org/static/notebook/current/variational_classifier.html
+
+We also worked towards a smoother build process and did a number of internal efficiency improvements and clean-ups.
 
 > A full list and the download can be found at
 > RELEASE TAG HERE, i.e. 
