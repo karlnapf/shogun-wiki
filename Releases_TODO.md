@@ -14,7 +14,7 @@ This document contains TODO lists for the next release.
  * Integrate new cookbook into main branch (Sergey)
  * Add new algorithms to NEWS (Heiko)
  * Put new website online? (Kevin)
- * Announce move to stack overflow for questions (Heiko)
+ * ~~Announce move to stack overflow for questions (Heiko)~~
  * ~~Write Release text (Heiko)~~
 
 ### Release text draft:
