@@ -4,14 +4,16 @@ This document contains TODO lists for the next release.
 ## 4.1
 ###Purpose:
  * Mostly contains Wu's new inference algorithms
- * Otherwise clean-up
+ * Otherwise clean-up (drop migration, bug fixes)
  * Get back to speed.
  * Needed for pre GSoC 2016
 
 ###TODO:
- * Make sure tests are green, currently we have a few serialization issues (http://buildbot.shogun-toolbox.org/builders/FC22%20-%20libshogun/builds/72/steps/test/logs/stdio) (Sergey)
- * Make sure there are no fixable documentation warnings (Sergey)
- * ~~Integrate new cookbook into main branch (Sergey)~~
+ * Make sure tests are green
+   * ~~we have a few serialization issues (http://buildbot.shogun-toolbox.org/builders/FC22%20-%20libshogun/builds/72/steps/test/logs/stdio) (Heiko)~~
+   * Fix typemaps for csharp (Viktor)
+ * Make sure there are no fixable documentation warnings (Sergey, Wu)
+ * Integrate new cookbook into main branch (not sure yet) (Sergey)
  * ~~Add new algorithms to NEWS (Heiko)~~
  * ~~Add clean-up patches to NEWS (Heiko)~~
  * Put new website online? (Kevin)
