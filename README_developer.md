@@ -5,8 +5,9 @@ Shogun is split up into libshogun which contains all the machine learning
 algorithms and 'static interfaces' helpers,
 the static interfaces python_static, octave_static, matlab_static, r_static and
 the modular interfaces python_modular, octave_modular and r_modular (all found
-in the src/interfaces/ subdirectory with corresponding name). See [INSTALL](https://github.com/shogun-toolbox/shogun/wiki/INSTALL) for instructions on
-how to install shogun.
+in the src/interfaces/ subdirectory with corresponding name). See 
+[INSTALL](https://github.com/shogun-toolbox/shogun/wiki/INSTALL) for
+instructions on how to install shogun.
 
 In case one wants to extend shogun the best way is to start using its library.
 This can be easily done as a number of examples in examples/libshogun document.
@@ -24,7 +25,11 @@ The simplest libshogun based program would be
         return 0;
     }
 
-which could be compiled with g++ -lshogun minimal.cpp -o minimal or g++ minimal.cpp -lshogun -o minimal (if the former command does not work, you might need to run `ldconfig` to configure dynamic linker run-time bindings after the first time installation) and obviously does nothing (apart form initializing and destroying a couple ofglobal shogun objects internally).
+which could be compiled with `g++ -lshogun minimal.cpp -o minimal` or
+`g++ minimal.cpp -lshogun -o minimal` (if the former command does not work, you
+might need to run `ldconfig` to configure dynamic linker run-time bindings after
+the first time installation) and obviously does nothing (apart form initializing
+and destroying a couple of global shogun objects internally).
 
 In case one wants to redirect shoguns output functions SG_DEBUG, SG_INFO,
 SG_WARN, SG_ERROR, SG_PRINT etc, one has to pass them to init_shogun() as
@@ -128,11 +133,11 @@ an object, call SG_UNREF(obj) which will also automagically destroy it if the
 counter is <= 0 and set obj=NULL only in this case.
 
 
-Generally, all shogun C++ Objects are prefixed with C, e.g. CSVM and derived from
-CSGObject. Since variables in the upper class hierarchy, need to be initialized
-upon construction of the object, the constructor of base class needs to be
-called in the constructor, e.g. CSVM calls CKernelMachine, CKernelMachine calls
-CClassifier which finally calls CSGObject.
+Generally, all shogun C++ Objects are prefixed with C, e.g. CSVM and derived
+from CSGObject. Since variables in the upper class hierarchy, need to be
+initialized upon construction of the object, the constructor of base class needs
+to be called in the constructor, e.g. CSVM calls CKernelMachine, CKernelMachine
+calls CClassifier which finally calls CSGObject.
 
 For example if you implement your own SVM called MySVM you would in the
 constructor do
@@ -158,7 +163,8 @@ See [here](Code-style)
 
 The git repo for the project is hosted on GitHub at
 https://github.com/shogun-toolbox/shogun. To get started, create your own fork
-and clone it ([howto](https://help.github.com/articles/fork-a-repo "GitHub help - Fork a repo")).
+and clone it
+([howto](https://help.github.com/articles/fork-a-repo "GitHub help - Fork a repo")).
 Remember to set the upstream remote to the main repo by:
 
     git remote add upstream git://github.com/shogun-toolbox/shogun.git
@@ -199,7 +205,9 @@ repository in github.
 
     What rebasing does is, in short, "Forward-port local commits to the updated
     upstream head". A longer and more detailed illustration with nice figures
-    can be found at http://git-scm.com/book/en/v2/Git-Branching-Rebasing. So rebasing (instead of merging) makes the main "commit-thread" of the repo a simple series.
+    can be found at http://git-scm.com/book/en/v2/Git-Branching-Rebasing. So
+    rebasing (instead of merging) makes the main "commit-thread" of the repo a
+    simple series.
 
     Rebasing before issuing a pull request also enable us to find and fix any
     potential conflicts early at the developer side (instead of at the one who
@@ -224,11 +232,11 @@ repository in github.
   6. ... rebasing ...
   7. `git push origin my-branch`
 
-    then git will complain about non-fast-forward error and not pushing into the remote
-    my-branch branch. This is because the first push has already created the my-branch
-    branch in origin. Later when you run rebasing, which is a destructive operation for
-    the local history. Since the local history is no longer the same as those in the remote
-    branch, pushing is not allowed.
+    then git will complain about non-fast-forward error and not pushing into the
+    remote my-branch branch. This is because the first push has already created
+    the my-branch branch in origin. Later when you run rebasing, which is a
+    destructive operation for the local history. Since the local history is no
+    longer the same as those in the remote branch, pushing is not allowed.
 
     Solution for this situation is to delete your remote branch by
 
@@ -238,56 +246,72 @@ repository in github.
 
         git push origin my-branch
 
-    note deleting your remote branch will not delete your pull request associated with that
-    branch. And as long as you push your branch there again, your pull request will be OK.
+    note deleting your remote branch will not delete your pull request
+    associated with that branch. And as long as you push your branch there
+    again, your pull request will be OK.
 
 - Unit testing/Pre-commit hook
-    As shogun-toolbox is getting bigger and bigger code-reviews of pull requests are getting
-    harder and harder. In order to avoid breaking the functionality of the existing code, we
-    highly encourage contributors of shogun to use the supplied unit testing, that is based
-    on Google C++ Mock Framework.
+    As shogun-toolbox is getting bigger and bigger code-reviews of pull requests
+    are getting harder and harder. In order to avoid breaking the functionality
+    of the existing code, we highly encourage contributors of shogun to use the
+    supplied unit testing, that is based on Google C++ Mock Framework.
 
-    In order to be able to use the unit testing framework one will need to have
-    Google C++ Mock Framework installed on your machine. The gmock version is
-    1.7.0 and the gtest version is 1.6.0 (or it will have some errors).
-
-    - [Google Mock](https://code.google.com/p/googlemock/)
-    - [Google Test](https://code.google.com/p/googletest/)
-
-    Then use cmake/ccmake with the ENABLE_TESTING switching on.
+    Use cmake/ccmake with the `ENABLE_TESTING` switched on and `make GoogleMock`
+    to download and compile Google Mock.
 
     For example:
+  ```
+  mkdir build
+  cd build
+  cmake -DENABLE_TESTING=on ..
+  make GoogleMock
+  make unit-tests     # if you want to compile and run the unit-tests
+  ```
+    If GoogleMock complains for some reason (Hash mismatch after download etc.)
+    then manually download GoogleMock from
+    [this link](http://googlemock.googlecode.com/files/gmock-1.7.0.zip),
+    replace it in `shogun/third-party/GoogleMock` and run `make GoogleMock`
+    again. `shogun/third-party` dir is created after you do
+    `cmake -DENABLE_TESTING=on ..`.
 
-        cmake -DENABLE_TESTING=on ..
+    Once it's detected if you add new classes to the code please define some
+    basic unit tests for them under ./tests/unit (see some of the examples under
+    that directory). As one can see the naming convention for files that
+    contains the unit tests are: \<classname\>_unittest.cc
 
-    Once it's detected if you add new classes to the code please define some basic
-    unit tests for them under ./tests/unit (see some of the examples under that directory).
-    As one can see the naming convention for files that contains the unit tests are:
-    \<classname\>_unittest.cc
+    Before committing or sending a pull request please run `make unit-tests`
+    under root directory in order to check that nothing has been broken by the
+    modifications and the library is still acting as it's intended.
 
-    Before committing or sending a pull request please run 'make unit-tests' under root
-    directory in order to check that nothing has been broken by the modifications and
-    the library is still acting as it's intended.
+    One possible way to do this automatically is to add into your pre-commit
+    hook the following code snippet (.git/hook/pre-commit):
+  ```
+  #!/bin/sh
 
-    One possible way to do this automatically is to add into your pre-commit hook the
-    following code snippet (.git/hook/pre-commit):
-
-        #!/bin/sh
-
-        # run unit testing for basic checks
-        # and only let commiting if the unit testing runs successfully
-        make unit-tests
-
-    This way before each commit the unit testing will run automatically and if it
-    fails it won't let you commit until you don't fix the problem (or remove the
-    pre-commit script :P
+  # run unit testing for basic checks
+  # and only let commiting if the unit testing runs successfully
+  make unit-tests
+  ```
+    This way before each commit the unit testing will run automatically and if
+    it fails it won't let you commit until you don't fix the problem (or remove
+    the
+    pre-commit script :P)
 
     Note that the script should be executable, i.e.
 
         chmod +x .git/hook/pre-commit
 
-    You can also test all the examples in shogun/exapmles to check whether your configuration and environment is totally okay. Please note that some of the examples are dependent on data sets, which should be downloaded beforehand, and so that you can pass all the tests of those examples. Downloading data can be easily done by calling a git command (please refer to [README_data.md](https://github.com/shogun-toolbox/shogun/blob/develop/doc/md/README_data.md)). Afterwards, you can test the examples by:
+    You can also test all the examples in shogun/exapmles to check whether your
+    configuration and environment is totally okay. Please note that some of the
+    examples are dependent on data sets, which should be downloaded beforehand,
+    and so that you can pass all the tests of those examples. Downloading data
+    can be easily done by calling a git command (please refer to
+    [README_data.md](https://github.com/shogun-toolbox/shogun/blob/develop/doc/md/README_data.md)).
+    Afterwards, you can test the examples by:
 
         make test
 
-To make a release, adjust the [NEWS](NEWS) file properly, i.e. date, release version (like 3.0.0), adjust the soname if required (cf. [README_soname](README_soname.md)) and if a new data version is required add that too. If parameters have been seen changes increase the parameter version too.
+To make a release, adjust the [NEWS](NEWS) file properly, i.e. date, release
+version (like 3.0.0), adjust the soname if required
+(cf. [README_soname](README_soname.md)) and if a new data version is required
+add that too.
