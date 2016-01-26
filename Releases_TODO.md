@@ -11,7 +11,9 @@ This document contains TODO lists for the next release.
 ###TODO:
  * Make sure tests are green
    * ~~we have a few serialization issues (http://buildbot.shogun-toolbox.org/builders/FC22%20-%20libshogun/builds/72/steps/test/logs/stdio) (Heiko)~~
-   * Fix typemaps for csharp (Viktor), [link](https://github.com/shogun-toolbox/shogun/issues/2425)
+   * ~~Fix typemaps for csharp (Viktor), [link](https://github.com/shogun-toolbox/shogun/issues/2425)~~
+   * R-modular tests fail
+   * Resolve all warnings for python modular build (Heiko)
  * Make sure there are no fixable documentation warnings (Sergey, Wu)
  * Integrate new cookbook into main branch (not sure yet) (Sergey)
  * ~~Add new algorithms to NEWS (Heiko)~~
