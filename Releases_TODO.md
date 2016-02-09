@@ -25,7 +25,7 @@ This document contains TODO lists for the next release.
 ### Release text draft:
 > Dear all,
 
-> we are pleased to announce the 4.1 release of the Shogun Machine Learning Toolbox.
+> we are pleased to announce the 4.1.0 release of the Shogun Machine Learning Toolbox.
 
 > This release features the work of the new Shogun-team member Wu Lin, who put a lot of work into Shogun's framework for large-scale variational inference for Gaussian Processes. A (very large) notebook explaining a lot of the methods can be found at http://www.shogun-toolbox.org/static/notebook/current/variational_classifier.html
 
@@ -34,8 +34,7 @@ This document contains TODO lists for the next release.
 > We also worked towards a smoother build process and did a number of internal efficiency improvements and clean-ups.
 
 > A full list and the download can be found at
-> RELEASE TAG HERE, i.e. 
-https://github.com/shogun-toolbox/shogun/releases/tag/shogun_4.0.0
+> https://github.com/shogun-toolbox/shogun/releases/tag/shogun_4.1.0
 
 > On other news:
 >  * We plan to start using Stack Overflow to reply to Shogun questions, rather than the mailing list. This will create a more documented set of Q&A. Github issues are used as before to report/solve problems. See http://stackoverflow.com/questions/tagged/shogun
