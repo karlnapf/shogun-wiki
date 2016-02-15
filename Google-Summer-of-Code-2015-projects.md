@@ -4,7 +4,7 @@ Unfortunately, we were not selected for GSoC this year. As a consequence, summer
 If you are interested in particupating, feel free to get back to us. We have a couple of students/mentors who will do a project even without the Google funding. It's still open-source and everyone is welcome to join :)
 
 # A list of potential GSoC 2015 projects.
-To add, please create a new wiki page for each project that you describe. Name them as "GSoC_2015_project_MCMC" etc. Here is a [template](GSoC_2015_project_template).
+To add, please create a new wiki page for each project that you describe. Name them as "GSoC_2015_project_MCMC" etc. Here is a [template](GSoC_project_template).
 
 # Main focus
 This year's GSoC is about improving Shogun, rather than extending it. Exceptions allowed.
