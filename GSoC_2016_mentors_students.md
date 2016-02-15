@@ -11,7 +11,6 @@ This is an (incomplete) list of our GSoC 2015 mentors (and soon students)
  * [Thoralf](Thoralf%20Klein) (github: [tklein](https://github.com/tklein23))
  * [Kevin](Kevin%20Hughes) (github: [kevinhughes27](https://github.com/kevinhughes27))
  * [Fabian Zimmer](http://qfma.de/) (github: [qfma](https://github.com/qfma))
-
  * [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/)
  * [Lars Buesing](http://www.gatsby.ucl.ac.uk/~lars/) ?
  * [Theofanis Karaletsos](http://cbio.mskcc.org/directory/theofanis-karaletsos/index.html)
