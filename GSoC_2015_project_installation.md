@@ -1,5 +1,5 @@
 # Easy installation on major platforms
-**This is THE SINGLE MOST IMPORTANT project for GSoC**. It does not involve any Machine Learning but is a good way for hackers to get involved in Shogun. We might take 2 students with different OS skills here.
+**This is among the MOST IMPORTANT projects for GSoC**. It does not involve any Machine Learning but is a good way for hackers to get involved in Shogun. We might take 2 students with different OS skills here.
 See also the [windows](GSoC_2015_windows) project.
 
 ### Mentors
