@@ -1,7 +1,7 @@
 # Releases
 This document contains TODO lists for the next release.
 
-## 4.1
+## 4.1 [DONE]
 ###Purpose:
  * Mostly contains Wu's new inference algorithms
  * Otherwise clean-up (drop migration, bug fixes)
