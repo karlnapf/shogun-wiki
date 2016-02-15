@@ -1,4 +1,4 @@
-This is an (incomplete) list of our GSoC 2015 mentors (and soon students)
+This is an (incomplete) list of our GSoC 2016 mentors (and hopefully soon students)
 
 # Mentors:
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
