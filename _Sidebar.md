@@ -21,7 +21,7 @@ Welcome to the Shogun wiki!
 * GSoC
   * [Getting involved](Getting-involved)
   * [Follow ups](GSoC-follow-up-blog-posts)
-  * [2015 projects](Google-Summer-of-Code-2015-projects)
+  * [2016 projects](Google Summer of Code 2016 Projects)
 
 * Credits
  * [Authors](AUTHORS)
