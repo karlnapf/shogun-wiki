@@ -10,6 +10,7 @@ Project proposed by [Alessandro](https://github.com/ialong)
  * [Fernando](Fernando%20J.%20Iglesias García) (github: [iglesias](https://github.com/iglesias), IRC iglesias)
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Lars Buesing](http://www.gatsby.ucl.ac.uk/~lars/)
+ * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
 
 ### Difficulty & Requirements
 Easy/medium/advanced.
