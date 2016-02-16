@@ -3,6 +3,7 @@
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Emtiyaz Khan](http://www.cs.ubc.ca/~emtiyaz/)
+ * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
 
 ### Difficulty & Requirements
 Medium
