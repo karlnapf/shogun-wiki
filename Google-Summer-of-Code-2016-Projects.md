@@ -9,14 +9,6 @@ This year's GSoC is about improving Shogun, rather than extending it. Exceptions
 
  * *Fewer* new algorithms. Rather improve existing ones: Usability, efficiency, documentation, application
  * *Fewer* students. More intense mentoring, interaction between students, blogging, documenting
- * Projects on
-   * Installation: most important
-   * Clean ups of: framework, build process, algorithms, usability, documentation
-   * Removing legacy code
-   * Efficiency: High performance computing, parallelisation, cloud, benchmarking
-   * Applications: Using Machine Learning as a tool to improve the world, rather than toy examples
-   * Pipelines & Framework: Improve usability on standard workflow pipelines
-   * Usablity: Building and Installing Shogun has to be easier
 
 **[Mentors (and students) this year](GSoC_2016_mentors_students)**
 
