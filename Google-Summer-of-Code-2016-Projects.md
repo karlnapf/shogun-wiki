@@ -44,12 +44,11 @@ The projects we would like to limit in numbers.
  * [**Fundamental ML: LGSSMs**](GSoC_2015_project_fundamental)
  * [**Large Scale Gaussian Processes**](GSoC_2015_project_large_gps)
  * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
- * [Density Estimation in Infinite Dimensional Exponential Families](GSoC_2016_project_kernel_exp_family)
+ * [Density Estimation in Infinite Dimensional Exponential Families](GSoC_2015_project_kernel_infinite_exponential)
  * [Large scale statistical testing](GSoC_2015_project_large_testing)
  * [Solver for the KKT System](GSoC_2015_project_kkt)
  * [Dual coordinate ascent solver for SO-SVM](GSoC_2015_project_dca_sosvm)
  * [LP/QP Framework](GSoC_2015_project_lpqp)
-(GSoC_2015_project_kernel_infinite_exponential)
  * [Debiasing & Cluster computing](GSoC_2015_project_debiasing)
 
 
