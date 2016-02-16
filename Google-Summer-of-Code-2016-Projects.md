@@ -24,17 +24,17 @@ This year's GSoC is about improving Shogun, rather than extending it. Exceptions
 **ALL** students will be required to document existing Shogun code on a weekly basis during GSoC. We need a list of all methods in Shogun, along with slim documentation on how to use them. Details to follow!
 
 ## Improving Shogun
-These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering.
+These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering. **Bold** projects are more likely to happen than non-bold ones.
 
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
  * [**Unified ML interface, plugin-based architecture**](GSoC_2015_plugin)
  * [**A Shogun cookbook**](GSoC_2016_project_cookbook)
- * [Native MS Windows port](GSoC_2015_windows)
  * [**A Shogun Detox**](GSoC_2015_clean_up_infrastructure)
+ * [**SWIG, Matlab & modular interfaces**](GSoC_2015_project_swig)
+ * [HMM cleanup and application](GSoC_2015_project_hmms)
+ * [Native MS Windows port](GSoC_2015_windows)
  * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
  * [Flexible modelselection 2](GSoC_2015_project_modelselection)
- * [HMM cleanup and application](GSoC_2015_project_hmms)
- * [SWIG, Matlab & modular interfaces](GSoC_2015_project_swig)
  
 ## Extending Shogun:
 The projects we would like to limit in numbers.
