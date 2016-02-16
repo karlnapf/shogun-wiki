@@ -1,4 +1,4 @@
-# Fundamental Machine Learning Algorithms, Part 2
+# Fundamental Machine Learning Algorithms
 **Linear Latent Gaussian Models: Linear and non-linear output**
 
 Fundamental ML, continuing where we stopped [last year](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/mazumdarparijat/5738600293466112).
