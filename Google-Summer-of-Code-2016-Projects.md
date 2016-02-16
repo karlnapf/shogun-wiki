@@ -69,6 +69,4 @@ The projects we would like to limit in numbers.
    * Collaboration with MLPack for toolkit wide performance/accuracy testing
 
 ## Infrastructure:
- * Get rid of static interfaces, migrate all tests etc
- * Matlab swig bindings
  * [REST interface](GSoC_2015_project_rest)
