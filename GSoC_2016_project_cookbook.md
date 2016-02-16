@@ -14,7 +14,7 @@ Easy. You need to be able to
 
 ### Description
 This project is about bringing a new Shogun cookook to life. This puts together a year of work on Shogun's [meta language](https://github.com/shogun-toolbox/shogun/wiki/Example_Generation), and our [prototype](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/sphinx) for a sphinx-based API documentation system. The goal is to have API example that cover all target languages and all algorithms, in a form that looks like this:
-![Shogun cookbook](http://postimg.org/image/8yfy75jq3/)
+![Shogun cookbook](http://1.1.1.1/bmi/s9.postimg.org/kasjoxsf1/shogun_cookbook.jpg)
 
 
 
