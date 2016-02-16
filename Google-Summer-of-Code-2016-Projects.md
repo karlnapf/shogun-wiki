@@ -41,9 +41,9 @@ The projects we would like to limit in numbers.
 
 ### Algorithms
  * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
- * [**Fundamental ML: LGSSMs**](GSoC_2015_project_fundamental)
  * [**Large Scale Gaussian Processes**](GSoC_2015_project_large_gps)
  * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
+ * [Fundamental ML: LGSSMs](GSoC_2015_project_fundamental)
  * [Density Estimation in Infinite Dimensional Exponential Families](GSoC_2015_project_kernel_infinite_exponential)
  * [Large scale statistical testing](GSoC_2015_project_large_testing)
  * [Solver for the KKT System](GSoC_2015_project_kkt)
