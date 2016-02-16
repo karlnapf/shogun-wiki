@@ -44,6 +44,8 @@ After having identified a number of algorithms, the typical approach would be to
 
 4.) Give the whole implementation a general clean-up: Documentation, unit testing, examples.
 
+5.) IPython notebook with a real-world application
+
 The [K-means issue](https://github.com/shogun-toolbox/shogun/issues/2987) is a great place to start.
 
 ### Optional
