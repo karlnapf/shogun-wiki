@@ -13,7 +13,11 @@ This year's GSoC is about improving Shogun, rather than extending it. Exceptions
 **[Mentors (and students) this year](GSoC_2016_mentors_students)**
 
 # Projects
-**Bold** projects are more likely to happen. **ALL** students will be required to document existing Shogun code on a weekly basis during GSoC. We need a list of all methods in Shogun, along with slim documentation on how to use them. Details to follow!
+**Bold** projects are more likely to happen. **ALL** students will be required to:
+
+ * document existing Shogun code on a weekly basis during GSoC
+ * peer-review a fellow student's work in the final phase of GSoC
+ * jointly work on the 5.0 release after GSoC
 
 ## Improving Shogun
 These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering.
