@@ -27,7 +27,7 @@ This year's GSoC is about improving Shogun, rather than extending it. Exceptions
 These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering.
 
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
- * [**A modularised, plugin-based Shogun**](GSoC_2015_plugin)
+ * [**Unified ML interface, plugin-based architecture**](GSoC_2015_plugin)
  * [**A Shogun cookbook**](GSoC_2016_project_cookbook)
  * [Native MS Windows port](GSoC_2015_windows)
  * [**A Shogun Detox**](GSoC_2015_clean_up_infrastructure)
