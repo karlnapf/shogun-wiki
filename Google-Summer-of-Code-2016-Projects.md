@@ -40,9 +40,10 @@ These are roughly ordered in our priority in them. Most of them *do not* focus o
 The projects we would like to limit in numbers.
 
 ### Algorithms
- * [Fundamental ML 2: LGSSMs](GSoC_2015_project_fundamental)
- * [Large Scale Gaussian Processes](GSoC_2015_project_large_gps)
- * [Hip Deep learning](GSoC_2015_project_deep_learning)
+ * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
+ * [**Fundamental ML: LGSSMs**](GSoC_2015_project_fundamental)
+ * [**Large Scale Gaussian Processes**](GSoC_2015_project_large_gps)
+ * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
  * [Density Estimation in Infinite Dimensional Exponential Families]
  * [Large scale statistical testing](GSoC_2015_project_large_testing)
  * [Solver for the KKT System](GSoC_2015_project_kkt)
@@ -72,7 +73,3 @@ The projects we would like to limit in numbers.
  * Get rid of static interfaces, migrate all tests etc
  * Matlab swig bindings
  * [REST interface](GSoC_2015_project_rest)
-
-## Clean ups:
- * Modularise Shogun
- * Benchmark existing algos and improve!
