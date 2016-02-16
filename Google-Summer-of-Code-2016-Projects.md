@@ -51,7 +51,6 @@ The projects we would like to limit in numbers.
  * [Shogun cloud extensions](GSoC_2015_cloud_shogun)
 
 
-# TODO list
 ## Other ideas:
  * Cool pipelines
    * A kaggle pipeline for supervised prediction.
