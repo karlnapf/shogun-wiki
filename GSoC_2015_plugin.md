@@ -34,8 +34,6 @@ Another highly interesting part of the project would be to design a core API tha
 
 This is something we wanted to do for a long time, so you would have all developers on your side. As well as eternal fame for finally making Shogun easy to use again ;)
 
-### Details
-
 ### Waypoints and initial work
 
 The project consists of three parts
@@ -44,7 +42,7 @@ The project consists of three parts
 2. Infrastructure to load dynamic libraries (see [design draft](https://github.com/shogun-toolbox/shogun/wiki/New-parameters-framework-and-plugins))
 3. Refactoring existing code.
 
-A detailed schedule is essential for the project. 
+A detailed schedule is essential for the project.
 
 ### Useful resources
 
