@@ -20,11 +20,11 @@ It suits you best if you:
 
 ### Description
 
-We have to admit that Shogun is not really user-friendly to install. Users are going through some troubles even on quite major platforms which we should support better. We want to solve that. This project is the first step towards more smooth user experience that starts from the installation of Shogun on your favourite platform. The main goal of this project is to let users install Shogun on all major platforms in just a few clicks.
+We have to admit that Shogun is not really user-friendly to install. Users are going through some troubles even on quite major platforms which we should support better. We want to solve that. This project is the first step towards more smooth user experience that starts from the installation of Shogun on your favourite platform. The main goal of this project is to let users install Shogun on all major platforms in just a few clicks. And these should be documented (replacing all outdated documentation).
 
 ### Details
 
-This project is a massive initiative to finally make Shogun really easy to try on all major platforms. First of all, we want to have an infrastructure to have a daily build of Shogun for Debian based platforms. This includes covering .rpm packages which would make it easy to use Shogun on distributions like Fedora and RHEL. Next, we expect to see an easy way to install Shogun on Mac OS X using Homebrew or Macports. Finally (and more involved than the previous parts), a native build and installation on Windows (possibly in [another project](GSoC_2015_windows))
+This project is a massive initiative to finally make Shogun really easy to try on all major platforms. First of all, we want to have an infrastructure to have a daily build of Shogun for Debian based platforms, and easy to integrate packages for debian. Next, we aim to cover .rpm packages which would make it easy to use Shogun on distributions like Fedora and RHEL. Next, we expect to see an easy way to install Shogun on Mac OS X using Homebrew or Macports. Finally (and more involved than the previous parts), a native build and installation on Windows (possibly in [another project](GSoC_2015_windows))
 
 All of these commands are expected to work on any popular platform Linux/Max/Win machine:
  * ```apt-get install shogun```
