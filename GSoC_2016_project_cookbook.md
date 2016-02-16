@@ -7,7 +7,7 @@
 ### Difficulty & Requirements
 Easy. You need to be able to
  * Write English
- *Experience in web-design
+ * Experience in web-design
  * Code in Python
  * Desirable: Sphinx, CMake
  * Desirable: Shogun experience
