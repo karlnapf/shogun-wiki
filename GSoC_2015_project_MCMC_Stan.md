@@ -3,6 +3,7 @@
 ### Mentors
  * Fernando (github: [iglesias](https://github.com/iglesias), IRC: iglesiasg)
  * Heiko (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
+ * Co-authored by the stan team. Details to follow
 
 ### Difficulty & Requirements
 Extremely advanced. Please only consider applying to this project if you have serious knowledge on:
