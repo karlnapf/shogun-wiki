@@ -15,9 +15,10 @@ This year's GSoC is about improving Shogun, rather than extending it. Exceptions
 # Projects
 **Bold** projects are more likely to happen. **ALL** students will be required to:
 
- * For a few hours per week, jointly work on a GSoC project on building a [Shogun cookbook](GSoC_2016_project_cookbook)
  * peer-review a fellow student's work in the final phase of GSoC
  * jointly helpo with the 5.0 release in the final phase of GSoC
+
+Furthermore, we plan an experiment this year: a joint project by all our students -- building a [Shogun cookbook](GSoC_2016_project_cookbook)
 
 ## Improving Shogun
 These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering.
