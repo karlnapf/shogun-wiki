@@ -15,15 +15,14 @@ This year's GSoC is about improving Shogun, rather than extending it. Exceptions
 # Projects
 **Bold** projects are more likely to happen. **ALL** students will be required to:
 
- * document existing Shogun code on a weekly basis during GSoC
+ * For a few hours per week, jointly work on a GSoC project on building a [Shogun cookbook](GSoC_2016_project_cookbook)
  * peer-review a fellow student's work in the final phase of GSoC
- * jointly work on the 5.0 release after GSoC
+ * jointly helpo with the 5.0 release in the final phase of GSoC
 
 ## Improving Shogun
 These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering.
 
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
- * [**A Shogun cookbook**](GSoC_2016_project_cookbook)
  * [**SWIG, Matlab & modular interfaces**](GSoC_2015_project_swig)
  * [HMM cleanup and application](GSoC_2015_project_hmms)
  * [Native MS Windows port](GSoC_2015_windows)
