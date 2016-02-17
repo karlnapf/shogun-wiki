@@ -5,7 +5,6 @@ This is an (incomplete) list of our GSoC 2016 mentors (and hopefully soon studen
  * [Viktor](Viktor%20Gal) (github: [vigsterkr](https://github.com/vigsterkr), IRC wiking)
  * [Bjoern](Bjoern%20Esser) (github: [besser82](https://github.com/besser82), IRC besser)
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
- * [Fernando](Fernando%20J.%20Iglesias García) (github: [iglesias](https://github.com/iglesias), IRC iglesiasg)
  * [Soumyajit](Soumyajit%20De%20[Rahul]) (github: [lambday](https://github.com/lambday), IRC: lambday)
  * [Wu Lin](Wu-Lin) (github: [yorkerlin](https://github.com/yorkerlin), IRC: yorkerlin)
  * [Thoralf](Thoralf%20Klein) (github: [tklein](https://github.com/tklein23))
@@ -20,3 +19,6 @@ This is an (incomplete) list of our GSoC 2016 mentors (and hopefully soon studen
  * [Srini Turaga](http://www.mit.edu/people/sturaga/) (github: [srinituraga](https://github.com/srinituraga))
  * [Peter Gehler](http://ps.is.tuebingen.mpg.de/person/gehler)
  * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
+
+# Backup mentors and other Shogun-team members
+ * Fernando ([iglesias](https://github.com/iglesias), IRC: iglesiasg)
