@@ -8,9 +8,6 @@ Continuing where we stopped [last year](https://www.google-melange.com/gsoc/proj
  * Heiko (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
 
-### Backup mentors and other Shogun-team members
- * Fernando ([iglesias](https://github.com/iglesias), IRC: iglesiasg)
-
 ### Difficulty & Requirements
 Easy to Medium -- depends on you. You need
  * ML Algorithms in C++
