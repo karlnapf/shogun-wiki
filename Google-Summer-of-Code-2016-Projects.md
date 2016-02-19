@@ -24,8 +24,10 @@ Furthermore, we plan an experiment this year: an additional side-project that al
 These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering.
 
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
- * [**SWIG, Matlab & modular interfaces**](GSoC_2015_project_swig)
+ * [**Unified ML interface, plugin-based architecture**](GSoC_2015_plugin)
  * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
+ * [**A Shogun Detox**](GSoC_2015_clean_up_infrastructure)
+ * [**SWIG, Matlab & modular interfaces**](GSoC_2015_project_swig)
  * [HMM cleanup and application](GSoC_2015_project_hmms)
  * [Native MS Windows port](GSoC_2015_windows)
  * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
@@ -37,8 +39,8 @@ The projects we would like to limit in numbers.
 ### Algorithms
  * [**Large Scale Gaussian Processes**](GSoC_2015_project_large_gps)
  * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
- * [Fundamental ML: LGSSMs](GSoC_2015_project_fundamental)
- * [Density Estimation in Infinite Dimensional Exponential Families](GSoC_2015_project_kernel_infinite_exponential)
+ * [**Fundamental ML: LGSSMs**](GSoC_2015_project_fundamental)
+ * [**Density Estimation in Infinite Dimensional Exponential Families**](GSoC_2015_project_kernel_infinite_exponential)
  * [Large scale statistical testing](GSoC_2015_project_large_testing)
  * [Solver for the KKT System](GSoC_2015_project_kkt)
  * [Dual coordinate ascent solver for SO-SVM](GSoC_2015_project_dca_sosvm)
@@ -47,11 +49,9 @@ The projects we would like to limit in numbers.
 
 
 ### Framework
- * [**Unified ML interface, plugin-based architecture**](GSoC_2015_plugin)
- * [**A Shogun Detox**](GSoC_2015_clean_up_infrastructure)
+ * [**MCMC & Stan**](GSoC_2015_project_MCMC_Stan)
+ * [** Autodiff & Tensorflow**](GSoC_2016_project_autodiff_tensorflow)
  * [Independent jobs Framework](GSoC_2015_cluster_shogun)
- * [MCMC & Stan](GSoC_2015_project_MCMC_Stan)
- * [Autodiff & Tensorflow](GSoC_2016_project_autodiff_tensorflow)
  * [Shogun cloud extensions](GSoC_2015_cloud_shogun)
 
 
