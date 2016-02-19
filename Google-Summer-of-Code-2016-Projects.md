@@ -25,6 +25,7 @@ These are roughly ordered in our priority in them. Most of them *do not* focus o
 
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
  * [**SWIG, Matlab & modular interfaces**](GSoC_2015_project_swig)
+ * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
  * [HMM cleanup and application](GSoC_2015_project_hmms)
  * [Native MS Windows port](GSoC_2015_windows)
  * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
@@ -34,7 +35,6 @@ These are roughly ordered in our priority in them. Most of them *do not* focus o
 The projects we would like to limit in numbers.
 
 ### Algorithms
- * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
  * [**Large Scale Gaussian Processes**](GSoC_2015_project_large_gps)
  * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
  * [Fundamental ML: LGSSMs](GSoC_2015_project_fundamental)
