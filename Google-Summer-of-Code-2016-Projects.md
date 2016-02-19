@@ -50,7 +50,7 @@ The projects we would like to limit in numbers.
 
 ### Framework
  * [**MCMC & Stan**](GSoC_2015_project_MCMC_Stan)
- * [** Autodiff & Tensorflow**](GSoC_2016_project_autodiff_tensorflow)
+ * [**Tensorflow backend**](GSoC_2016_project_autodiff_tensorflow)
  * [Independent jobs Framework](GSoC_2015_cluster_shogun)
  * [Shogun cloud extensions](GSoC_2015_cloud_shogun)
 
