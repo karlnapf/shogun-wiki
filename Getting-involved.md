@@ -1,7 +1,7 @@
 ## Getting involved with Shogun
 Welcome to our FAQ on how to get involved with Shogun and Google Summer of Code. While this FAQ is mostly written for GSoC students, it also contains lots of useful tips for getting involved in general. If you can't find what you're looking for, try the [Wiki](https://github.com/shogun-toolbox/shogun/wiki) or drop [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz) a line. 
 
-## Project Ideas
+## GSoC 2016 - Project Ideas
 Curious about the projects we offer? Have your own idea? A collection of project ideas are [here](Google Summer of Code 2015 projects), last year's projects are [here](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas). 
 
 ## What we are looking for
