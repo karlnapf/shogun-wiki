@@ -12,6 +12,8 @@ This year's GSoC is about improving Shogun, rather than extending it. Exceptions
 
 **[Mentors (and students) this year](GSoC_2016_mentors_students)**
 
+**If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz)**
+
 # Projects
 **Bold** projects are more likely to happen. **ALL** students will be required to:
 
