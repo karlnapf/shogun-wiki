@@ -10,7 +10,7 @@ This year's GSoC is about improving Shogun, rather than extending it (exceptions
  * *Fewer* new algorithms. Rather improve existing ones: easier use, efficiency, better documentation, more applications
  * *Fewer* students. A chance for more intense mentoring, interaction between students, blogging, documenting
 
-**[Mentors (and students) this year](GSoC_2016_mentors_students)**
+**[2016 Mentors](GSoC_2016_mentors_students)**
 
 If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz)
 
