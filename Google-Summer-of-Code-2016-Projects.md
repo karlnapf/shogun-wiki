@@ -1,18 +1,18 @@
 # Google Summer of Code 2016
 Welcome Students (and mentors)! See [how to get involved](https://github.com/shogun-toolbox/shogun/wiki/Getting-involved) and our [GSoC blog posts](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts).
 
-# Potential projects.
+# Potential projects
 This is a growing list. To add, please create a new wiki page for each project that you describe. Name them as "GSoC_2016_project_XXX" etc. Here is a [template](GSoC_project_template).
 
 # Main focus
-This year's GSoC is about improving Shogun, rather than extending it. Exceptions allowed. We aim to recruit new *long-term* developers.
+This year's GSoC is about improving Shogun, rather than extending it (exceptions allowed). We also want to recruit new *long-term* developers.
 
- * *Fewer* new algorithms. Rather improve existing ones: Usability, efficiency, documentation, application
- * *Fewer* students. More intense mentoring, interaction between students, blogging, documenting
+ * *Fewer* new algorithms. Rather improve existing ones: easier use, efficiency, better documentation, more applications
+ * *Fewer* students. A chance for more intense mentoring, interaction between students, blogging, documenting
 
 **[Mentors (and students) this year](GSoC_2016_mentors_students)**
 
-**If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz)**
+If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz)
 
 # Projects
 **Bold** projects are more likely to happen. **ALL** students will be required to:
