@@ -37,7 +37,7 @@ These are roughly ordered in our priority in them. Most of them *do not* focus o
 The projects we would like to limit in numbers.
 
 ### Algorithms
- * [**Large Scale Gaussian Processes**](GSoC_2015_project_large_gps)
+ * [**Gaussian Processes & tensorflow autodiff**](GSoC_2015_project_large_gps)
  * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
  * [**Fundamental ML: LGSSMs**](GSoC_2015_project_fundamental)
  * [**Density Estimation in Infinite Dimensional Exponential Families**](GSoC_2015_project_kernel_infinite_exponential)
@@ -50,7 +50,6 @@ The projects we would like to limit in numbers.
 
 ### Framework
  * [**MCMC & Stan**](GSoC_2015_project_MCMC_Stan)
- * [**Tensorflow backend**](GSoC_2016_project_autodiff_tensorflow)
  * [Independent jobs Framework](GSoC_2015_cluster_shogun)
  * [Shogun cloud extensions](GSoC_2015_cloud_shogun)
 
