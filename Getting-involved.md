@@ -1,12 +1,20 @@
 ## Getting involved with Shogun
 Welcome to our FAQ on how to get involved with Shogun and Google Summer of Code. While this FAQ is mostly written for GSoC students, it also contains lots of useful tips for getting involved in general. If you can't find what you're looking for, try the [Wiki](https://github.com/shogun-toolbox/shogun/wiki) or drop [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz) a line. 
 
-If you are looking for the project ideas, you will find them [here](Google Summer of Code 2015 projects), last year's projects are [here](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas). We are looking for you: After our successful participation in the last four GSoC, we want to take Shogun up another notch with your help. So
- * if you are interested in Machine Learning (ML), Statistics, Optimization, or just C++ coding, framework design
- * if you enjoy working with a vibrant team of experienced Machine Learning scientists
- * if you always wanted to join open-source, you should consider spending the summer working with the enthusiastic and open-minded team of developers that are creating one of the largest ML toolboxes out there
+## Project Ideas
+Curious about the projects we offer? Have your own idea? A collection of project ideas are [here](Google Summer of Code 2015 projects), last year's projects are [here](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas). 
 
-Then GSoC is a great program and lots of fun. You can read some blog posts about our past participation [here](GSoC_follow_ups).
+## What we are looking for
+We have successfully participated in four summers of GSoC. This year we want to take Shogun up another notch with your help:
+
+
+ * if you are interested in Machine Learning (ML), Statistics, Optimization, framework design, or just C++ coding
+ * if you enjoy working with a vibrant team of experienced ML scientists
+ * if you always wanted to join open-source 
+
+then GSoC with Shogun is for you! You'll spend the summer working with our enthusiastic and open-minded team of developers who are creating one of the largest ML toolboxes out there.
+
+GSoC is a great program and every year we have lots of fun. You can read some blog posts about our past participations [here](GSoC_follow_ups).
 
 ## Female students
 Without exception, currently all Shogun developers are male. We would like to change this - to create a nicer atmosphere and to [work more effectively](http://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html?_r=0). In order to achieve a more balanced gender distribution in GSoC, **we are in particular looking for female students to apply to us**.
