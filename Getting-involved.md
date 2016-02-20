@@ -57,7 +57,7 @@ Here is a very basic list of things how to get started hacking Shogun. It requir
 8. Every pull request will trigger travis to compile and run tests on your branch, see [travis](https://travis-ci.org/shogun-toolbox/shogun). If those are all green, someone of the core-developers will merge after giving feedback. Feedback usually takes a few iterations of you changing things and us commenting in the beginning.
 9. Goto 4.
 
-### Useful ressoruces
+### Useful resources
  * [Develop branch](https://github.com/shogun-toolbox/shogun/tree/develop)
  * [Markdown doc files]([https://github.com/shogun-toolbox/shogun/tree/develop/doc])
  * [C++ examples (aka libshogun examples)]((https://github.com/shogun-toolbox/shogun/tree/develop/examples/undocumented/libshogun))
@@ -72,3 +72,4 @@ Here is a very basic list of things how to get started hacking Shogun. It requir
  * [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
  * [Previous GSoC blog posts](GSoC-follow-up-blog-posts)
  * [Mailing list archives](http://blog.gmane.org/gmane.comp.ai.machine-learning.shogun)
+ * [List of Shogun interfaces](http://www.shogun-toolbox.org/doc/en/latest/namespaceshogun.html)
