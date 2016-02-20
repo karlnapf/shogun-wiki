@@ -15,6 +15,7 @@ The Shogun Team  {#authors}
  * [Björn Esser, irc: besser82](Bjoern Esser)
  * [Thoralf Klein, irc: thoralf](Thoralf Klein)
  * [Wu Lin, irc: yorkerlin](Wu Lin)
+ * [Lea Goetz, irc: leagoetz](Lea Goetz)
 
 ## Inactive members:
  * Christian Widmer
