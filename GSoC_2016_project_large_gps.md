@@ -38,6 +38,7 @@ Following last year's successful project on [variational learning for Big Data](
  * base class for using external or build-in minimizers ([LBFGSMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1LBFGSMinimizer.html) and [NLOPTMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1NLOPTMinimizer.html))
  * (for full GP) classes for computing gradient wrt variaitonal variables and hyper-parameters using Tensorflow and existing hand-implemented codes 
  * (for full GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky part)
+ * Benchmarks and notebooks for demos 
  * classes for using build-in LBFGS minimizer 
  * base class for MC samplers
  * classes for using existing MC samplers 
