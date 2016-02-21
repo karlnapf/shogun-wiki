@@ -44,7 +44,7 @@ Following last year's successful project on [variational learning for Big Data](
  * (for sparse GP) classes for computing gradient wrt variaitonal variables and hyper-parameters using Tensorflow and existing hand-implemented codes 
  * (for sparse GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky part)
  * classes for HMC samplers from Stan (optional)
- * base class for model selection (eg, BayeOPT) (optional)
+ * base class for model selection (eg, Bayesian OPT) (optional)
 
 #### MCMC inference (optional)
 
