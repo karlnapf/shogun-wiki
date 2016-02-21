@@ -36,7 +36,7 @@ Following last year's successful project on [variational learning for Big Data](
 ### Optional
 
 **Alternatives to scale up kernel machines. Also useful for other of Shogun's methods**
- * Incomplete Cholesky
+ * Incomplete (banded) Cholesky inference for GP binary classification using Tensorflow
  * Random Fourier Features
 
 Other:
