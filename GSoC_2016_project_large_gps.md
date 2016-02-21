@@ -26,8 +26,8 @@ Following last year's successful project on [variational learning for Big Data](
 
 ### Waypoints and initial work
  * Exact inference for (full) GP regression using Tensorflow (entrance task) 
- * Variational inference for (full) GP binary classification using Tensorflow (KLCholeskyInferenceMethod, KLApproxDiagonalInferenceMethod, and KLCovarianceInferenceMethod)
- * Variational inference for sparse GP (regression & classification) using Tensorflow  (FITCInferenceMethod and SparseVGInferenceMethod)
+ * Variational inference for (full) GP binary classification using Tensorflow ([KLCovarianceInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCovarianceInferenceMethod.html), [KLCholeskyInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCholeskyInferenceMethod.html), and [KLApproxDiagonalInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLApproxDiagonalInferenceMethod.html))
+ * Variational inference for sparse GP (regression & classification) using Tensorflow  ([FITCInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CFITCInferenceMethod.html) and [SparseVGInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CSparseVGInferenceMethod.html))
  * Make beautiful demos and benchmarks  
  * Stochastic variational inference for sparse GP using Tensorflow (optional)
 
