@@ -37,6 +37,7 @@ Following last year's successful project on [variational learning for Big Data](
  * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
  * base class for using external or build-in minimizers 
  * classes for computing gradient wrt variaitonal variables and hyper-parameters using Tensorflow and existing hand-implemented codes 
+ * classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky part)
  * classes for using build-in LBFGS minimizer 
  * base class for MC samplers
  * classes for existing MC samplers 
