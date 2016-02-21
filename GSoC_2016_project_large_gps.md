@@ -25,13 +25,22 @@ Following last year's successful project on [variational learning for Big Data](
  * Applications
 
 ### Waypoints and initial work
- * Exact inference for GP regression using Tensorflow (entry task)
+ * Exact inference for GP regression using Tensorflow (entrance task)
  * Variational inference for GP binary classification using Tensorflow
  * Variational inference for sparse GP (regression & classification) using Tensorflow
- * Stochastic variational inference for sparse GP using Tensorflow
  * Make beautiful demos and benchmarks  
+ * Stochastic variational inference for sparse GP using Tensorflow (if we have time)
 
-### New framework for Shogun's GP 
+### Refactoring existing framework
+#### Variational Gaussian inference
+ * base class for computing gradient of Evidence Lower BOund (ELBO) wrt variaitonal variables 
+ * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
+ * base class for using external or build-in minimizers (eg, LBFGS)
+ * classes for computing gradient wrt variaitonal variables and hyper-parameters using Tensorflow and existing hand-implemented codes 
+ * base class for MC samplers
+ * classes for existing MC samplers 
+ * classes for HMC samplers from Stan (if we have time)
+#### MCMC inference (if we have time)
 
 ### Optional
 
