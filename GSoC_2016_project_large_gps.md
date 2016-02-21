@@ -11,7 +11,7 @@
 Medium to Difficult
 You need know
  * Gaussian Process basics
- * Variational approximation basics (You should understand at least the full GP part in this [Notebook](http://www.shogun-toolbox.org/static/notebook/current/variational_classifier.html) )
+ * Variational approximation basics (You should understand at least the full GP part in this [Notebook](http://www.shogun-toolbox.org/static/notebook/current/variational_classifier.html))
  * Linear Algebra
  * Linear Algebra in C++
 
