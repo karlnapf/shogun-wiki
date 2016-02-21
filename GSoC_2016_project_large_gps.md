@@ -28,8 +28,10 @@ Following last year's successful project on [variational learning for Big Data](
  * Exact inference for GP regression using Tensorflow (entry task)
  * Variational inference for GP binary classification using Tensorflow
  * Variational inference for sparse GP (regression & classification) using Tensorflow
- * Stochastic Variational inference for sparse GP using Tensorflow
+ * Stochastic variational inference for sparse GP using Tensorflow
  * Make beautiful demos and benchmarks  
+
+### New Framework for Shogun's GP 
 
 ### Optional
 
