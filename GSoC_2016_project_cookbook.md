@@ -1,7 +1,9 @@
 # A Shogun cookbook
 
+[Prototype link](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/sphinx)
+
 ### Mentors
- * Heiko (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
+ * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
 
 ### Difficulty & Requirements
