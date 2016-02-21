@@ -40,6 +40,7 @@ Following last year's successful project on [variational learning for Big Data](
  * base class for MC samplers
  * classes for existing MC samplers 
  * classes for HMC samplers from Stan (if we have time)
+
 #### MCMC inference (if we have time)
 
 ### Optional
