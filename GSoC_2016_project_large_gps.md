@@ -62,8 +62,8 @@ Our primary goal is to scale up GPs to make it possible to apply GPs to many suc
 
 ### Useful ressources
  * [GPflow using Tensorflow](https://github.com/GPflow/GPflow)
- * [Variational Gaussian inference for full GP](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLInferenceMethod.html)
- * [Variational Gaussian inference for sparse GP](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CSparseInferenceBase.html)
+ * [Shogun's variational Gaussian inference for full GP](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLInferenceMethod.html)
+ * [Shogun's variational Gaussian inference for sparse GP](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CSparseInferenceBase.html)
  * [Approximations for Binary Gaussian Process Classification](http://www.jmlr.org/papers/volume9/nickisch08a/nickisch08a.pdf)
  * [Concave Gaussian Variational Approximations for Inference in Large-Scale Bayesian Linear Models](http://www.jmlr.org/proceedings/papers/v15/challis11a/challis11a.pdf)
  * [Variational Learning of Inducing Variables in Sparse Gaussian Processes](http://www.jmlr.org/proceedings/papers/v5/titsias09a/titsias09a.pdf)
