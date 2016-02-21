@@ -19,20 +19,20 @@ You need know
 Following last year's successful project on [variational learning for Big Data](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas#variational_learning), we attempt to bring Shogun's Gaussian Processes (GP) to Big Data land. From a high level perspective, this means that the goal is to implement established methodology on how to scale up GPs to be able to process hundreds of thousands of points. The focus is on regression and classification. We also focuss on applications of GPs to big data where we will consider application to recommendation systems and to learning preferences of people in a social network.
 
 ### Details
- * Variational inference for GP using Tensorflow
+ * Variational inference for (full) GP using Tensorflow
  * Variational inference for sparse GP using Tensorflow
  * Stochastic variational inference for sparse GP using Tensorflow
  * Applications
 
 ### Waypoints and initial work
- * Exact inference for GP regression using Tensorflow (entrance task)
- * Variational inference for GP binary classification using Tensorflow
+ * Exact inference for (full) GP regression using Tensorflow (entrance task)
+ * Variational inference for (full) GP binary classification using Tensorflow
  * Variational inference for sparse GP (regression & classification) using Tensorflow
  * Make beautiful demos and benchmarks  
  * Stochastic variational inference for sparse GP using Tensorflow (Optional)
 
 ### Refactoring existing framework
-#### Variational Gaussian inference
+#### Variational Gaussian inference 
  * base class for computing gradient of Evidence Lower BOund (ELBO) wrt variaitonal variables 
  * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
  * base class for using external or build-in minimizers (eg, LBFGS)
@@ -57,6 +57,8 @@ Our primary goal is to scale up GPs to make it possible to apply GPs to many suc
 
 ### Useful ressources
  * [GPflow using Tensorflow](https://github.com/GPflow/GPflow)
+ * [Variational Gaussian inference in full GP](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLInferenceMethod.html)
+ * [Variational Gaussian inference in sparse GP](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CSparseInferenceBase.html)
  * [Approximations for Binary Gaussian Process Classification](http://www.jmlr.org/papers/volume9/nickisch08a/nickisch08a.pdf)
  * [Concave Gaussian Variational Approximations for Inference in Large-Scale Bayesian Linear Models](http://www.jmlr.org/proceedings/papers/v15/challis11a/challis11a.pdf)
  * [Gaussian Processes for Big data](http://auai.org/uai2013/prints/papers/244.pdf)
