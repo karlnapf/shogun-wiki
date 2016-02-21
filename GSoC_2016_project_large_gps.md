@@ -3,7 +3,7 @@
 *Note:* This project description is likely to be updated soon, in favour of a re-factoring of Shogun's GPs using [Google tensorflow](https://www.tensorflow.org/) and its autodiff capabilities
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
- * [Wu](Wu%20Lin) (github: [yorkerlin](https://github.com/yorkerlin), IRC: yorkerlin)
+ * [Wu](https://www.linkedin.com/in/wu-lin-b1a587b7) (github: [yorkerlin](https://github.com/yorkerlin), IRC: yorkerlin)
  * [Emtiyaz Khan](http://www.cs.ubc.ca/~emtiyaz/)
  * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
 
