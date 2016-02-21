@@ -10,8 +10,8 @@
 ### Difficulty & Requirements
 Medium to Difficult
 You need know
- * [Gaussian Process basics](http://www.gaussianprocess.org/gpml/) (You should understand this [Notebook](http://www.shogun-toolbox.org/static/notebook/current/gaussian_processes.html))
- * Variational approximation basics (You should understand at least the full GP part of this [Notebook](http://www.shogun-toolbox.org/static/notebook/current/variational_classifier.html))
+ * [Gaussian Process basics](http://www.gaussianprocess.org/gpml/) (You should understand the [GP Notebook](http://www.shogun-toolbox.org/static/notebook/current/gaussian_processes.html))
+ * Variational approximation basics (You should understand at least the full GP part of the [Notebook for Variational Inference](http://www.shogun-toolbox.org/static/notebook/current/variational_classifier.html))
  * Linear Algebra
  * Linear Algebra in C++
 
