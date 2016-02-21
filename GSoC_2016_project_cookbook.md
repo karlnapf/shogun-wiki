@@ -15,7 +15,7 @@ Easy. You need to be able to
  * Desirable: Shogun experience
 
 ### Description
-This project is about bringing a new Shogun cookook to life. This puts together a year of work on Shogun's [meta language](https://github.com/shogun-toolbox/shogun/wiki/Example_Generation), and our [prototype](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/sphinx) for a sphinx-based API documentation system. The goal is to have API example that cover all target languages and all algorithms, in a form that looks like [this](https://cloud.githubusercontent.com/assets/3594351/13198115/548b778c-d7f8-11e5-9095-f1c4e7e6fba7.jpg).
+This project is about bringing a new Shogun cookook to life. This puts together a year of work on Shogun's [meta language](https://github.com/shogun-toolbox/shogun/wiki/Example_Generation), and our [prototype](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/sphinx) for a sphinx-based API documentation system. The goal is to have API example that cover all target languages and all algorithms, in a form that looks like [this](https://cloud.githubusercontent.com/assets/3594351/13205088/1c3a9252-d8d7-11e5-8c52-6f124b11c7e7.png).
 
 
 
