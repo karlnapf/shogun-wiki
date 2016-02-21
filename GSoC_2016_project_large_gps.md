@@ -35,8 +35,9 @@ Following last year's successful project on [variational learning for Big Data](
 #### Variational Gaussian inference 
  * base class for computing gradient of Evidence Lower BOund (ELBO) wrt variaitonal variables 
  * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
- * base class for using external or build-in minimizers (eg, LBFGS)
+ * base class for using external or build-in minimizers 
  * classes for computing gradient wrt variaitonal variables and hyper-parameters using Tensorflow and existing hand-implemented codes 
+ * classes for using build-in LBFGS minimizer 
  * base class for MC samplers
  * classes for existing MC samplers 
  * classes for HMC samplers from Stan (Optional)
