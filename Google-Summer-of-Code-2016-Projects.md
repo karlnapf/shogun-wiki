@@ -39,7 +39,7 @@ These are roughly ordered in our priority in them. Most of them *do not* focus o
 The projects we would like to limit in numbers.
 
 ### Algorithms
- * [**Gaussian Processes & tensorflow autodiff**](GSoC_2015_project_large_gps)
+ * [**Gaussian Processes & tensorflow autodiff**](GSoC_2016_project_large_gps)
  * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
  * [**Fundamental ML: LGSSMs**](GSoC_2015_project_fundamental)
  * [**Density Estimation in Infinite Dimensional Exponential Families**](GSoC_2015_project_kernel_infinite_exponential)
