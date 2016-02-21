@@ -8,7 +8,7 @@
  * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
 
 ### Difficulty & Requirements
-Medium
+Medium to Difficult
 You need know
  * Gaussian Process basics
  * Variational approximation basics
