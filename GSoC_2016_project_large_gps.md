@@ -57,6 +57,8 @@ Our primary goal is to scale up GPs to make it possible to apply GPs to many suc
 
 ### Useful ressources
  * [GPflow using Tensorflow](https://github.com/GPflow/GPflow)
+ * [Approximations for Binary Gaussian Process Classification](http://www.jmlr.org/papers/volume9/nickisch08a/nickisch08a.pdf)
+ * [Concave Gaussian Variational Approximations for Inference in Large-Scale Bayesian Linear Models](http://www.jmlr.org/proceedings/papers/v15/challis11a/challis11a.pdf)
  * [Gaussian Processes for Big data](http://auai.org/uai2013/prints/papers/244.pdf)
  * [Scalable Variational Gaussian Process Classification](http://staffwww.dcs.sheffield.ac.uk/people/J.Hensman/papers/KLsparse.pdf)
  * [Distributed Gaussian Processes](http://arxiv.org/abs/1502.02843)
