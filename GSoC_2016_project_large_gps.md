@@ -56,6 +56,7 @@ Other:
 Our primary goal is to scale up GPs to make it possible to apply GPs to many such applications useful for big data. GPs are becoming more and more popular for big data since not only they provide accurate predictions but they also tell us how confident we should be about our prediction (aka uncertainty quantification) and that whether we have selected the right model (aka model selection). These issues are even more relevant in the era of big data since the amount of noise also increases with the amount of data. Recent work extends the use of GPs beyond regression and classification, to a wide range of appliations from numerical optimization to recommendation system and even to deep networks, making GPs a popular choice. The main bottleneck in these applications is scalability and we want to make easy-to-use scalable code which will help the use of GPs for the machine learning community even more. 
 
 ### Useful ressources
+ * [GPflow using Tensorflow](https://github.com/GPflow/GPflow)
  * [Gaussian Processes for Big data](http://auai.org/uai2013/prints/papers/244.pdf)
  * [Scalable Variational Gaussian Process Classification](http://staffwww.dcs.sheffield.ac.uk/people/J.Hensman/papers/KLsparse.pdf)
  * [Distributed Gaussian Processes](http://arxiv.org/abs/1502.02843)
