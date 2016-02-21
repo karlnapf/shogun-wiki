@@ -19,17 +19,17 @@ You need know
 Following last year's successful project on [variational learning for Big Data](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas#variational_learning), we attempt to bring Shogun's Gaussian Processes (GP) to Big Data land. From a high level perspective, this means that the goal is to implement established methodology on how to scale up GPs to be able to process hundreds of thousands of points. The focus is on regression and classification. We also focuss on applications of GPs to big data where we will consider application to recommendation systems and to learning preferences of people in a social network.
 
 ### Details
- * Sparse GP approximations.
- * Stochastic Variational inference (regression & classification)
- * Distributed GP (possibly touching the Shogun cluster project)
+ * Variational inference for GP using Tensorflow
+ * Variational inference for sparse GP using Tensorflow
+ * Stochastic variational inference for sparse GP using Tensorflow
  * Applications
 
 ### Waypoints and initial work
- * Extend current GP implementation to sparse approximation.
- * Implement variational inference for sparse approximation (Titsias' method).
- * Implement Stochastic variational inference for GP latent variable model.
- * Apply to large scale recommendation systems.
- * Make beautiful demos.
+ * Exact inference for GP regression using Tensorflow (entry task)
+ * Variational inference for GP binary classification using Tensorflow
+ * Variational inference for sparse GP (regression & classification) using Tensorflow
+ * Stochastic Variational inference for sparse GP using Tensorflow
+ * Make beautiful demos and benchmarks  
 
 ### Optional
 
