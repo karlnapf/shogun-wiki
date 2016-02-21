@@ -31,7 +31,7 @@ Following last year's successful project on [variational learning for Big Data](
  * Stochastic variational inference for sparse GP using Tensorflow
  * Make beautiful demos and benchmarks  
 
-### New Framework for Shogun's GP 
+### New framework for Shogun's GP 
 
 ### Optional
 
