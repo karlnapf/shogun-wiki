@@ -37,13 +37,13 @@ Following last year's successful project on [variational learning for Big Data](
  * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
  * base class for using external or build-in minimizers ([LBFGSMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1LBFGSMinimizer.html) and [NLOPTMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1NLOPTMinimizer.html))
  * (for full GP) classes for computing gradient wrt variaitonal variables using Tensorflow and existing hand-implemented codes 
- * (for full GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky part)
+ * (for full GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky)
  * Benchmarks and notebooks for demos 
  * classes for using build-in LBFGS minimizer 
  * base class for MC samplers
  * classes for using existing MC samplers 
  * (for sparse GP) classes for computing gradient wrt variaitonal variables using Tensorflow and existing hand-implemented codes 
- * (for sparse GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky part)
+ * (for sparse GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky)
  * classes for HMC samplers from Stan (optional)
  * base class for model selection (eg, Bayesian OPT) (optional)
 
