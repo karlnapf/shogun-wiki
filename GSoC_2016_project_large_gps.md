@@ -35,7 +35,7 @@ Following last year's successful project on [variational learning for Big Data](
 #### Variational Gaussian inference (Suggested Roadmap)
  * base class for computing gradient of Evidence Lower BOund (ELBO) wrt variaitonal variables 
  * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
- * base class for using external or build-in minimizers (LBFGSMinimizer and NLOPTMinimizer)
+ * base class for using external or build-in minimizers ([LBFGSMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1LBFGSMinimizer.html) and [NLOPTMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1NLOPTMinimizer.html))
  * (for full GP) classes for computing gradient wrt variaitonal variables and hyper-parameters using Tensorflow and existing hand-implemented codes 
  * (for full GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky part)
  * classes for using build-in LBFGS minimizer 
