@@ -25,9 +25,9 @@ Following last year's successful project on [variational learning for Big Data](
  * Applications
 
 ### Waypoints and initial work
- * Exact inference for (full) GP regression using Tensorflow (entrance task)
- * Variational inference for (full) GP binary classification using Tensorflow
- * Variational inference for sparse GP (regression & classification) using Tensorflow 
+ * Exact inference for (full) GP regression using Tensorflow (entrance task) 
+ * Variational inference for (full) GP binary classification using Tensorflow (KLCholeskyInferenceMethod, KLApproxDiagonalInferenceMethod, and KLCovarianceInferenceMethod)
+ * Variational inference for sparse GP (regression & classification) using Tensorflow  (FITCInferenceMethod and SparseVGInferenceMethod)
  * Make beautiful demos and benchmarks  
  * Stochastic variational inference for sparse GP using Tensorflow (optional)
 
@@ -35,12 +35,12 @@ Following last year's successful project on [variational learning for Big Data](
 #### Variational Gaussian inference (Suggested Roadmap)
  * base class for computing gradient of Evidence Lower BOund (ELBO) wrt variaitonal variables 
  * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
- * base class for using external or build-in minimizers 
+ * base class for using external or build-in minimizers (LBFGSMinimizer and NLOPTMinimizer)
  * (for full GP) classes for computing gradient wrt variaitonal variables and hyper-parameters using Tensorflow and existing hand-implemented codes 
  * (for full GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky part)
  * classes for using build-in LBFGS minimizer 
  * base class for MC samplers
- * classes for existing MC samplers 
+ * classes for using existing MC samplers 
  * (for sparse GP) classes for computing gradient wrt variaitonal variables and hyper-parameters using Tensorflow and existing hand-implemented codes 
  * (for sparse GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky part)
  * classes for HMC samplers from Stan (optional)
