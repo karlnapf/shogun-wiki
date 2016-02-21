@@ -29,7 +29,7 @@ Following last year's successful project on [variational learning for Big Data](
  * Variational inference for (full) GP binary classification using Tensorflow
  * Variational inference for sparse GP (regression & classification) using Tensorflow
  * Make beautiful demos and benchmarks  
- * Stochastic variational inference for sparse GP using Tensorflow (Optional)
+ * Stochastic variational inference for sparse GP using Tensorflow (optional)
 
 ### Refactoring existing framework
 #### Variational Gaussian inference 
@@ -41,9 +41,10 @@ Following last year's successful project on [variational learning for Big Data](
  * classes for using build-in LBFGS minimizer 
  * base class for MC samplers
  * classes for existing MC samplers 
- * classes for HMC samplers from Stan (Optional)
+ * classes for HMC samplers from Stan (optional)
+ * base class for model selection (eg, BayeOPT) (optional)
 
-#### MCMC inference (Optional)
+#### MCMC inference (optional)
 
 ### Optional
 
