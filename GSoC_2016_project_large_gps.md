@@ -1,7 +1,5 @@
 # Large-Scale Gaussian Processes
 
-Note: This project description is yet incomplete
-
 Polish, update, and extend Shogun's framework for Gaussian Processes, with a focus on large-scale problems and sparse variational inference.
 
 ### Mentors
@@ -9,18 +7,20 @@ Polish, update, and extend Shogun's framework for Gaussian Processes, with a foc
  * [Emtiyaz Khan](http://www.cs.ubc.ca/~emtiyaz/)
 
 ### Difficulty & Requirements
-Medium to Difficult
-You need know
+**Medium to Difficult**
+
+
+You need know:
  * [Gaussian Process basics](http://www.gaussianprocess.org/gpml/) (You should understand the [GP Notebook](http://www.shogun-toolbox.org/static/notebook/current/gaussian_processes.html))
  * Variational approximation basics (You should understand at least the full GP part of the [Notebook for Variational Inference](http://www.shogun-toolbox.org/static/notebook/current/variational_classifier.html))
  * Linear Algebra (math & in C++)
 
 ### Description
-Following previous successful project on [variational learning for Big Data](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas#variational_learning), we attempt to bring Shogun's Gaussian Processes (GP) to Big Data land. From a high level perspective, this means that the goal is to implement established methodology on how to scale up GPs to be able to process hundreds of thousands of points.
+Following our previous successful project on [variational learning for Big Data](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas#variational_learning), we attempt to bring Shogun's Gaussian Processes (GP) to Big Data land. From a high level perspective, this means that the goal is to implement established methodology on how to scale up GPs to be able to process hundreds of thousands of points.
 
 
 ### Details
-We attempt to put attention to the following sub-tasks:
+We want to focus on the following sub-tasks:
 
  * Variational inference for (full) GP
  * Variational inference for sparse GP
@@ -28,7 +28,7 @@ We attempt to put attention to the following sub-tasks:
  * Applications
  
 
-The project will start from the existing code base, which already contains a huge amount of work. We aim to fill the gaps with respect to the above methods.
+The project will start from the existing code base, which already contains a huge amount of work. We aim to fill the gaps in the above methods:
 
  * Implement all standard methods that are not yet in the framework
  * Benchmark existing methods against competing implementations (such as GPStuff, GPflow, GPML, etc)
@@ -68,7 +68,7 @@ Other:
  * Deep GP
 
 ### Why this is cool
-Our primary goal is to scale up GPs to make it possible to apply GPs to many such applications useful for big data. GPs are becoming more and more popular for big data since not only they provide accurate predictions but they also tell us how confident we should be about our prediction (aka uncertainty quantification) and that whether we have selected the right model (aka model selection). These issues are even more relevant in the era of big data since the amount of noise also increases with the amount of data. Recent work extends the use of GPs beyond regression and classification, to a wide range of appliations from numerical optimization to recommendation system and even to deep networks, making GPs a popular choice. The main bottleneck in these applications is scalability and we want to make easy-to-use scalable code which will help the use of GPs for the machine learning community even more. 
+Our primary goal is to scale up GPs to use them in "big data" applications. GPs are becoming more and more popular for big data because they provide both accurate predictions, tell us how confident we should be about our prediction (aka uncertainty quantification) and also whether we have selected the right model (aka model selection). With big data comes big noise, so these issues are becoming ever more relevant. Recently GPs are a popular choice beyond regression and classification for a wide range of appliations from numerical optimization to recommendation system and even to deep networks. The main bottleneck in these applications is scalability. Therefore, we want you to write easy-to-use, scalable code which will help the machine learning community to use GPs. 
 
 ### Useful ressources
  * [GPflow using Tensorflow](https://github.com/GPflow/GPflow)
