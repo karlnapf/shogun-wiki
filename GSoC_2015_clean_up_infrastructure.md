@@ -7,7 +7,7 @@
 
 
 ### Difficulty & Requirements
-**Medium.** but requires a lot of initiative and willingness to dive into existing code (that is not pretty).
+**Medium.** But requires a lot of initiative and willingness to dive into existing code (that is not pretty).
 
 You need know
  * Shogun's internals (to an extend)
