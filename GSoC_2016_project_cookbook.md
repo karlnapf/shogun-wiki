@@ -5,11 +5,12 @@
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
+ * [Lea] (github: [lgoetz](https://github.com/lgoetz), IRC: leagoetz)
 
 ### Difficulty & Requirements
-Easy. You need to be able to
+Easy. You need to
  * Write English
- * Experience in web-design
+ * Have some experience in web-design
  * Code in Python
  * Desirable: Sphinx, CMake
  * Desirable: Shogun experience
