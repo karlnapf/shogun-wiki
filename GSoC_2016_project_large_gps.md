@@ -1,5 +1,7 @@
 # Large-Scale Gaussian Processes
 
+Note: This project description is yet incomplete
+
 Polish, update, and extend Shogun's framework for Gaussian Processes, with a focus on large-scale problems and sparse variational inference.
 
 ### Mentors
