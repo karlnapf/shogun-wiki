@@ -38,7 +38,7 @@ Note that projects extending Shogun have a lower priority than projects improvin
 
 ### Algorithms
  * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
- * [**Gaussian Processes & tensorflow autodiff**](GSoC_2016_project_large_gps)
+ * [**Large-Scale Gaussian Processes**](GSoC_2016_project_large_gps)
  * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
  * [**Approximate kernel methods**](GSoC_2016_project_approx_kernels)
  * [Fundamental ML: LGSSMs](GSoC_2015_project_fundamental)
