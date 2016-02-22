@@ -30,7 +30,7 @@ Projects improving Shogun are the main focus of this year's GSoC. They are rough
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
  * [**Unified ML interface, plugin-based architecture**](GSoC_2015_plugin)
  * [**A Shogun Detox**](GSoC_2015_clean_up_infrastructure)
- * [**SWIG, Matlab & modular interfaces**](GSoC_2015_project_swig)
+ * [SWIG, Matlab & modular interfaces](GSoC_2015_project_swig)
  * [Native MS Windows port](GSoC_2015_windows)
  
 ## Extending Shogun
