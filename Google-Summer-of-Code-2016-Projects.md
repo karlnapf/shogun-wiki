@@ -60,7 +60,7 @@ Note that projects extending Shogun have a lower priority than projects improvin
 
 
 ## Other ideas:
-We are also open for your ideas: If you have a cool idea for an application, collaboration with another project, let us know!
+We are also open for your ideas: If you have a cool idea for an application or collaboration with another project, let us know! **To add** your project, please create a new wiki page for each project that you describe. Name them as "GSoC_2016_project_XXX" etc. Here is a [template](GSoC_project_template).
 
  * Cool pipelines:
    * A kaggle pipeline for supervised prediction.
@@ -73,4 +73,4 @@ We are also open for your ideas: If you have a cool idea for an application, col
 ## Infrastructure:
  * [REST interface](GSoC_2015_project_rest)
 
-Our list of projects is a growing list. **To add**, please create a new wiki page for each project that you describe. Name them as "GSoC_2016_project_XXX" etc. Here is a [template](GSoC_project_template).
+Our list of projects is a growing list. 
