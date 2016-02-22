@@ -37,7 +37,7 @@ Projects improving Shogun are the main focus of this year's GSoC. They are rough
  * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
  * [Flexible modelselection 2](GSoC_2015_project_modelselection)
  
-## Extending Shogun:
+## Extending Shogun
 Note that projects extending Shogun have a lower priority than projects improving Shogun.
 
 ### Algorithms
@@ -66,7 +66,8 @@ Note that projects extending Shogun have a lower priority than projects improvin
    * Some bio thing?
    * Collaboration with MLPack for toolkit wide performance/accuracy testing
 
-This is a growing list. **To add**, please create a new wiki page for each project that you describe. Name them as "GSoC_2016_project_XXX" etc. Here is a [template](GSoC_project_template).
 
 ## Infrastructure:
  * [REST interface](GSoC_2015_project_rest)
+
+Our list of projects is a growing list. **To add**, please create a new wiki page for each project that you describe. Name them as "GSoC_2016_project_XXX" etc. Here is a [template](GSoC_project_template).
