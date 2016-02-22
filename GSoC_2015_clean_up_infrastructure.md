@@ -24,25 +24,27 @@ by researchers for their studies.  Usually the focus is on "getting
 things done", proving awesome ideas and optimize them "as fast as
 possible".
 
-The drawback is that people don't care about the software engineering
-aspects.  In addition to this, lot of new technologies have shown up
-since some parts of the code has been written, which allows us to do
-even cooler things with less code.
+As a drawback, people didn't care too much about software engineering
+aspects.  In addition, lots of new technologies have shown up
+since some parts of the code have been written, which allows us to do
+even cooler things with less code now.
 
 We want this project to improve maintainability, stablility, and
-beauty.  Making common used base classes more lightweight to improve
-performance and memory consumption.  Use new and cool technologies,
-new language features (think of C++1x) amongst others may be what
-this project is about.
+beauty:
+*  Making heavily used base classes more lightweight to improve
+performance and memory consumption.  
+ * Use new and cool technologies
+ * New language features (think of C++1x) 
+ * and more
 
 The project might also contain parts of the (outdated) [linalg project](https://github.com/shogun-toolbox/shogun/wiki/GSoC_2015_project_linalg).
 
-### Target students
+### Is this project for you?
 The target group of this project are people with C/C++ background,
 an idea about "good software" engineering, and reliable software.  In
 return we offer that you'll learn a lot about basic machine learning
 algorithms; of course there are some low-hanging fruits, but if you're
-an advanced hacker, we have a lot of great ideas we could push the
+an advanced hacker, we have a lot of great ideas how to push the
 project forward.
 
 GSoC is a marathon, not a sprint.  We expect "good" performance over
@@ -118,3 +120,5 @@ Data structures:
  * Parameter.cpp
  * TParameter
  * all FileReader instances
+
+Get back to the [main projects page](Google%20Summer%20of%20Code%202016%20Projects).
