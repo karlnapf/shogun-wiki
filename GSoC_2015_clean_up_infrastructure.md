@@ -106,6 +106,9 @@ It attempts to improve one of the biggest open problems we have in Shogun: Being
 ### Useful ressources
  * All core developers
  * https://github.com/shogun-toolbox/shogun/issues/2113
+ * https://github.com/shogun-toolbox/shogun/issues/2999
+ * https://github.com/shogun-toolbox/shogun/issues/2824
+ * ...
 
 Data structures:
  * CSGObject
