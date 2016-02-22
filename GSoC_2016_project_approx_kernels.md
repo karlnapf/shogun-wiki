@@ -9,7 +9,7 @@ Focussing on one of Shogun's main strengths, this project is to polish and unify
 ### Difficulty & Requirements
 Easy to difficult - depends on what we aim for. Let's discuss this if you're interested. You need knowledge of
  * The kernel trick (any of SVM, KRR, K-PCA, etc)
- * The relation between the dual and the primal formulation when using kernels
+ * The relation between the [dual and the primal formulation](https://en.wikipedia.org/wiki/Duality_(optimization)) when using kernels
  * desirable: knowledge of approximate kernel methods (random features, etc)
  * Basic ML (what are the interfaces)
  * Basic Shogun (again, what are the interfaces)
@@ -17,7 +17,7 @@ Easy to difficult - depends on what we aim for. Let's discuss this if you're int
  * Optional: Knowledge of Shogun's ```linalg``` interface [link](https://github.com/shogun-toolbox/shogun/wiki/README_linalg)
 
 ### Description
-Approximate kernel methods are of increasingly popularity. The provide means to scale up traditional kernel-based algorithms. The idea is to perform computations in an explicit approximate feature space, which has a simpler structure and an explicit (data independent) basis.  Mathematically, this means that the underlying optimization problem is solved in its primal representation, rather than the dual one. As Shogun has one of its main focus on such large-scale kernel methods, this project is to polish, unify, and extend Shogun's kernel method implementations. The project is divided into two parts. Improving existing algorithms, and adding some state-of-the-art methods.
+Approximate kernel methods are becoming more and more popular. The provide means to scale up traditional kernel-based algorithms. The idea is to perform computations in an explicit approximate feature space, which has a simpler structure and an explicit (data independent) basis.  Mathematically, this means that the underlying optimization problem is solved in its primal representation, rather than the dual one. As Shogun has one of its main focus on such large-scale kernel methods, this project is to polish, unify, and extend Shogun's kernel method implementations. The project is divided into two parts. Improving existing algorithms, and adding some state-of-the-art methods.
 
 
 ### Details
