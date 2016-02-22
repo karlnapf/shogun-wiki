@@ -3,9 +3,9 @@
 [Prototype link](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/cookbook)
 
 ### Mentors
+ * [Lea](Lea%20Goetz) (github: [lgoetz](https://github.com/lgoetz), IRC: leagoetz)
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
- * [Lea](Lea%20Goetz) (github: [lgoetz](https://github.com/lgoetz), IRC: leagoetz)
 
 ### Difficulty & Requirements
 Easy. You need to
@@ -26,7 +26,7 @@ As you see in the screenshot above, there will be code listings for all target l
 ### Waypoints and initial work
 To start, you can:
 
- * Check the files in our [prototype](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/sphinx) and try to run it locally.
+ * Check the README of our [prototype](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/cookbook) and try to run it locally.
  * Add an example for an existing Python example
 
 Once all Python examples are translated to meta examples, we aim to completely remove the old ones. In a next step, all generated code listings should be embedded into our CMake build.
