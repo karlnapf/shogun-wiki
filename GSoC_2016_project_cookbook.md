@@ -1,5 +1,6 @@
 # A Shogun cookbook
 
+All GSoC 2016 students will work on this project jointly, next to their main project.
 [Prototype link](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/cookbook)
 
 ### Mentors
@@ -35,7 +36,4 @@ Once all Python examples are translated to meta examples, we aim to completely r
 We also aim to remove all static interface's examples and tests. Those have to migrated to the new system too.
 
 ### Why this is cool
-Shogun's main strength is the support of a large number of target languages. This project is a great showcase for this killer feature.
-
-### Useful ressources
- * Put a list of ressources/links here
+Shogun's main strength is the support of a large number of target languages. This project is a great showcase for this killer feature. You will touch many of Shogun's ML algorithms, learn about our build system, SWIG and how to manage  multiple computer languages in a project. As most of the brain work is already done, this should be a fun opportunity for students to get to know other parts of Shogun during GSoC, and to create the community feeling of working on a project together.
