@@ -7,7 +7,7 @@ Focussing on one of Shogun's main strengths, this project is to polish and unify
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
 
 ### Difficulty & Requirements
-Easy to difficult, depends on what we aim for. You need knowledge of
+Easy to difficult - depends on what we aim for. Let's discuss this if you're interested. You need knowledge of
  * The kernel trick (any of SVM, KRR, K-PCA, etc)
  * The relation between the dual and the primal formulation when using kernels
  * desirable: knowledge of approximate kernel methods (random features, etc)
