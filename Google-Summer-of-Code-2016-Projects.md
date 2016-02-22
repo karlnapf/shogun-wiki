@@ -5,7 +5,7 @@ This page is about our GSoC projects. If you are interested, please read about [
 Do have a look at our **[2016 Mentors](GSoC_2016_mentors_students)** and get in touch!
 
 
-If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz).
+If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz), who helps us running GSoC this year.
 
 # Main focus
 This year's GSoC is about improving Shogun, rather than extending it (exceptions allowed). We also want to recruit new *long-term* developers.
