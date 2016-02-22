@@ -40,8 +40,9 @@ Note that projects extending Shogun have a lower priority than projects improvin
  * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
  * [**Gaussian Processes & tensorflow autodiff**](GSoC_2016_project_large_gps)
  * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
- * [**Fundamental ML: LGSSMs**](GSoC_2015_project_fundamental)
- * [**Density Estimation in Infinite Dimensional Exponential Families**](GSoC_2015_project_kernel_infinite_exponential)
+ * [**Approximate kernel methods**](GSoC_2016_project_approx_kernels)
+ * [Fundamental ML: LGSSMs](GSoC_2015_project_fundamental)
+ * [Density Estimation in Infinite Dimensional Exponential Families](GSoC_2015_project_kernel_infinite_exponential)
  * [Large scale statistical testing](GSoC_2015_project_large_testing)
  * [HMM cleanup and application](GSoC_2015_project_hmms)
  * [Solver for the KKT System](GSoC_2015_project_kkt)
@@ -59,12 +60,14 @@ Note that projects extending Shogun have a lower priority than projects improvin
 
 
 ## Other ideas:
- * Cool pipelines
+We are also open for your ideas: If you have a cool idea for an application, collaboration with another project, let us know!
+
+ * Cool pipelines:
    * A kaggle pipeline for supervised prediction.
-   * Spectrometer (there is an open-source hardward project on this)
+   * Spectrometer (there is an open-source hardware project on this)
    * Music brainz predictions (The cool hair guy at GSoC is the one we should talk to here)
-   * Some bio thing?
-   * Collaboration with MLPack for toolkit wide performance/accuracy testing
+   * Some biology thing?
+   * Collaboration with MLPack for toolkit wide performance/accuracy testing. See their [GSoC 2013 project](http://www.mlpack.org/trac/wiki/AutomaticBenchmark)
 
 
 ## Infrastructure:
