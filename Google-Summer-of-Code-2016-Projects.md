@@ -1,16 +1,20 @@
 # Google Summer of Code 2016
-Welcome Students (and mentors)! See [how to get involved](https://github.com/shogun-toolbox/shogun/wiki/Getting-involved) and our [GSoC blog posts](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts).
+Welcome students! 
 
+This page is about our GSoC projects. If you are interested, please read about [how to get involved](https://github.com/shogun-toolbox/shogun/wiki/Getting-involved) and check out our [GSoC blog posts](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts). 
+Do have a look at our **[2016 Mentors](GSoC_2016_mentors_students)** and get in touch!
+
+
+If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz) who will coordinate GSoC student projects, in particular the [Cookbook](https://github.com/shogun-toolbox/shogun/wiki/GSoC_2016_project_cookbook).
 
 # Main focus
 This year's GSoC is about improving Shogun, rather than extending it (exceptions allowed). We also want to recruit new *long-term* developers.
 
- * *Fewer* new algorithms. Rather improve existing ones: easier use, efficiency, better documentation, more applications
- * *Fewer* students. A chance for more intense mentoring, interaction between students, blogging, documenting
+ * **Focus on existing algorithms**:
+    We want to improve our algorithms - easier use, efficiency, better documentation and more applications - rather than just adding more algorithms.
+ * **Focus on students**:
+    We want to have *fewer* students - more intense mentoring, interaction between students, blogging and documenting for individual students.
 
-**[2016 Mentors](GSoC_2016_mentors_students)**
-
-If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz)
 
 # Projects
 **Bold** projects are more likely to happen. **ALL** students will be required to:
