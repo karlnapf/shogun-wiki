@@ -34,7 +34,7 @@ Projects improving Shogun are the main focus of this year's GSoC. They are rough
  * [Native MS Windows port](GSoC_2015_windows)
  
 ## Extending Shogun
-Note that projects extending Shogun have a lower priority than projects improving Shogun.
+Note that projects extending Shogun have a lower priority than projects improving Shogun. If algorithms related projects will happen, they are likely to be based around improvements rather than adding new ones.
 
 ### Algorithms
  * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
