@@ -49,3 +49,6 @@ A detailed schedule is essential for the project.
 * [Design draft](https://github.com/shogun-toolbox/shogun/wiki/New-parameters-framework-and-plugins)
 * [Plugin architecture](http://blog.nuclex-games.com/tutorials/cxx/plugin-architecture/)
 * [Building Your Own Plugin Framework](http://www.drdobbs.com/cpp/building-your-own-plugin-framework-part/204202899)
+
+
+Get back to the [main projects page](Google%20Summer%20of%20Code%202016%20Projects).
