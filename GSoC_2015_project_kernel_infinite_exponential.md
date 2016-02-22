@@ -3,6 +3,7 @@
 (I know it sounds ridiculously complicated, but it *is* quite cool!)
 
 ### Mentors
+ * [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/)
  * Heiko (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
 
 ### Difficulty & Requirements
@@ -44,3 +45,4 @@ The project implements a new cutting-edge research technique (that we use in our
  * [Infinite exponential family paper](http://arxiv.org/abs/1312.3516)
  * [Score matching paper](http://www.cs.helsinki.fi/u/ahyvarin/papers/JMLR05.pdf)
  * Kernel density estimation [notebook](http://www.shogun-toolbox.org/static/notebook/current/KernelDensity.html) and [wikipedia](http://en.wikipedia.org/wiki/Kernel_density_estimation)
+ * [Existing code in Python](https://github.com/karlnapf/kernel_exp_family)
