@@ -17,15 +17,16 @@ This year's GSoC is about improving Shogun, rather than extending it (exceptions
 
 
 # Projects
-**Bold** projects are more likely to happen. **ALL** students will be required to:
+When thinking about a project, please note that projects are roughly ordered by priority and that projects in **bold type** are more likely to happen. In addition to the technical project, in the final phase of GSoC **all** students will:
 
- * peer-review a fellow student's work in the final phase of GSoC
- * jointly helpo with the 5.0 release in the final phase of GSoC
+ * peer-review a fellow student's work
+ * jointly help with the 5.0 release
+ * contribute to our [GSoC blog](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts)
 
-Furthermore, we plan an experiment this year: an additional side-project that all students work on jointly and in addition to their main project -- building a [Shogun cookbook](GSoC_2016_project_cookbook)
+Furthermore, all students will work together on building a [Shogun cookbook](GSoC_2016_project_cookbook) in addition to their main project. We're pretty excited about the outcome of this experiment!
 
-## Improving Shogun
-These are roughly ordered in our priority in them. Most of them *do not* focus on Machine Learning but rather on software engineering.
+## Improving Shogun - main focus
+Projects improving Shogun are the main focus of this year's GSoC. They are roughly ordered by priority and most of them *do not* focus on Machine Learning but rather on software engineering.
 
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
  * [**Unified ML interface, plugin-based architecture**](GSoC_2015_plugin)
@@ -38,7 +39,7 @@ These are roughly ordered in our priority in them. Most of them *do not* focus o
  * [Flexible modelselection 2](GSoC_2015_project_modelselection)
  
 ## Extending Shogun:
-The projects we would like to limit in numbers.
+Note that projects extending Shogun have a lower priority than projects improving Shogun.
 
 ### Algorithms
  * [**Gaussian Processes & tensorflow autodiff**](GSoC_2016_project_large_gps)
