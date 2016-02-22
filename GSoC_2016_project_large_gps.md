@@ -27,7 +27,12 @@ We attempt to put attention to the following sub-tasks:
  * Stochastic variational inference for sparse GP
  * Applications
 
-The project will start from the existing code base, which already contains a huge amount of work. We aim to fill the gaps with respect to the above methods. But also, we will try to improve efficiency and ease-of-use of the framework. This in particular includes benchmarking it.
+The project will start from the existing code base, which already contains a huge amount of work. We aim to fill the gaps with respect to the above methods.
+
+ * Implement all standard methods that are not yet in the framework
+ * Benchmark existing methods against competing implementations (such as GPStuff, GPflow, GPML, etc)
+ * Improve efficiency if necessary. Make explicit use of multi-core computation.
+ * Unify gradient computations within Shogun.
 
 ### Waypoints and initial work
  * Exact inference for (full) GP regression using Tensorflow (entrance task) (ExactInferenceMethod)
