@@ -7,13 +7,14 @@
 
 
 ### Difficulty & Requirements
-Medium, but requires a lot of initiative and willingness to dive into existing code (that is not pretty)
+Medium, but requires a lot of initiative and willingness to dive into existing code (that is not pretty).
 
 You need know
  * Shogun's internals (to an extend)
  * C++
  * Software engineering principles
  * Optional: Libraries for serialisation, file handling, etc
+ * Optional: Linear algebra
 
 ### Description
 Every line of code in SHOGUN has a long history and have gone through
@@ -33,6 +34,8 @@ beauty.  Making common used base classes more lightweight to improve
 performance and memory consumption.  Use new and cool technologies,
 new language features (think of C++1x) amongst others may be what
 this project is about.
+
+The project might also contain parts of the (outdated) [linalg project](https://github.com/shogun-toolbox/shogun/wiki/GSoC_2015_project_linalg).
 
 ### Target students
 The target group of this project are people with C/C++ background,
