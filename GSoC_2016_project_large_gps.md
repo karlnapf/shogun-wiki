@@ -82,3 +82,5 @@ Our primary goal is to scale up GPs to use them in "big data" applications. GPs 
  * [Scalable Variational Gaussian Process Classification](http://staffwww.dcs.sheffield.ac.uk/people/J.Hensman/papers/KLsparse.pdf)
  * [Distributed Gaussian Processes](http://arxiv.org/abs/1502.02843)
  * [Deep Gaussian Processes](http://jmlr.org/proceedings/papers/v31/damianou13a.pdf)
+
+Get back to the [main projects page](Google%20Summer%20of%20Code%202016%20Projects).
