@@ -3,9 +3,8 @@
 See also the [windows](GSoC_2015_windows) project.
 
 ### Mentors
+ * [Sören](https://github.com/shogun-toolbox/shogun/wiki/AUTHORS) (IRC: sonney2k)
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
- * [Viktor](Viktor%20Gal) (github: [vigsterkr](https://github.com/vigsterkr), IRC wiking)
- * [Bjoern](Bjoern%20Esser) (github: [besser82](https://github.com/besser82), IRC besser)
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
 
 ### Difficulty & Requirements
