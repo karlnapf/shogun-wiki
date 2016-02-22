@@ -5,7 +5,7 @@
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
- * [Lea] (github: [lgoetz](https://github.com/lgoetz), IRC: leagoetz)
+ * [Lea](Lea%20Goetz) (github: [lgoetz](https://github.com/lgoetz), IRC: leagoetz)
 
 ### Difficulty & Requirements
 Easy. You need to
