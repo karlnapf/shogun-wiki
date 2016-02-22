@@ -11,5 +11,5 @@ Lea got involved with Shogun to take care of lose ends aka those (important) bit
 
 ### Ask her about
  * Wiki
- * Cookbock
+ * Cookbook
  * GSOC 2016
