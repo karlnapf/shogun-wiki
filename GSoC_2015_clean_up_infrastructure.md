@@ -1,10 +1,10 @@
 # Shogun detox
 
 ### Mentors
- * [Thoralf](Thoralf%20Klein) (github: [tklein](https://github.com/tklein23))
+ * [Soumyajit](Soumyajit%20De%20[Rahul]) (github: [lambday](https://github.com/lambday), IRC: lambday)
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
- * [Soumyajit](Soumyajit%20De%20[Rahul]) (github: [lambday](https://github.com/lambday), IRC: lambday)
+
 
 ### Difficulty & Requirements
 Medium, but requires a lot of initiative and willingness to dive into existing code (that is not pretty)
@@ -13,7 +13,7 @@ You need know
  * Shogun's internals (to an extend)
  * C++
  * Software engineering principles
- * No Machine Learning
+ * Optional: Libraries for serialisation, file handling, etc
 
 ### Description
 Every line of code in SHOGUN has a long history and have gone through
@@ -86,6 +86,9 @@ Here are some sub-projects. We are open for more:
   statements, and more special per-class and per-data-type code than we
   want to maintain.  Only one good reason why we didn't tackle it yet:
   It's working.
+
+* Smart pointers
+ tl;dr: We want to stop making use of ```SG_REF```, but use c++11 magic instead.
 
 ### Waypoints and initial work
   What's to be done here depends on you.  First of all we need to
