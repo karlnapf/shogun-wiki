@@ -24,28 +24,26 @@ Projects are roughly **ordered by priority** and projects in **bold type** are m
  * jointly help with the 5.0 release
  * contribute to our [GSoC blog](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts)
 
-## Improving Shogun
+## Improving Shogun's infrastructure
 Projects improving Shogun are the main focus of this year's GSoC. They are roughly ordered by priority and most of them *do not* focus on Machine Learning but rather on software engineering.
 
  * [**Easy installation on major platforms**](GSoC_2015_project_installation)
  * [**Unified ML interface, plugin-based architecture**](GSoC_2015_plugin)
- * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
  * [**A Shogun Detox**](GSoC_2015_clean_up_infrastructure)
  * [**SWIG, Matlab & modular interfaces**](GSoC_2015_project_swig)
- * [HMM cleanup and application](GSoC_2015_project_hmms)
  * [Native MS Windows port](GSoC_2015_windows)
- * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
- * [Flexible modelselection 2](GSoC_2015_project_modelselection)
  
 ## Extending Shogun
 Note that projects extending Shogun have a lower priority than projects improving Shogun.
 
 ### Algorithms
+ * [**Fundamental ML: The usual suspects**](GSoC_2016_project_fundamental_usual_suspects)
  * [**Gaussian Processes & tensorflow autodiff**](GSoC_2016_project_large_gps)
  * [**Hip Deep learning**](GSoC_2015_project_deep_learning)
  * [**Fundamental ML: LGSSMs**](GSoC_2015_project_fundamental)
  * [**Density Estimation in Infinite Dimensional Exponential Families**](GSoC_2015_project_kernel_infinite_exponential)
  * [Large scale statistical testing](GSoC_2015_project_large_testing)
+ * [HMM cleanup and application](GSoC_2015_project_hmms)
  * [Solver for the KKT System](GSoC_2015_project_kkt)
  * [Dual coordinate ascent solver for SO-SVM](GSoC_2015_project_dca_sosvm)
  * [LP/QP Framework](GSoC_2015_project_lpqp)
@@ -54,6 +52,8 @@ Note that projects extending Shogun have a lower priority than projects improvin
 
 ### Framework
  * [**MCMC & Stan**](GSoC_2015_project_MCMC_Stan)
+ * [Unifying Shogun's linear algebra](GSoC_2015_project_linalg)
+ * [Flexible modelselection 2](GSoC_2015_project_modelselection)
  * [Independent jobs Framework](GSoC_2015_cluster_shogun)
  * [Shogun cloud extensions](GSoC_2015_cloud_shogun)
 
