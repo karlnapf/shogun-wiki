@@ -60,11 +60,7 @@ The project will start from the existing code base, which already contains a hug
 
 
 ### Optional
-
-#### MCMC inference (optional)
-
-
-Other:
+ * MCMC inference 
  * Deep GP
 
 ### Why this is cool
