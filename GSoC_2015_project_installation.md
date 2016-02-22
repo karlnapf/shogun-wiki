@@ -10,9 +10,9 @@ See also the [windows](GSoC_2015_windows) project.
 ### Difficulty & Requirements
 
 **Easy.**
-
-
 Rather easy but massive and needs diligence.
+
+
 It suits you best if you:
 
 * Are not afraid of Mac OS X, Linux and Windows
