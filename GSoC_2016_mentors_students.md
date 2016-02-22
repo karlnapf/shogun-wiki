@@ -20,5 +20,4 @@ This is an (incomplete) list of our GSoC 2016 mentors (and hopefully soon studen
  * [Peter Gehler](http://ps.is.tuebingen.mpg.de/person/gehler)
  * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
 
-# Other Shogun-team members
- * Fernando ([iglesias](https://github.com/iglesias), IRC: iglesiasg)
+In addition, ask any of the [Shogun-team](https://github.com/shogun-toolbox/shogun/wiki/AUTHORS) members.
