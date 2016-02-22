@@ -73,3 +73,5 @@ If you can get this to work, Shogun will finally be easy to install on any major
 * [Windows installer](https://msdn.microsoft.com/en-us/library/cc185688(v=vs.85).aspx)
 * [Homebrew](http://brew.sh/)
 * [Macports](https://www.macports.org/)
+
+Get back to the [main projects page](Google%20Summer%20of%20Code%202016%20Projects).
