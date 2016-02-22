@@ -17,7 +17,8 @@ Easy to difficult - depends on what we aim for. Let's discuss this if you're int
  * Optional: Knowledge of Shogun's ```linalg``` interface [link](https://github.com/shogun-toolbox/shogun/wiki/README_linalg)
 
 ### Description
-Approximate kernel methods are becoming more and more popular. The provide means to scale up traditional kernel-based algorithms. The idea is to perform computations in an explicit approximate feature space, which has a simpler structure and an explicit (data independent) basis.  Mathematically, this means that the underlying optimization problem is solved in its primal representation, rather than the dual one. As Shogun has one of its main focus on such large-scale kernel methods, this project is to polish, unify, and extend Shogun's kernel method implementations. The project is divided into two parts. Improving existing algorithms, and adding some state-of-the-art methods.
+Approximate kernel methods are becoming more and more popular, because they can "scale up" traditional kernel-based algorithms. The idea is to perform computations in an explicit approximate feature space, which has a simpler structure and an explicit (data independent) basis.  Mathematically, this means that the underlying optimization problem is solved in its primal representation, rather than the dual one. 
+Large-scale kernel methods are already a main focus of Shogun and therefor this project aims to polish, unify, and extend Shogun's kernel method implementations. The project is divided into two parts: improving our existing algorithms, and adding some state-of-the-art methods.
 
 
 ### Details
@@ -26,9 +27,9 @@ Goals include
  * Part I: Unify and speed-up existing implementations
   * Re-factor the interface of CKernelMachine to support both primal and dual formulations.
   * Re-work the framework for approximate features to work well with the primal formulation above.
-  * Put the (existing) random Fourier features code into that framework, and polish it.
+  * Put the (existing) random Fourier features code into that framework and polish it.
   * Work on the numerical code: Benchmark / speed up / parallelise / Use ```linalg```
-  * Improve documentation, write an IPython notebook that covers all implemented methods.
+  * Improve the documentation, write an IPython notebook that covers all implemented methods.
   * Algorithms to consider: KRR, K-PCA, SVM.
 
 
@@ -39,15 +40,15 @@ Goals include
   * more to come ...
 
 ### Why this is cool
-Kernel methods are quite sexy, but don't scale up well. This project collects tools to solve this problem. It allows to learn about kernel basics, how to scale them up mathematically / from an implementation point of view. In addition, there are some interesting software-design questions to answer. For sure allows you to impress girls in the pub next door ;)
+Kernel methods are sexy, but don't scale up well. This project collects tools to solve this problem. It allows you to learn about kernel basics and how to scale them up mathematically / from an implementation point of view. In addition, there are some interesting software-design questions to answer.
 
 ### Entrance tasks
  * Benchmark and improve KRR [issue](https://github.com/shogun-toolbox/shogun/issues/2991)
- * Start an ipython notebook about random fourier features
+ * Start an Ipython notebook about random fourier features
  * Implement incomplete Cholesky algorithm (see below for Python reference)
- * Draft a more detailed schedule. 
+ * Draft a more detailed schedule: 
   * A good point to start would be to collect information about all implemented approximate kernel methods in Shogun.
-  * Another good point is to look at [scikit](http://scikit-learn.org/stable/auto_examples/plot_kernel_approximation.html)'s implementation of the random fourier features and Nystrom methods. How can we learn from their design.
+  * Another good point is to look at [scikit](http://scikit-learn.org/stable/auto_examples/plot_kernel_approximation.html)'s implementation of the random fourier features and Nystrom methods. See how can we learn from their design.
 
 ### References
 Papers:
