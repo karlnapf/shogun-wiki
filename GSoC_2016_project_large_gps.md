@@ -1,5 +1,7 @@
 # Large-Scale Gaussian Processes
 
+Polish, update, and extend Shogun's framework for Gaussian Processes, with a focus on large-scale problems and sparse variational inference.
+
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Wu](https://www.linkedin.com/in/wu-lin-b1a587b7) (github: [yorkerlin](https://github.com/yorkerlin), IRC: yorkerlin)
@@ -18,10 +20,14 @@ Following previous successful project on [variational learning for Big Data](htt
 
 
 ### Details
- * Variational inference for (full) GP using Tensorflow
- * Variational inference for sparse GP using Tensorflow
- * Stochastic variational inference for sparse GP using Tensorflow
+We attempt to put attention to the following sub-tasks:
+
+ * Variational inference for (full) GP
+ * Variational inference for sparse GP
+ * Stochastic variational inference for sparse GP
  * Applications
+
+The project will start from the existing code base, which already contains a huge amount of work. We aim to fill the gaps with respect to the above methods. But also, we will try to improve efficiency and ease-of-use of the framework. This in particular includes benchmarking it.
 
 ### Waypoints and initial work
  * Exact inference for (full) GP regression using Tensorflow (entrance task) (ExactInferenceMethod)
