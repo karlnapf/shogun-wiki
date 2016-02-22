@@ -26,7 +26,8 @@ We attempt to put attention to the following sub-tasks:
  * Variational inference for sparse GP
  * Stochastic variational inference for sparse GP
  * Applications
- * 
+ 
+
 The project will start from the existing code base, which already contains a huge amount of work. We aim to fill the gaps with respect to the above methods.
 
  * Implement all standard methods that are not yet in the framework
