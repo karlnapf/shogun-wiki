@@ -1,5 +1,6 @@
 # `linalg`: Unifying Shogun's linear algebra
 
+Note: This project is partly outdated, as some parts have been addressed during out GSoC pause year in 2015. This might be integrated under the GSoC 2016 [Shogun detox project](https://github.com/shogun-toolbox/shogun/wiki/GSoC_2015_clean_up_infrastructure). The description is interesting nevertheless.
 ### Mentors
  * [Soumyajit](Soumyajit%20De%20[Rahul]) (github: [lambday](https://github.com/lambday), IRC: lambday)
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
