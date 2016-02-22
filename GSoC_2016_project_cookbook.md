@@ -1,6 +1,6 @@
 # A Shogun cookbook
 
-[Prototype link](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/sphinx)
+[Prototype link](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/cookbook)
 
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
