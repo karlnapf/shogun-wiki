@@ -1,7 +1,4 @@
-# Large-Scale Gaussian Processes, tensorflow, and autodiff
-
-This project will re-factor and extend Shogun's Gaussian Process implementation, using [Google tensorflow](https://www.tensorflow.org/) and its autodiff capabilities.
-
+# Large-Scale Gaussian Processes
 
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
