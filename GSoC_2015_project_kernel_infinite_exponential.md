@@ -14,7 +14,7 @@ You need knowledge of:
  * Kernel methods in general
  * Density estimation basics
  * Basic (math+numerical) linear algebra. In particular linear systems
- * Come C++ knowledge, including designing class hierarchies
+ * Some C++ knowledge, including designing class hierarchies
 
 ### Description
 Density estimation is the technique of fitting a statistical model to data that comes from an unknown density.
