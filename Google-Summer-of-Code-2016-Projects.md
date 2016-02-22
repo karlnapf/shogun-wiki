@@ -17,13 +17,12 @@ This year's GSoC is about improving Shogun, rather than extending it (exceptions
 
 
 # Projects
-When thinking about a project, please note that projects are roughly ordered by priority and that projects in **bold type** are more likely to happen. In addition to the technical project, in the final phase of GSoC **all** students will:
+Projects are roughly **ordered by priority** and projects in **bold type** are more likely to happen. In addition to the technical project, in the final phase of GSoC **all** students will:
 
+ * work together on building a [Shogun cookbook](GSoC_2016_project_cookbook)
  * peer-review a fellow student's work
  * jointly help with the 5.0 release
  * contribute to our [GSoC blog](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts)
-
-Furthermore, all students will work together on building a [Shogun cookbook](GSoC_2016_project_cookbook) in addition to their main project. We're pretty excited about the outcome of this experiment!
 
 ## Improving Shogun - main focus
 Projects improving Shogun are the main focus of this year's GSoC. They are roughly ordered by priority and most of them *do not* focus on Machine Learning but rather on software engineering.
@@ -67,8 +66,7 @@ Note that projects extending Shogun have a lower priority than projects improvin
    * Some bio thing?
    * Collaboration with MLPack for toolkit wide performance/accuracy testing
 
+This is a growing list. **To add**, please create a new wiki page for each project that you describe. Name them as "GSoC_2016_project_XXX" etc. Here is a [template](GSoC_project_template).
+
 ## Infrastructure:
  * [REST interface](GSoC_2015_project_rest)
-
-# Potential projects
-This is a growing list. To add, please create a new wiki page for each project that you describe. Name them as "GSoC_2016_project_XXX" etc. Here is a [template](GSoC_project_template).
