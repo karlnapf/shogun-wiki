@@ -5,10 +5,8 @@ Note: This project description is yet incomplete
 Polish, update, and extend Shogun's framework for Gaussian Processes, with a focus on large-scale problems and sparse variational inference.
 
 ### Mentors
- * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Wu](https://www.linkedin.com/in/wu-lin-b1a587b7) (github: [yorkerlin](https://github.com/yorkerlin), IRC: yorkerlin)
  * [Emtiyaz Khan](http://www.cs.ubc.ca/~emtiyaz/)
- * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
 
 ### Difficulty & Requirements
 Medium to Difficult
