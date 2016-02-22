@@ -1,6 +1,6 @@
 # Fundamental Machine Learning Algorithms
 
-Continuing where we stopped [last year](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/mazumdarparijat/5738600293466112).
+The aim of the project is to improve our implementation of fundamental ML algorithms. You can build on a good foundation - and continue where we stopped [last year](https://www.google-melange.com/gsoc/project/details/google/gsoc2014/mazumdarparijat/5738600293466112).
 
 ## The usual suspects
 
@@ -9,7 +9,7 @@ Continuing where we stopped [last year](https://www.google-melange.com/gsoc/proj
  * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
 
 ### Difficulty & Requirements
-Easy to Medium -- depends on you. You need
+**Easy to Medium** -- depends on you. You need
  * ML Algorithms in C++
  * Re-factoring existing code / design patterns
  * Knowledge of very basic ML algorithms
@@ -38,9 +38,9 @@ After having identified a number of algorithms, the typical approach would be to
 
 1.) Write a script/program to compare performance with an existing ML library, on a challenging practical application. Such a benchmark should test various aspects: correctness, speed, different data sizes, different problem flavours.
 
-2.) Identify the most severe bottlenecks where Shogun does not perform well. This might be pure software-engineering related questions, but also depend on the mathematical formulations of the algorithms (see e.g. [PCA improvements](https://github.com/shogun-toolbox/shogun/issues/1876)).
+2.) Identify the most severe bottlenecks where Shogun does not perform well. This might be pure software-engineering related questions, but also depends on the mathematical formulations of the algorithms (see e.g. [PCA improvements](https://github.com/shogun-toolbox/shogun/issues/1876)).
 
-3.) Re-write the code that concerns them. Test. Produce clean code that is easy to read (see for example our HMM implementation if you want to see unreadable code)
+3.) Re-write the code that concerns the algorithms in question. Test. Produce clean code that is easy to read (see for example our HMM implementation if you want to see unreadable code)
 
 4.) Give the whole implementation a general clean-up: Documentation, unit testing, examples.
 
@@ -49,7 +49,9 @@ After having identified a number of algorithms, the typical approach would be to
 The [K-means issue](https://github.com/shogun-toolbox/shogun/issues/2987) is a great place to start.
 
 ### Optional
-Once the Shogun implementation runs competeitive, we can look into further speed-ups to be gained by multicore computations, approximations, and other. We can also have a survey on Shogun's mailing list to identify methods that people like to be improved. A third option would be to simplify existing interfaces to make our algorithms easier to use.
+Once the Shogun implementation runs competitive, we can look to gain further speed-ups by multicore computations, approximations, and other means. We can also have a survey on Shogun's mailing list to identify methods that people like to be improved. A third option would be to simplify existing interfaces to make our algorithms easier to use.
 
 ### Why this is cool
 This project offers the chance to learn about many fundamental ML algorithms from a practical perspective, with a focus on efficiency. As the usual suspects are the most used algorithms by Shogun users, it is likely that many people will execute code that you wrote. 
+
+Get back to the [main projects page](Google%20Summer%20of%20Code%202016%20Projects).
