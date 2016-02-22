@@ -12,14 +12,9 @@ You need know
  * [Gaussian Process basics](http://www.gaussianprocess.org/gpml/) (You should understand the [GP Notebook](http://www.shogun-toolbox.org/static/notebook/current/gaussian_processes.html))
  * Variational approximation basics (You should understand at least the full GP part of the [Notebook for Variational Inference](http://www.shogun-toolbox.org/static/notebook/current/variational_classifier.html))
  * Linear Algebra (math & in C++)
- * Shogun's parameter framework basics
- * Optional: [Autodiff basics](https://en.wikipedia.org/wiki/Automatic_differentiation)
- * Optional: [Tensorflow](https://www.tensorflow.org) basics
- * Optional: [GPFlow](https://github.com/GPflow) basics
 
 ### Description
 Following previous successful project on [variational learning for Big Data](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas#variational_learning), we attempt to bring Shogun's Gaussian Processes (GP) to Big Data land. From a high level perspective, this means that the goal is to implement established methodology on how to scale up GPs to be able to process hundreds of thousands of points.
-
 
 
 ### Details
