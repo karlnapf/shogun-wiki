@@ -1,8 +1,6 @@
 # Google Summer of Code 2016
 Welcome Students (and mentors)! See [how to get involved](https://github.com/shogun-toolbox/shogun/wiki/Getting-involved) and our [GSoC blog posts](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts).
 
-# Potential projects
-This is a growing list. To add, please create a new wiki page for each project that you describe. Name them as "GSoC_2016_project_XXX" etc. Here is a [template](GSoC_project_template).
 
 # Main focus
 This year's GSoC is about improving Shogun, rather than extending it (exceptions allowed). We also want to recruit new *long-term* developers.
@@ -66,3 +64,6 @@ The projects we would like to limit in numbers.
 
 ## Infrastructure:
  * [REST interface](GSoC_2015_project_rest)
+
+# Potential projects
+This is a growing list. To add, please create a new wiki page for each project that you describe. Name them as "GSoC_2016_project_XXX" etc. Here is a [template](GSoC_project_template).
