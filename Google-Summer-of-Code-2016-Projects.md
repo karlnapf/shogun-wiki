@@ -5,7 +5,7 @@ This page is about our GSoC projects. If you are interested, please read about [
 Do have a look at our **[2016 Mentors](GSoC_2016_mentors_students)** and get in touch!
 
 
-If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz) who will coordinate GSoC student projects, in particular the [Cookbook](https://github.com/shogun-toolbox/shogun/wiki/GSoC_2016_project_cookbook).
+If you have questions about GSoC 2016, ask [Lea](https://github.com/shogun-toolbox/shogun/wiki/Lea-Goetz).
 
 # Main focus
 This year's GSoC is about improving Shogun, rather than extending it (exceptions allowed). We also want to recruit new *long-term* developers.
@@ -17,9 +17,9 @@ This year's GSoC is about improving Shogun, rather than extending it (exceptions
 
 
 # Projects
-Projects are roughly **ordered by priority** and projects in **bold type** are more likely to happen. In addition to the technical project, in the final phase of GSoC **all** students will:
+Projects are roughly **ordered by priority** and projects in **bold type** are more likely to happen. In addition to the technical project, **all** students will:
 
- * work together on building a [Shogun cookbook](GSoC_2016_project_cookbook)
+ * work on a joint GSoC project: a [Shogun cookbook](GSoC_2016_project_cookbook)
  * peer-review a fellow student's work
  * jointly help with the 5.0 release
  * contribute to our [GSoC blog](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts)
