@@ -5,7 +5,7 @@ Continuing where we stopped [last year](https://www.google-melange.com/gsoc/proj
 ## The usual suspects
 
 ### Mentors
- * Heiko (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
+ * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
 
 ### Difficulty & Requirements
