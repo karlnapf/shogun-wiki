@@ -10,13 +10,13 @@ See also the [windows](GSoC_2015_windows) project.
 
 ### Difficulty & Requirements
 
-Rather easy but massive and needs scrutinizing some questions.
+Rather easy but massive and needs diligence.
 It suits you best if you:
 
 * Are not afraid of Mac OS X, Linux and Windows
 * Know essentials of building tools like CMake and Makefile
 * Are ok with patching some C++ code
-* Feel like real devops guy or a [duct tape programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
+* Feel like a real DevOps guy or a [duct tape programmer](http://www.joelonsoftware.com/items/2009/09/23.html)
 
 ### Description
 
@@ -47,7 +47,7 @@ See above. Initial work would be to start prototyping a solution for one of the 
 The possible optional part of the project is to provide a series of videos or blog posts that show how easy one can install Shogun with all the work carried out during the project.
 
 ### Why this is cool
-By the end of this project we expect Shogun to be easy to install on any major platform and this would be really helpful for the whole project and its popularity. Again ***TOP PRIORITY***
+If you can get this to work, Shogun will finally be easy to install on any major platform. This will be a major boost for the whole project and its popularity. Again ***TOP PRIORITY***!
 
 ### Useful resources
 * [CMake documentation](http://www.cmake.org/documentation/)
