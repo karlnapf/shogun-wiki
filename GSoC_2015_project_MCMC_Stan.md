@@ -6,7 +6,7 @@
  * Co-authored by the stan team. Details to follow
 
 ### Difficulty & Requirements
-Extremely advanced. Please only consider applying to this project if you have serious knowledge on:
+*Extremely advanced*. Please only consider applying to this project if you have serious knowledge on:
  * Stan itself, how to use it, basics about its internals
  * Building C++ code and modifying builds
  * MCMC and Bayesian modelling mainly to structure and write documentation
@@ -49,3 +49,5 @@ Stan is an übercool project to learn about. MCMC is an amazing inference techni
 
 ### Useful resources
  * [Stan website](http://mc-stan.org/)
+
+Get back to the [main projects page](Google%20Summer%20of%20Code%202016%20Projects).
