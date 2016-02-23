@@ -3,8 +3,6 @@
 ### Mentors
  * [Soumyajit](Soumyajit%20De%20[Rahul]) (github: [lambday](https://github.com/lambday), IRC: lambday)
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
- * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
-
 
 ### Difficulty & Requirements
 **Medium.** But requires a lot of initiative and willingness to dive into existing code (that is not pretty).
