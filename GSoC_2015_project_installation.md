@@ -60,6 +60,7 @@ Apart from the stable versions of such binaries, we expect to have them updated 
 #### Related entrance issues:
  * [#2720](https://github.com/shogun-toolbox/shogun/issues/2720)
  * [#352](https://github.com/shogun-toolbox/shogun/issues/352)
+ * [#3002](https://github.com/shogun-toolbox/shogun/issues/3002)
  * ...
 
 ### Optional
