@@ -6,7 +6,7 @@
  * Co-authored by the stan team. Details to follow
 
 ### Difficulty & Requirements
-*Extremely advanced*. Please only consider applying to this project if you have serious knowledge on:
+**Extremely advanced**. Please only consider applying to this project if you have serious knowledge on:
  * Stan itself, how to use it, basics about its internals
  * Building C++ code and modifying builds
  * MCMC and Bayesian modelling mainly to structure and write documentation
