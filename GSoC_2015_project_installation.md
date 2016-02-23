@@ -44,7 +44,7 @@ In addition, we want the Python bindings to be installable as:
  * ```pip install shogun```
  * ```conda install shogun```
 
-Finally, an updated shogun [docker image](https://www.docker.com/) image with a pre-installed Shogun IPython notebook server. This is the bases for the [Shogun cloud](https://github.com/shogun-toolbox/shogun-cloud), where our [notebooks](http://www.shogun-toolbox.org/page/documentation/notebook) might be tried without installing Shogun.
+Finally, an updated shogun [docker image](https://www.docker.com/) image with a pre-installed Shogun IPython notebook server. This is the bases for the [Shogun cloud](https://github.com/shogun-toolbox/shogun-cloud), where our [notebooks](http://www.shogun-toolbox.org/page/documentation/notebook) might be tried without installing Shogun. The result should look like [this](https://www.tensorflow.org/versions/r0.7/get_started/os_setup.html#docker-installation)
 
 Apart from the stable versions of such binaries, we expect to have them updated in a nightly fashion. In addition, we want the main builds be represented/updated on our buildbot. The key here is a clean system that produces all such things with minimal maintenance efforts, and has a good documentation.
 
