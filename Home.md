@@ -1,6 +1,6 @@
 Welcome to the Shogun wiki!
 
-Quick link:  [Google Summer of Code 2016](Google Summer of Code 2016 Projects)
+#### Quick link:  [Google Summer of Code 2016](Google Summer of Code 2016 Projects)
 
 ### Readmes
   * [Readme](https://github.com/shogun-toolbox/shogun/blob/develop/README.md)
