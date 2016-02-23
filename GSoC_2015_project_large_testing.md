@@ -5,8 +5,8 @@
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
 
 ### Difficulty & Requirements
-Medium
-You need know
+*Medium*. 
+You need to know
  * Applied Statistical Hypothesis Testing
  * Linear Algebra
  * Linear Algebra in C++
@@ -36,3 +36,5 @@ In this project, we aim to implement large-scale statistical testing into SHOGUN
  * http://en.wikipedia.org/wiki/Familywise_error_rate
  * http://en.wikipedia.org/wiki/False_discovery_rate
  * http://www.nature.com/nmeth/journal/v8/n10/abs/nmeth.1681.html
+
+Get back to the [main projects page](Google%20Summer%20of%20Code%202016%20Projects).
