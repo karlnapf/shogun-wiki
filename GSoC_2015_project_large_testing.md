@@ -5,7 +5,7 @@
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
 
 ### Difficulty & Requirements
-*Medium*. 
+**Medium**. 
 You need to know
  * Applied Statistical Hypothesis Testing
  * Linear Algebra
