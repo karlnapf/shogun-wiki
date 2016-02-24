@@ -33,7 +33,7 @@ The project will start from the existing code base, which already contains a hug
  * Implement all standard methods that are not yet in the framework
  * Benchmark existing methods against competing implementations (such as GPStuff, GPflow, GPML, etc)
  * Improve efficiency if necessary. Make explicit use of multi-core computation.
- * Unify gradient computations within Shogun.
+ * Unify/Refactor gradient computations within Shogun (Note that the new framework should be easy to be extended to using AutoDiff)
 
 ### Waypoints and initial work
  * do benchmarks about all existing inference methods for (full) GP and sparse GP under the existing framework (entrance task) ([KLCovarianceInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCovarianceInferenceMethod.html), [KLCholeskyInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCholeskyInferenceMethod.html), [KLApproxDiagonalInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLApproxDiagonalInferenceMethod.html), [FITCInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CFITCInferenceMethod.html), and [SparseVGInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CSparseVGInferenceMethod.html))
@@ -47,13 +47,13 @@ The project will start from the existing code base, which already contains a hug
  * base class for computing gradient of Evidence Lower BOund (ELBO) wrt variaitonal variables 
  * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
  * (base) class for using external or build-in minimizers ([LBFGSMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1LBFGSMinimizer.html) and [NLOPTMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1NLOPTMinimizer.html))
- * (for full GP) classes for computing gradient wrt variaitonal variables using existing hand-implemented codes and (possible) AutoDiff (eg Tensorflow or Stan)  
- * (for full GP) classes for computing gradient wrt hyper-parameters using existing hand-implemented codes and (possible) AutoDiff (eg Tensorflow or Stan)  
+ * (for full GP) classes for computing gradient wrt variaitonal variables using existing hand-implemented codes 
+ * (for full GP) classes for computing gradient wrt hyper-parameters using existing hand-implemented codes
  * Benchmarks and notebooks for demos 
  * base class for MC samplers
  * classes for using existing MC samplers 
- * (for sparse GP) classes for computing gradient wrt variaitonal variables using existing hand-implemented codes and (possible) AutoDiff (eg Tensorflow or Stan)  
- * (for sparse GP) classes for computing gradient wrt hyper-parameters using existing hand-implemented codes and (possible) AutoDiff (eg Tensorflow or Stan)  
+ * (for sparse GP) classes for computing gradient wrt variaitonal variables using existing hand-implemented codes 
+ * (for sparse GP) classes for computing gradient wrt hyper-parameters using existing hand-implemented codes 
  * classes for HMC samplers from Stan (optional)
  * base class for model selection (eg, Bayesian OPT) (optional)
 
