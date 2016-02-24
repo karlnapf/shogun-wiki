@@ -36,24 +36,23 @@ The project will start from the existing code base, which already contains a hug
  * Unify gradient computations within Shogun.
 
 ### Waypoints and initial work
- * Exact inference for (full) GP regression using Tensorflow (entrance task) (ExactInferenceMethod)
- * Variational inference for (full) GP binary classification using Tensorflow ([KLCovarianceInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCovarianceInferenceMethod.html), [KLCholeskyInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCholeskyInferenceMethod.html), and [KLApproxDiagonalInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLApproxDiagonalInferenceMethod.html))
- * Variational inference for sparse GP (regression & classification) using Tensorflow  ([FITCInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CFITCInferenceMethod.html) and [SparseVGInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CSparseVGInferenceMethod.html))
- * Make beautiful demos and benchmarks  
- * Stochastic variational inference for sparse GP using Tensorflow (optional)
+ * do benchmarks using existing variational inference for (full) GP  and sparse GP (entrance task) ([KLCovarianceInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCovarianceInferenceMethod.html), [KLCholeskyInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCholeskyInferenceMethod.html), and [KLApproxDiagonalInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLApproxDiagonalInferenceMethod.html) [FITCInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CFITCInferenceMethod.html) and [SparseVGInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CSparseVGInferenceMethod.html))
+* Understanding the inference procedure and refactoring existing framework under the help from mentors   
+* Make beautiful demos and benchmarks  
+* Stochastic variational inference for sparse GP (optional)
 
 ### Refactoring existing framework
 #### Variational Gaussian inference (Suggested Roadmap)
  * base class for computing gradient of Evidence Lower BOund (ELBO) wrt variaitonal variables 
  * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
  * (base) class for using external or build-in minimizers ([LBFGSMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1LBFGSMinimizer.html) and [NLOPTMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1NLOPTMinimizer.html))
- * (for full GP) classes for computing gradient wrt variaitonal variables using Tensorflow and existing hand-implemented codes 
- * (for full GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky)
+ * (for full GP) classes for computing gradient wrt variaitonal variables using existing hand-implemented codes and (possible) AutoDiff (eg Tensorflow or Stan)  
+ * (for full GP) classes for computing gradient wrt hyper-parameters using existing hand-implemented codes and (possible) AutoDiff (eg Tensorflow or Stan)  
  * Benchmarks and notebooks for demos 
  * base class for MC samplers
  * classes for using existing MC samplers 
- * (for sparse GP) classes for computing gradient wrt variaitonal variables using Tensorflow and existing hand-implemented codes 
- * (for sparse GP) classes for computing gradient wrt hyper-parameters using Tensorflow and existing hand-implemented codes (tricky)
+ * (for sparse GP) classes for computing gradient wrt variaitonal variables using existing hand-implemented codes and (possible) AutoDiff (eg Tensorflow or Stan)  
+ * (for sparse GP) classes for computing gradient wrt hyper-parameters using existing hand-implemented codes and (possible) AutoDiff (eg Tensorflow or Stan)  
  * classes for HMC samplers from Stan (optional)
  * base class for model selection (eg, Bayesian OPT) (optional)
 
