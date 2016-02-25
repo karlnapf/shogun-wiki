@@ -3,7 +3,7 @@
 Polish, update, and extend Shogun's framework for Gaussian Processes, with a focus on large-scale problems and sparse variational inference.
 
 ### Mentors
- * [Wu](https://www.linkedin.com/in/wu-lin-b1a587b7) (github: [yorkerlin](https://github.com/yorkerlin), IRC: yorkerlin)
+ * [Wu](https://github.com/shogun-toolbox/shogun/wiki/Wu-Lin) (github: [yorkerlin](https://github.com/yorkerlin), IRC: yorkerlin)
  * [Emtiyaz Khan](http://www.cs.ubc.ca/~emtiyaz/)
 
 ### Difficulty & Requirements
