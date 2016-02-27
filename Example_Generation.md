@@ -1,7 +1,7 @@
 # Shogun example meta-language parser
 The example generation tool simplifies the maintenance of shogun API examples across all the target languages. Shogun interfaces to many target languages and a set of API examples for each language is maintained as part of the Shogun user documentation. Since all API examples are almost identical across the languages (they mostly only differ syntactically), the example generation tool implements a *very* simple meta-language that translates to all target languages. Consequently, each example only needs to be written once in the meta-language and can automatically be translated to each target language.
 
-Running the parser requires python and pyparsing (included with many python distributions).
+Running the parser requires python and python-ply (included with many python distributions).
 
 ### Translating all examples in “examples/“ folder
 Running the following command will translate all programs in the “examples/” folder and generate translation for each target language. The translations are put in a new “outputs/“ folder. (You may also specify specific targets to translate to - run `$ ./generate.py --help` for more info)
