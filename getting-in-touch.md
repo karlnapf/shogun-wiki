@@ -3,11 +3,11 @@
 To get in touch, **post** to the mailinglist by sending a message to shogun-list@shogun-toolbox.org
 
 
-**Read the archive**.  The mailinglist is archived using gmane shogun-list-archive@shogun-toolbox.org
+**Read the archive**. Someone may already have asked your question and in this case you will find the answer here. The mailinglist is archived using gmane shogun-list-archive@shogun-toolbox.org
 
-**Subscribe** to the mailinglist by sending an empty message to shogun-list-subscribe@shogun-toolbox.org
+**Subscribe** to the mailinglist by sending an empty message to shogun-list-subscribe@shogun-toolbox.org. This allows you to see what other people are asking and the answers we give, who is interested in which projects and just generally keeping you up to date about Shogun.
 
-**Unsubscribe** from the mailinglist by sending an empty message to shogun-list-unsubscribe@shogun-toolbox.org
+**Unsubscribe** from the mailinglist by sending an empty message to shogun-list-unsubscribe@shogun-toolbox.org. 
 
 
 
