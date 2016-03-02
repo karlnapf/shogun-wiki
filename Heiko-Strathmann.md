@@ -1,5 +1,6 @@
 ### Contact
-Email: heiko.strathmann@gmail.com (Please do not write me directly about GSoC, but write to the [mailing list](http://www.shogun-toolbox.org/page/contact/contacts))
+Email: heiko.strathmann@gmail.com
+(Please do not write me directly about GSoC, but always write to the [mailing list](http://www.shogun-toolbox.org/page/contact/contacts))
 
 Website: http://www.herrstrathmann.de
 
