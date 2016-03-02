@@ -1,4 +1,8 @@
 # GSoC 2016 Deliverables
+
+(note: this page is not yet final and ongoing work)
+
+
 It's easy to meet expectations when you know exactly what they are. As a GSoC student, of course we expect you to work on your main project. However, we also require that you contribute to Shoguns documentation, maintenance and outreach. This page gives you an template checklist for your project that you can fill in during the summer. 
 
 ## Introduce your project
