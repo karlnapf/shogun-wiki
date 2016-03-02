@@ -4,6 +4,13 @@ The aim of the project is to improve our implementation of fundamental ML algori
 
 ## The usual suspects
 
+This project is likely to receive many applications. While a small
+amount of competition is healthy, it would be unfortunate if we had to
+turn down 10 really strong applications since we can only take one. So
+make sure you also look at the other projects -- the point is to get
+involved in Shogun itself. You can guess from the [mailing list archives](getting in touch)
+how many people will apply for each project.
+
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
  * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
