@@ -22,6 +22,8 @@ Projects are roughly **ordered by priority** and projects in **bold type** are m
  * jointly help with the 5.0 release
  * contribute to our [GSoC blog](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts)
 
+You can read about all the things you can get out of GSoC with Shogun [here](GSoC 2016 deliverables). 
+
 ## Improving Shogun's infrastructure
 Projects improving Shogun are the main focus of this year's GSoC. They are roughly ordered by priority and most of them *do not* focus on Machine Learning but rather on software engineering.
 
