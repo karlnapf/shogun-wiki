@@ -18,3 +18,22 @@ Many people have asked us how they should start and what we expect when they fir
 * [fixed memory leaks from unit-test](https://github.com/shogun-toolbox/shogun/pull/1992)
 * [added constructors for LogDetEstimator](https://github.com/shogun-toolbox/shogun/pull/1940)
 * [add some comments at the CGaussianLikelihood class](https://github.com/shogun-toolbox/shogun/pull/1977)
+
+**Major**
+
+* [Added different number of samples for quadratic time MMD](https://github.com/shogun-toolbox/shogun/pull/2022)
+* [softmax function added](https://github.com/shogun-toolbox/shogun/pull/1997)
+* [id3 tree added](https://github.com/shogun-toolbox/shogun/pull/1970)
+* [add streaming mmd, refactor linear time mmd](https://github.com/shogun-toolbox/shogun/pull/1959)
+* [For #1935 LibLinear unit test added](https://github.com/shogun-toolbox/shogun/pull/1945)
+* [Fix parameter hashing framework](https://github.com/shogun-toolbox/shogun/pull/1922)
+* [PCA eigen-ized](https://github.com/shogun-toolbox/shogun/pull/1915)
+* [fixes issue #1888](https://github.com/shogun-toolbox/shogun/pull/1939)
+
+**Notebook**
+* [pca ipython notebook revised 3rd iteration](https://github.com/shogun-toolbox/shogun/pull/2028)
+* [extend multiclass nb](https://github.com/shogun-toolbox/shogun/pull/1914)
+
+### 2016: So far...
+* [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
+* [THIS COULD BE YOUR PATCH](https://github.com/shogun-toolbox/shogun/labels/entrance)
