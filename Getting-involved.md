@@ -11,6 +11,8 @@ And that's it - you've made a start :)
 ## GSoC 2016 - Project Ideas
 Curious about the projects we offer? Have your own idea? A collection of project ideas are [here](Google Summer of Code 2015 projects), last year's projects are [here](http://www.shogun-toolbox.org/page/Events/gsoc2014_ideas). 
 
+Here's a rough sketch of what it might look like to work on a [GSoC project with Shogun](GSoC 2016 deliverables).
+
 ## What we are looking for
 We have successfully participated in four summers of GSoC. This year we want to take Shogun up another notch with your help:
 
