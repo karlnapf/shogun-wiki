@@ -4,10 +4,9 @@ The aim of the project is to improve our implementation of fundamental ML algori
 
 ## The usual suspects
 
-This project is likely to receive many applications. While a small
-amount of competition is healthy, it would be unfortunate if we had to
-turn down 10 really strong applications since we can only take one. So
-make sure you also look at the other projects -- the point is to get
+**Please note**: This project is in high demand, and we don't want to turn down too many strong applications. Therefore, we might accept 2 students for it: you would then work together, one person benchmarking, the other improving the code, then vice versa. Together, the two of you could have a very big impact; but this requires some preparation: we need a well-documented list of all the algorithms that need work. So if you're interested in this project, it would be a good idea to start benchmarking some of our algorithms (against scikit learn). This could be your first pull-request :)
+
+But make sure you also look at the other projects -- the point is to get
 involved in Shogun itself. You can guess from the [mailing list archives](getting in touch)
 how many people will apply for each project.
 
