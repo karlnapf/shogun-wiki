@@ -4,7 +4,7 @@ The aim of the project is to improve our implementation of fundamental ML algori
 
 ## The usual suspects
 
-**Please note**: This project is in high demand, so we might accept 2 students for it: you would then work together, one person benchmarking, the other improving the code, then vice versa. Together, the two of you could have a very big impact!
+**Please note**: This project is in high demand, so we might accept 2 students for it: you would then work together, one person benchmarking, the other improving the code, then vice versa. One can also imagine one **easy** part (benchmarking) and one **involved** part (improving). Together, the two of you could have a very big impact!
 
 This requires some preparation: we need a well-documented list of all the algorithms that need work. So if you're interested in this project, it would be a good idea to start benchmarking some of our algorithms (against scikit learn). This could be your first pull-request :)
 
