@@ -3,9 +3,10 @@ Welcome to our FAQ on how to get involved with Shogun and Google Summer of Code.
 
 ## GSoC 2016 - How to start
 Your first step is small and simple: **pick and [entrance task](https://github.com/shogun-toolbox/shogun/issues?q=is%3Aopen+is%3Aissue+label%3Aentrance)** you like and **submit a small patch that solves it**. 
-Get in touch by posting to the [mailing list](getting in touch) - don't be shy :)
 
-Generally, we won't assign you an issue to solve because we think that you should be solving the one you're most interested in. It's worth having a look at the mailing list though, to see whether other people might already be working on this. Of course, if you have a technical question about a particular issue you can talk to the people who submitted it. Once you submit a pull request, please also introduce yourself to the whole mailing list so everyone can get to know you.
+We've compiled a list of [**example patches**](GSoC 2016 example patches) to give you a better idea of what we're looking for. Then get in touch by posting to the [mailing list](getting in touch) - don't be shy :)
+
+Generally, we won't assign you an issue to solve because we think that you should be solving the one you're most interested in. It's worth having a look at the mailing list though, to see whether other people might already be working on this. Of course, if you have a technical question about a particular issue you can talk to the people who submitted it. 
 
 And that's it - you've made a start :)
 
