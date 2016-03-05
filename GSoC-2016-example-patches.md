@@ -35,6 +35,13 @@ Many people have asked us how they should start and what we expect when they fir
 * [extend multiclass nb](https://github.com/shogun-toolbox/shogun/pull/1914)
 
 ### 2016: So far...
-* [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
+**Documentation**
+ * [Updated links in README](https://github.com/shogun-toolbox/shogun/pull/3031)
+
+**Minor**
+
 * [Separate out compact computation of gaussian into a subclass](https://github.com/shogun-toolbox/shogun/pull/3027)
+
+**Notebook**
+* [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
 * [THIS COULD BE YOUR PATCH](https://github.com/shogun-toolbox/shogun/labels/entrance)
