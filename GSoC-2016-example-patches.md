@@ -34,7 +34,7 @@ Many people have asked us how they should start and what we expect when they fir
 * [pca ipython notebook revised 3rd iteration](https://github.com/shogun-toolbox/shogun/pull/2028)
 * [extend multiclass nb](https://github.com/shogun-toolbox/shogun/pull/1914)
 
-### 2016: So far...
+### 2016: So far...[Open entrance tasks](https://github.com/shogun-toolbox/shogun/labels/entrance)
 **Documentation**
  * [Updated links in README](https://github.com/shogun-toolbox/shogun/pull/3031)
 
@@ -44,4 +44,3 @@ Many people have asked us how they should start and what we expect when they fir
 
 **Notebook**
 * [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
-* [THIS COULD BE YOUR PATCH](https://github.com/shogun-toolbox/shogun/labels/entrance)
