@@ -36,4 +36,5 @@ Many people have asked us how they should start and what we expect when they fir
 
 ### 2016: So far...
 * [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
+* [Separate out compact computation of gaussian into a subclass](https://github.com/shogun-toolbox/shogun/pull/3027)
 * [THIS COULD BE YOUR PATCH](https://github.com/shogun-toolbox/shogun/labels/entrance)
