@@ -41,6 +41,7 @@ Many people have asked us how they should start and what we expect when they fir
 **Minor**
 
 * [Separate out compact computation of gaussian into a subclass](https://github.com/shogun-toolbox/shogun/pull/3027)
+* [cleanup python modular graphical examples](https://github.com/shogun-toolbox/shogun/pull/3045)
 
 **Notebook**
 * [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
