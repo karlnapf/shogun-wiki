@@ -45,3 +45,4 @@ Many people have asked us how they should start and what we expect when they fir
 
 **Notebook**
 * [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
+* [clean up regression notebook](https://github.com/shogun-toolbox/shogun/pull/3047)
