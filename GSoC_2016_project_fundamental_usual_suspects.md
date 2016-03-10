@@ -14,7 +14,7 @@ how many people will apply for each project.
 
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
- * [Ryan Curtin](https://github.com/ryancurtin)
+ * [Ryan Curtin](https://github.com/rcurtin)
 
 ### Difficulty & Requirements
 **Easy to Medium** -- depends on you. You need
