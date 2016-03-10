@@ -4,9 +4,9 @@ The aim of the project is to improve our implementation of fundamental ML algori
 
 ## The usual suspects
 
-**Please note**: This project is in high demand, so we might accept 2 students for it: you would then work together, one person benchmarking, the other improving the code, then vice versa. One can also imagine one **easy** part (benchmarking) and one **involved** part (improving). Together, the two of you could have a very big impact!
+**Update**: This project is in high demand, so we might accept 2 students for it: you would then work together, one person benchmarking, the other improving the code, then vice versa. One can also imagine one **easy** part (benchmarking) and one **involved** part (improving). Together, the two of you could have a very big impact!
 
-This requires some preparation: we need a well-documented list of all the algorithms that need work. So if you're interested in this project, it would be a good idea to start benchmarking some of our algorithms (against scikit learn). This could be your first pull-request :)
+This requires some preparation: we need a well-documented list of all the algorithms that need work. So if you're interested in this project, it would be a good idea to start benchmarking some of our algorithms. Eventually, rather than doing this with Python scripts, we would like to use an [existing benchmarking system](https://github.com/zoq/benchmarks). This could be your first pull-request :)
 
 But make sure you also look at the other projects -- the point is to get
 involved in Shogun itself. You can guess from the [mailing list archives](getting in touch)
@@ -14,7 +14,7 @@ how many people will apply for each project.
 
 ### Mentors
  * [Heiko](Heiko%20Strathmann) (github: [karlnapf](https://github.com/karlnapf), IRC: HeikoS)
- * [Vincent Adam](https://sites.google.com/site/myvincentadam/)
+ * [Ryan Curtin](https://github.com/ryancurtin)
 
 ### Difficulty & Requirements
 **Easy to Medium** -- depends on you. You need
@@ -23,6 +23,7 @@ how many people will apply for each project.
  * Knowledge of very basic ML algorithms
  * Basic Linear Algebra
  * Desirable: Experience with other ML toolkits (preferably Python, such as [scikit-learn](http://scikit-learn.org/stable/), or c++ such as [MLPack](http://www.mlpack.org/))
+ * Desirable: Some initial experience in an [existing benchmarking system](https://github.com/zoq/benchmarks)
  * Desirable: Practical experience with ML
  * Desirable: Some experience with Shogun
 
@@ -37,14 +38,17 @@ Involved algorithms definitely would include:
  * Lasso
  * KNN
  * PCA/LDA
+ * Neural networks
+ * Gaussian Processes
  * ...
 
 As an example, have a look at issue [#2987](https://github.com/shogun-toolbox/shogun/issues/2987), which illustrates the problems on KMeans: It is slow, partly wrong, and does not scale.
+Another example is [#3048](https://github.com/shogun-toolbox/shogun/issues/3048) which shows that Shogun's PCA is 10x faster than sklearn.
 
 ### Waypoints and initial work
 After having identified a number of algorithms, the typical approach would be to
 
-1.) Write a script/program to compare performance with an existing ML library, on a challenging practical application. Such a benchmark should test various aspects: correctness, speed, different data sizes, different problem flavours.
+1.) Write a script/program to compare performance with an existing ML library, on a challenging practical application. Such a benchmark should test various aspects: correctness, speed, different data sizes, different problem flavours. *UPDATE:* This step now should be done as part of [mlpack's benchmarks](https://github.com/zoq/benchmarks). Ryan will be an additional mentor to help us. The results page can be found [here](http://www.mlpack.org/benchmark.html). We highly appreciate any ideas to make this part as smooth as possible.
 
 2.) Identify the most severe bottlenecks where Shogun does not perform well. This might be pure software-engineering related questions, but also depends on the mathematical formulations of the algorithms (see e.g. [PCA improvements](https://github.com/shogun-toolbox/shogun/issues/1876)).
 
@@ -54,6 +58,8 @@ After having identified a number of algorithms, the typical approach would be to
 
 5.) IPython notebook with a real-world application
 
+6.) A report showcasing Shogun's performance compared to other libraries.
+
 The [K-means issue](https://github.com/shogun-toolbox/shogun/issues/2987) is a great place to start.
 
 ### Optional
@@ -61,5 +67,3 @@ Once the Shogun implementation runs competitive, we can look to gain further spe
 
 ### Why this is cool
 This project offers the chance to learn about many fundamental ML algorithms from a practical perspective, with a focus on efficiency. As the usual suspects are the most used algorithms by Shogun users, it is likely that many people will execute code that you wrote. 
-
-Get back to the [main projects page](Google%20Summer%20of%20Code%202016%20Projects).
