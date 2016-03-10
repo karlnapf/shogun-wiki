@@ -39,10 +39,10 @@ Many people have asked us how they should start and what we expect when they fir
  * [Updated links in README](https://github.com/shogun-toolbox/shogun/pull/3031)
 
 **Minor**
-
 * [Separate out compact computation of gaussian into a subclass](https://github.com/shogun-toolbox/shogun/pull/3027)
 * [cleanup python modular graphical examples](https://github.com/shogun-toolbox/shogun/pull/3045)
 * [Add automatic bias computation in LinearMachine](https://github.com/shogun-toolbox/shogun/pull/3044)
+* [Fix KNN LaTeX](https://github.com/shogun-toolbox/shogun/pull/3049)
 
 **Notebook**
 * [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
