@@ -43,6 +43,7 @@ Many people have asked us how they should start and what we expect when they fir
 * [cleanup python modular graphical examples](https://github.com/shogun-toolbox/shogun/pull/3045)
 * [Add automatic bias computation in LinearMachine](https://github.com/shogun-toolbox/shogun/pull/3044)
 * [Fix KNN LaTeX](https://github.com/shogun-toolbox/shogun/pull/3049)
+* [Shorten time python modular examples.](https://github.com/shogun-toolbox/shogun/pull/3056)
 
 **Notebook**
 * [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
