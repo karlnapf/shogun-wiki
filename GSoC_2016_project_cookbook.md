@@ -1,7 +1,7 @@
 # A Shogun cookbook
 
 All GSoC 2016 students will work on this project jointly, next to their main project.
-[Prototype link](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/cookbook)
+[Link](https://github.com/shogun-toolbox/shogun/tree/develop/doc/cookbook)
 
 ### Mentors
  * [Lea](Lea%20Goetz) (github: [lgoetz](https://github.com/lgoetz), IRC: leagoetz)
@@ -17,7 +17,7 @@ Easy. You need to
  * Desirable: Shogun experience
 
 ### Description
-This project is about bringing a new Shogun cookook to life. This puts together a year of work on Shogun's [meta language](https://github.com/shogun-toolbox/shogun/wiki/Example_Generation), and our [prototype](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/sphinx) for a sphinx-based API documentation system. The goal is to have API example that cover all target languages and all algorithms, in a form that looks like [this](https://cloud.githubusercontent.com/assets/3594351/13373164/c1399ca6-dd57-11e5-866b-4db9f3f2fb0f.png).
+This project is about bringing a new Shogun cookook to life. This puts together a year of work on Shogun's [meta language](https://github.com/shogun-toolbox/shogun/wiki/Example_Generation), and our [cookbook](https://github.com/shogun-toolbox/shogun/tree/develop/doc/sphinx) for a sphinx-based API documentation system. The goal is to have API example that cover all target languages and all algorithms, in a form that looks like [this](https://cloud.githubusercontent.com/assets/3594351/13373164/c1399ca6-dd57-11e5-866b-4db9f3f2fb0f.png).
 
 
 
@@ -27,7 +27,7 @@ As you see in the screenshot above, there will be code listings for all target l
 ### Waypoints and initial work
 To start, you can:
 
- * Check the README of our [prototype](https://github.com/shogun-toolbox/shogun/tree/feature/sphinxdoc/doc/cookbook) and try to run it locally.
+ * Check the README of our [cookbook](https://github.com/shogun-toolbox/shogun/tree/develop/doc/cookbook) and try to run it locally.
  * Add an example for an existing Python example
 
 Once all Python examples are translated to meta examples, we aim to completely remove the old ones. In a next step, all generated code listings should be embedded into our CMake build.
