@@ -5,9 +5,10 @@ Polish, update, and extend Shogun's framework for Gaussian Processes, with a foc
 ### Mentors
  * [Wu](https://github.com/shogun-toolbox/shogun/wiki/Wu-Lin) (github: [yorkerlin](https://github.com/yorkerlin), IRC: yorkerlin)
  * [Emtiyaz Khan](http://www.cs.ubc.ca/~emtiyaz/)
+ * [James Hensman](http://www.lancaster.ac.uk/staff/hensmanj/)
 
 ### Difficulty & Requirements
-**Medium to Difficult**
+**Medium**
 
 
 You need know:
@@ -36,7 +37,7 @@ The project will start from the existing code base, which already contains a hug
  * Unify/Refactor gradient computations within Shogun (Note that the new framework should be easy to be extended to using AutoDiff)
 
 ### Waypoints and initial work
- * do benchmarks about all existing inference methods for (full) GP and sparse GP under the existing framework (entrance task) ([KLCovarianceInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCovarianceInferenceMethod.html), [KLCholeskyInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCholeskyInferenceMethod.html), [KLApproxDiagonalInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLApproxDiagonalInferenceMethod.html), [FITCInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CFITCInferenceMethod.html), and [SparseVGInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CSparseVGInferenceMethod.html))
+ * do benchmarks about all existing inference methods for (full) GP and sparse GP under the existing framework (entrance task) ([KLCovarianceInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCovarianceInferenceMethod.html), [KLCholeskyInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLCholeskyInferenceMethod.html), [KLApproxDiagonalInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CKLApproxDiagonalInferenceMethod.html), [FITCInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CFITCInferenceMethod.html), and [SparseVGInferenceMethod](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1CSparseVGInferenceMethod.html)) See [#3054](https://github.com/shogun-toolbox/shogun/issues/3054)
 
 * Understanding the inference procedure and refactoring existing framework with the help from mentors   
 * Make beautiful demos and benchmarks under the new framework
