@@ -3,7 +3,7 @@
 ### Mentors
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
  * [Viktor](Viktor%20Gal) (github: [vigsterkr](https://github.com/vigsterkr), IRC: wiking)
- * [Björn](Björn%20Esser (github: [besser82](https://github.com/besser82), IRC: besser82)
+ * [Björn](Bjoern%20Esser) (github: [besser82](https://github.com/besser82), IRC: besser82)
 
 ### Difficulty & Requirements
 **Difficult**. You need to have:
