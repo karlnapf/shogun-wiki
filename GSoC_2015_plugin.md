@@ -2,7 +2,8 @@
 
 ### Mentors
  * [Sergey](Sergey%20Lisitsyn) (github: [lisitsyn](https://github.com/lisitsyn), IRC: lisitsyn)
- * [Viktor](Viktor%20Gal) (github: [vigsterkr](https://github.com/vigsterkr), IRC wiking)
+ * [Viktor](Viktor%20Gal) (github: [vigsterkr](https://github.com/vigsterkr), IRC: wiking)
+ * [Björn](Björn%20Esser (github: [besser82](https://github.com/besser82), IRC: besser82)
 
 ### Difficulty & Requirements
 **Difficult**. You need to have:
@@ -22,7 +23,9 @@ Currently, Shogun is made of a monolithic structure of classes which is cumberso
 
 We want to build a plugin architecture to solve these problems. Such an architecture would support dynamic behaviour of plugins: a user could download a new classifier and run it instantly without rebuilding Shogun. The core Shogun interface has to be designed to support a large number of ML paradigms, and these are hidden in plugins. This also drastically simplifies the compilation process (and time).
 
-We have drafted a design document [here](https://github.com/shogun-toolbox/shogun/wiki/New-parameters-framework-and-plugins)
+We have drafted a design document [here](https://github.com/shogun-toolbox/shogun/wiki/New-parameters-framework-and-plugins).
+
+A plugin-loader framework - called Dynaplugz(https://github.com/shogun-toolbox/dynaplugz) - is currently WIP.
 
 
 ### Why this is cool
