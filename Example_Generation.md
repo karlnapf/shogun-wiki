@@ -72,7 +72,7 @@ OK
 ```
 # Writing examples
 
-The meta-language has a simple syntax. Statements in the language are either initialisations, assigments, expressions, or a print command. Shoguns modular class names are are built-in types of the language, along with the basic types `int`, `bool`, `float`, and `string`. Statements are separated by newlines. Single line comments are support by prepending the line with the symbol `#`.
+The meta-language has a simple syntax. Statements in the language are either initialisations, assigments, expressions, or a print command. Shoguns modular class names are are built-in types of the language, along with the basic types `Int`, `Bool`, `Float`, `Real`, and `String`. Statements are separated by newlines. Single line comments are support by prepending the line with the symbol `#`.
 
 It is important to notice that this is a meta-language which is never directly compiled/interpreted and executed. To test an example it is therefore necessary to translate it to the target languages and run each of these translations in the respective languages.
 
