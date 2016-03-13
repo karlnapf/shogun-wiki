@@ -45,6 +45,7 @@ Many people have asked us how they should start and what we expect when they fir
 * [Fix KNN LaTeX](https://github.com/shogun-toolbox/shogun/pull/3049)
 * [Shorten time python modular examples.](https://github.com/shogun-toolbox/shogun/pull/3056)
 * [Added precomputed norms to EuclideanDistance](https://github.com/shogun-toolbox/shogun/pull/3042)
+* [Avoid compiler warnings in CLinearMachine](https://github.com/shogun-toolbox/shogun/pull/3065)
 
 **Notebook**
 * [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
