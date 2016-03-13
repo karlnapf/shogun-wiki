@@ -25,7 +25,7 @@ We want to build a plugin architecture to solve these problems. Such an architec
 
 We have drafted a design document [here](https://github.com/shogun-toolbox/shogun/wiki/New-parameters-framework-and-plugins).
 
-A plugin-loader framework - called Dynaplugz(https://github.com/shogun-toolbox/dynaplugz) - is currently WIP.
+A plugin-loader framework - called [Dynaplugz](https://github.com/shogun-toolbox/dynaplugz) - is currently WIP.
 
 
 ### Why this is cool
