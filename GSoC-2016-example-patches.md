@@ -51,6 +51,9 @@ Many people have asked us how they should start and what we expect when they fir
 * [Visually compare multiple classification methods](https://github.com/shogun-toolbox/shogun/pull/3019)
 * [clean up regression notebook](https://github.com/shogun-toolbox/shogun/pull/3047)
 
+**Cookbook**
+* [Linear Ridge Regression](https://github.com/shogun-toolbox/shogun/pull/3064)
+
 **Benchmarks (issues, discussions and patches)**
 * [PCA](https://github.com/shogun-toolbox/shogun/issues/3048)
 * [KMeans](https://github.com/shogun-toolbox/shogun/issues/2987)
