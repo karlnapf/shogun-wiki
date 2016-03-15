@@ -35,11 +35,12 @@ Involved algorithms definitely would include:
 
  * K-Means
  * (Kernel) Ridge Regression
- * Lasso
+ * Lasso/Group lasso
  * KNN
  * PCA/LDA
- * Neural networks
- * Gaussian Processes
+ * Neural networks (see also the [NN project](https://github.com/shogun-toolbox/shogun/wiki/GSoC_2015_project_deep_learning))
+ * Gaussian Processes (see also the [GP project](https://github.com/shogun-toolbox/shogun/wiki/GSoC_2016_project_large_gps))
+ * SVM (in all the 100s variations we have)
  * ...
 
 As an example, have a look at issue [#2987](https://github.com/shogun-toolbox/shogun/issues/2987), which illustrates the problems on KMeans: It is slow, partly wrong, and does not scale.
