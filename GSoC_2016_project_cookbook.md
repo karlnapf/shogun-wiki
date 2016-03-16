@@ -1,7 +1,7 @@
 # A Shogun cookbook
 
 All GSoC 2016 students will work on this project jointly, next to their main project.
-[Link](https://github.com/shogun-toolbox/shogun/tree/develop/doc/cookbook)
+[Cookbook link](https://github.com/shogun-toolbox/shogun/tree/develop/doc/cookbook). 
 [Latest cookbook](http://shogun.ml/cookbook/latest/)
 
 ### Mentors
