@@ -35,6 +35,7 @@ Many people have asked us how they should start and what we expect when they fir
 * [extend multiclass nb](https://github.com/shogun-toolbox/shogun/pull/1914)
 
 ### 2016: So far...[Open entrance tasks](https://github.com/shogun-toolbox/shogun/labels/entrance)
+We stopped putting all merged patches in here. The below ones are just random examples. Search for merged patches during the pre-GSoC period on github if you want to see more
 **Documentation**
  * [Updated links in README](https://github.com/shogun-toolbox/shogun/pull/3031)
 
