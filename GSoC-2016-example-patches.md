@@ -58,3 +58,4 @@ We stopped putting all merged patches in here. The below ones are just random ex
 **Benchmarks (issues, discussions and patches)**
 * [PCA](https://github.com/shogun-toolbox/shogun/issues/3048)
 * [KMeans](https://github.com/shogun-toolbox/shogun/issues/2987)
+* [KMeans speedup](https://github.com/shogun-toolbox/shogun/pull/3067)
