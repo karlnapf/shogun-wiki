@@ -4,7 +4,7 @@ Email: yorker.lin@gmail.com irc:yorkerlin
 
 
 ### Personal
-Interests: Bayesian Non-parametrics, Approximate Inference, Optimization, Rock music
+Interests: Bayesian Non-parametrics, Approximate Inference, Optimization, Information Retrieval, Rock music
 
 ### Shogun
 I came in touch with Shogun since GSoC 2014. 
