@@ -11,7 +11,7 @@ I came in touch with Shogun since GSoC 2014.
 I worked on the variational inference for Gaussian processes and sparse Gaussian processes.
 I also wrote some optimizers used in stochastic variational inference.
 
-### Ask him about:
+### Ask Him About:
  * Gaussian Processes
  * Probabilistic Topic Models (eg, Dirichlet Process Mixture Models)
  * Inference for Covaraiance Matrix
