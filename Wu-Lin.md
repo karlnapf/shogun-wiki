@@ -9,7 +9,7 @@ Interests: Bayesian Non-parametrics, Approximate Inference, Optimization, Inform
 ### Shogun
 I came in touch with Shogun since GSoC 2014. 
 I worked on the variational inference for Gaussian processes and sparse Gaussian processes.
-I also wrote some optimizers used in stochastic variational inference.
+I also wrote optimizers used in stochastic variational inference.
 
 ### Ask Him About:
  * Gaussian Processes && Dirichlet Processes
