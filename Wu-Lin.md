@@ -12,7 +12,7 @@ I worked on the variational inference for Gaussian processes and sparse Gaussian
 I also wrote optimizers used in stochastic variational inference.
 
 ### Ask Him About:
- * Gaussian Processes && Dirichlet Processes
+ * Gaussian Processes and Dirichlet Processes
  * Probabilistic Topic Models (eg, LDA, CTM)
  * Inference for Covaraiance Matrix
  * Stochastic Optimizers in Shogun
