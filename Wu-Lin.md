@@ -15,4 +15,4 @@ I also wrote optimizers used in stochastic variational inference.
  * Gaussian Processes and Dirichlet Processes
  * Probabilistic Topic Models (eg, LDA, CTM)
  * Inference for Covaraiance Matrix
- * Stochastic Optimizers in Shogun
+ * Gaussian Processes and Stochastic Optimizers in Shogun
