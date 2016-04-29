@@ -6,10 +6,31 @@ This document contains TODO lists for the next release.
  * Pre GSoC release, to make students get involved
  * Offers BSD license option
  * Last Shogun that does not require C++11 (which will be used for GSoC)
+
 ###TODO:
  * Make sure tests are green (include no warnings in libshogun and python modular)
  * BSD/GPL repository split
  * Fix remaining problems with meta example integration
+
+### Release text draft:
+> Dear all,
+
+> we are pleased to announce the 4.2 release of the Shogun Machine Learning Toolbox, in preparation of the coming Google Summer of Code 2016.
+
+> This release's biggest change is the new BSD license option. You can now use (slightly slimmer version of) Shogun under a *non-viral* BSD3-style license. All of Shogun remains available under the GPL license. For details, see [here](TODO)
+
+> The release also will be the last one which has C++11 as an *optional* requirement. From the next release on, this will be changed to a hard requirement.
+
+> As usual, there are a number of improvements, mostly coming from our GSoC applicants. A full list and the download can be found at
+> https://github.com/shogun-toolbox/shogun/releases/tag/shogun_4.2.0
+
+> Heiko Strathmann, on behalf of the Shogun team
+
+> About Shogun:
+> http://www.shogun-toolbox.org
+
+> Source code:
+> https://github.com/shogun-toolbox
 
 ## 4.1 [DONE]
 ###Purpose:
