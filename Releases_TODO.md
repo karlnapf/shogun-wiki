@@ -1,6 +1,16 @@
 # Releases
 This document contains TODO lists for the next release.
 
+## 4.2 [Takechi Hanpeita]
+### Purpose:
+ * Pre GSoC release, to make students get involved
+ * Offers BSD license option
+ * Last Shogun that does not require C++11 (which will be used for GSoC)
+###TODO:
+ * Make sure tests are green (include no warnings in libshogun and python modular)
+ * BSD/GPL repository split
+ * Fix remaining problems with meta example integration
+
 ## 4.1 [DONE]
 ###Purpose:
  * Mostly contains Wu's new inference algorithms
