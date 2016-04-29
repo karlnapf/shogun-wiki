@@ -11,6 +11,7 @@ This document contains TODO lists for the next release.
  * Make sure tests are green (include no warnings in libshogun and python modular)
  * BSD/GPL repository split
  * Fix remaining problems with meta example integration
+ * Put new website online
  * See the [milestone](https://github.com/shogun-toolbox/shogun/milestones/Shogun%204.2.0%20-%20Takechi%20Hanpeita)
 
 ### Release text draft:
