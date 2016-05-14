@@ -33,7 +33,7 @@ In addition to the technical project, **all** students will:
 [link to project page](GSoC 2016 project   Fundamental ML: the usual suspects)
 
 
-## (outdated) - project ideas
+#### (outdated) - project ideas
 Project Ideas below are roughly **ordered by priority** and projects in **bold type** are more likely to happen. 
 
 ## Improving Shogun's infrastructure
