@@ -2,7 +2,7 @@
 
 ## Detailed Step-by-Step Draft
 
-link to Draft Doc missing
+https://docs.google.com/document/d/1RtHundU7jVLMKRdVhBDgJzOSzxn1Y_QIDEKlNidxZ6Y/edit
 
 ## Pre-GSoC release contributions
 
