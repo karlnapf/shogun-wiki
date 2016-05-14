@@ -21,12 +21,16 @@ In addition to the technical project, **all** students will:
 [GSoC 2016 deliverables](GSoC 2016 deliverables). 
 
 ## Easy Installation on Major Platforms
+[link to project page](GSoC 2016 project   Easy Installation on Major Platforms)
 
 ## Shogun Detox
+[link to project page](GSoC 2016 project   Shogun Detox)
 
 ## New Parameter Framework and Plugin Architecture
+[link to project page](GSoC 2016 project   New Parameter Framework and Plugin Architecture)
 
 ## Fundamental ML: the usual suspects
+[link to project page](GSoC 2016 project   Fundamental ML: the usual suspects)
 
 
 ## (outdated) - project ideas
