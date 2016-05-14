@@ -11,14 +11,26 @@ This year's GSoC is about improving Shogun, rather than extending it (exceptions
 
 
 # Projects
-Project Ideas below are roughly **ordered by priority** and projects in **bold type** are more likely to happen. In addition to the technical project, **all** students will:
+In addition to the technical project, **all** students will:
 
  * work on a joint GSoC project: a [Shogun cookbook](GSoC_2016_project_cookbook)
  * peer-review a fellow student's work
  * jointly help with the 5.0 release
  * contribute to our [GSoC blog](https://github.com/shogun-toolbox/shogun/wiki/GSoC-follow-up-blog-posts)
 
-You can read about all the things you can get out of GSoC with Shogun [here](GSoC 2016 deliverables). 
+[GSoC 2016 deliverables](GSoC 2016 deliverables). 
+
+## Easy Installation on Major Platforms
+
+## Shogun Detox
+
+## New Parameter Framework and Plugin Architecture
+
+## Fundamental ML: the usual suspects
+
+
+## (outdated) - project ideas
+Project Ideas below are roughly **ordered by priority** and projects in **bold type** are more likely to happen. 
 
 ## Improving Shogun's infrastructure
 Projects improving Shogun are the main focus of this year's GSoC. They are roughly ordered by priority and most of them *do not* focus on Machine Learning but rather on software engineering.
