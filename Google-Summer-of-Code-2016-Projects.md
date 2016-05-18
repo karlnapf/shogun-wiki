@@ -30,7 +30,7 @@ In addition to the technical project, **all** students will:
 [link to project page](GSoC 2016 project   New Parameter Framework and Plugin Architecture)
 
 ## Fundamental ML: the usual suspects
-[link to project page](GSoC 2016 project   Fundamental ML: the usual suspects)
+[link to project page](GSoC 2016 project   Fundamental ML the usual suspects)
 
 
 #### (outdated) - project ideas
