@@ -1,6 +1,8 @@
 Welcome to the Shogun wiki!
 
 * [Home](Home)
+* [quick link GSoC 2016 projects](Google Summer of Code 2016 Projects)
+
 * Readmes:
   * [Readme](https://github.com/shogun-toolbox/shogun/blob/develop/README.md)
   * [Install](INSTALL)
