@@ -16,8 +16,8 @@ https://docs.google.com/document/d/1eozTFX_mgKx3eXQfQnP07Rxi8GYKfGYdu_qvGpLRnjw/
 
 ## Pre-GSoC release contributions
 
-[Fix buildbot mathematics/ warnings](Fix buildbot mathematics/ warnings)
+[Fix buildbot mathematics/ warnings](https://github.com/shogun-toolbox/shogun/pull/3185)
 
 ## Cookbook contributions
 
-[Kmeans](Add kmeans page to cookbook)
+[Kmeans](https://github.com/shogun-toolbox/shogun/pull/3183)
