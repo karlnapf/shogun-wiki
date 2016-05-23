@@ -1,6 +1,6 @@
 ### Student 
 
-Ariane Paola (IRC: arianepaola)
+Ariane Paola (github: arianepaola, IRC: arianepaola)
 
 ### Mentors
 
@@ -18,4 +18,8 @@ https://docs.google.com/document/d/1fr-fLeBkCNeDFHhelzeIDKpfnpOKPYl44YEG4VdfVnI/
 
 ## Pre-GSoC release contributions
 
+No contributions
+
 ## Cookbook contributions
+
+No contributions
