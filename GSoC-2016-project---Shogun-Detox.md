@@ -21,5 +21,7 @@ https://docs.google.com/document/d/1eozTFX_mgKx3eXQfQnP07Rxi8GYKfGYdu_qvGpLRnjw/
 ## Cookbook contributions
 
 [Kmeans](https://github.com/shogun-toolbox/shogun/pull/3183)
+
 [qda](https://github.com/shogun-toolbox/shogun/pull/3208)
+
 [hierarchical clustering](https://github.com/shogun-toolbox/shogun/pull/3207)
