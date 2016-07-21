@@ -41,13 +41,12 @@ The project will start from the existing code base, which already contains a hug
 
 * Understanding the inference procedure and refactoring existing framework with the help from mentors   
 * Make beautiful demos and benchmarks under the new framework
-* Stochastic variational inference for sparse GP (optional)
+* Stochastic variational inference for GPs (optional)
 
 ### Refactoring existing framework
 #### Variational Gaussian inference (Suggested Roadmap)
  * base class for computing gradient of Evidence Lower BOund (ELBO) wrt variaitonal variables 
  * base class for computing gradient of ELBO wrt hyper-parameters in likelihoods, mean functions, and co-variance/kernel functions
- * (base) class for using external or build-in minimizers ([LBFGSMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1LBFGSMinimizer.html) and [NLOPTMinimizer](http://www.shogun-toolbox.org/doc/en/latest/classshogun_1_1NLOPTMinimizer.html))
  * (for full GP) classes for computing gradient wrt variaitonal variables using existing hand-implemented codes 
  * (for full GP) classes for computing gradient wrt hyper-parameters using existing hand-implemented codes
  * Benchmarks and notebooks for demos 
