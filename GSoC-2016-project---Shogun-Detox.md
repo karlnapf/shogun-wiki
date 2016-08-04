@@ -25,3 +25,11 @@ https://docs.google.com/document/d/1eozTFX_mgKx3eXQfQnP07Rxi8GYKfGYdu_qvGpLRnjw/
 [qda](https://github.com/shogun-toolbox/shogun/pull/3208)
 
 [hierarchical clustering](https://github.com/shogun-toolbox/shogun/pull/3207)
+
+[CARTree](https://github.com/shogun-toolbox/shogun/pull/3282)
+
+[ecoc random](https://github.com/shogun-toolbox/shogun/pull/3280)
+
+[edit: separate classifiers](https://github.com/shogun-toolbox/shogun/pull/3297)
+
+[multiclass lda](https://github.com/shogun-toolbox/shogun/pull/3319)
