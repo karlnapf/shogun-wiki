@@ -23,3 +23,8 @@ https://docs.google.com/document/d/1RtHundU7jVLMKRdVhBDgJzOSzxn1Y_QIDEKlNidxZ6Y/
 ## Cookbook contributions
 
 [lda](https://github.com/shogun-toolbox/shogun/pull/3219)
+
+[sparse GP](https://github.com/shogun-toolbox/shogun/pull/3389)
+
+[rf](https://github.com/shogun-toolbox/shogun/pull/3301)
+
