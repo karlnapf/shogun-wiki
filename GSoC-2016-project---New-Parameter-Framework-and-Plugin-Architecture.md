@@ -14,7 +14,7 @@ Björn (github: besser82, IRC: besser82)
 
 ## Detailed Step-by-Step Draft
 
-[Timeline](https://docs.google.com/document/d/1ZVV9KsHxpoj2G3HYYp-8MNjDpHVL0RGvj5hD0r03lgg/edit?usp=sharing)
+[Timeline](https://docs.google.com/document/d/1ZVV9KsHxpoj2G3HYYp-8MNjDpHVL0RGvj5hD0r03lgg/edit)
 
 [Draft Code](https://gist.github.com/sanuj/3a343c8a31c4e9a4c657)
 
@@ -39,4 +39,3 @@ Björn (github: besser82, IRC: besser82)
 [Euclidean Distance](https://github.com/shogun-toolbox/shogun/pull/3377)
 
 [Neural Net Classification](https://github.com/shogun-toolbox/shogun/pull/3246)
-
