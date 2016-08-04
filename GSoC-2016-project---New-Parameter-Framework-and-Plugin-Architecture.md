@@ -26,6 +26,17 @@ Björn (github: besser82, IRC: besser82)
 
 [fix modshogun and python warnings](https://github.com/shogun-toolbox/shogun/pull/3198)
 
+[Linear SVM cookbook](https://github.com/shogun-toolbox/shogun/pull/3112)
+
+[krr cookbook](https://github.com/shogun-toolbox/shogun/pull/3078)
+
+[Least squares regression cookbook](https://github.com/shogun-toolbox/shogun/pull/3064)
+
 ## Cookbook contributions
 
 [GMM](https://github.com/shogun-toolbox/shogun/pull/3197)
+
+[Euclidean Distance](https://github.com/shogun-toolbox/shogun/pull/3377)
+
+[Neural Net Classification](https://github.com/shogun-toolbox/shogun/pull/3246)
+
