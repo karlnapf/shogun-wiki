@@ -4,7 +4,7 @@ The example generation tool simplifies the maintenance of shogun API examples ac
 Running the parser requires python and python-ply (included with many python distributions).
 
 ### Translating all examples in “examples/“ folder
-Running the following command will translate all programs in the “examples/” folder and generate translation for each target language. The translations are put in a new “outputs/“ folder. (You may also specify specific targets to translate to - run `$ ./generate.py --help` for more info)
+Running the following command will translate all programs in the “examples/” folder and generate translation for each target language. The translations are put in a new “outputs/“ folder. (You may also specify what targets to translate - run `$ ./generate.py --help` for more info):
 
 ```
 $ ./generate.py --input examples --output outputs 
@@ -72,7 +72,7 @@ OK
 ```
 # Writing examples
 
-The meta-language has a simple syntax. Statements in the language are either initialisations, assigments, expressions, or a print command. Shoguns modular class names are are built-in types of the language, along with the basic types `Int`, `Bool`, `Float`, `Real`, and `String`. Statements are separated by newlines. Single line comments are support by prepending the line with the symbol `#`.
+The meta-language has a simple syntax. Statements in the language are either initialisations, assigments, expressions, or a print command. Shoguns modular class names are are built-in types of the language, along with the basic types `Int`, `Bool`, `Float`, `Real`, and `String`. Statements are separated by newlines. Single line comments are supported by prepending the line with the symbol `#`.
 
 It is important to notice that this is a meta-language which is never directly compiled/interpreted and executed. To test an example it is therefore necessary to translate it to the target languages and run each of these translations in the respective languages.
 
@@ -85,7 +85,7 @@ Object variables can be initialised in two ways - by constructing the object or 
 CSVFile train_labels("label_train.csv”)
 ```
 
-The alternative way of initialising a variable is by simply assigning the variable to some object (copying). Here you must also specify a name and a type for the variable. Below are to examples of this type of initialisation.
+The alternative way of initialising a variable is by simply assigning the variable to some object (copying). Here you must also specify a name and a type for the variable. Below are two examples of this type of initialisation.
 
 ```
 bool knn_train = knn.train()
@@ -106,7 +106,7 @@ knn_train = False
 ```
 
 ### Expressions
-Expressions are used in assignment, function arguments, printing, and they can statements by themselves (used for side effects). Expressions are either a literal value, a method call, or an identifier. Below are examples of different expressions.
+Expressions are used in assignments, function arguments, printing, and they can be statements by themselves (used for side effects). Expressions are either a literal value, a method call, or an identifier. Below are examples of different expressions.
 
 ```
 # Literal values
