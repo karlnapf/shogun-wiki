@@ -6,7 +6,7 @@ Welcome to the Shogun wiki!
   * [Readme](https://github.com/shogun-toolbox/shogun/blob/develop/README.md)
   * [Quickstart](QUICKSTART)
   * [Installation](INSTALL)
-  * [Interfaces](INTERFACES)
+  * [Interfaces](https://github.com/shogun-toolbox/shogun/blob/develop/INTERFACES.md)
   * [Data](README_data)
   * [Developer](README_developer)
   * [CMake (build process)](README_cmake)
