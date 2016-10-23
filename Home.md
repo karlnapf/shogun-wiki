@@ -4,8 +4,9 @@ Welcome to the Shogun wiki!
 
 ### Readmes
   * [Readme](https://github.com/shogun-toolbox/shogun/blob/develop/README.md)
-  * [Installation](INSTALL)
   * [Quickstart](QUICKSTART)
+  * [Installation](INSTALL)
+  * [Interfaces](INTERFACES)
   * [Data](README_data)
   * [Developer](README_developer)
   * [CMake (build process)](README_cmake)
