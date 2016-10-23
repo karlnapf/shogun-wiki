@@ -40,7 +40,7 @@ We assume that you want to install shogun in a subdirectory `shogun-install` of
 your user home.  Installing shogun to system-directories is possible as well,
 but may require root/sudo privileges.
 
-	$ cd "$HOME/shogun-4.1.0"
+	$ cd "$HOME/shogun-4.2.0"
 
 	$ mkdir build
 	$ cd build
@@ -70,10 +70,6 @@ those you know what they do.
 * `-DPythonModular=ON`, `-DOctaveModular=ON`, `-DJavaModular=ON`,
 * `-DPerlModular=ON`, `-DRubyModular=ON`, `-DCSharpModular=ON`,
 * `-DRModular=ON`, `-DLuaModular=ON`
-
-## Enabling static interfaces (legacy)
-* `-DCmdLineStatic=ON`, `-DPythonStatic=ON`, `-DOctaveStatic=ON`
-* `-DMatlabStatic=ON`, `-DRStatic=ON`
 
 ## Handy cmake options
 * `-DCMAKE_BUILD_TYPE=Debug` or `-DCMAKE_BUILD_TYPE=Release`
