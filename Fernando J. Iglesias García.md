@@ -2,11 +2,6 @@
 Email: fernando.iglesiasg@gmail.com
 irc: iglesiasg
 
-### Personal
-Occupation: Marie Curie research fellow at [Thales Nederland](www.thalesgroup.com/en/homepage/netherlands) and PhD student at [the University of Twente](http://www.utwente.nl/en/), associated with [the faculty of EEMCS](http://www.utwente.nl/en/education/eemcs/).
-Research interests: statistical signal processing and information fusion. Mainly, the application of Bayesian statistics and Monte Carlo methods to target tracking.
-Other interests: machine learning in education and open source, the amazing evolution of robotics, competitive programming as a tool to improve problem solving skills, fitness, travel, and video games.
-
 ### Shogun
 Fernando got involved in Shogun back at the beginning of 2012 with the goal of becoming a GSoC student, which he did, starting [Shogun's framework for structured output learning](http://iglesiashogun.wordpress.com/2012/05/22/first-weekly-report-gsoc-2012/) under the supervision of [Nico Görnitz](http://www.user.tu-berlin.de/nico.goernitz/) and [Georg Zeller](http://www.bork.embl.de/~zeller/).
 
